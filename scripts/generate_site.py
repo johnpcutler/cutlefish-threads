@@ -16,6 +16,7 @@ HANDLE = "johncutlefish"
 TWEET_RE = re.compile(r"https://t\.co/\w+")
 YTD_PREFIX = re.compile(r"^window\.YTD\.[A-Za-z0-9_]+\.part\d+\s*=\s*")
 PBS_CODE = re.compile(r"/(?:media|img)/([A-Za-z0-9_-]+)\.")
+WORD_RE = re.compile(r"[A-Za-z0-9']+")
 
 
 def load_part(path: Path, part: str) -> list:
@@ -206,6 +207,7 @@ def archive_stats(archive: Path, tweets: list[dict], all_threads: list[tuple[dic
     replies = [t for t in tweets if t.get("in_reply_to_user_id")]
     replies_others = [t for t in replies if t.get("in_reply_to_user_id") != SELF_ID]
     pictures = sum(1 for t in tweets if tweet_media_items(t))
+    words = sum(len(WORD_RE.findall(expand_text(t))) for t in tweets)
     year_counts = Counter(d.year for d in created)
     peak_year, peak_count = year_counts.most_common(1)[0]
 
@@ -238,6 +240,7 @@ def archive_stats(archive: Path, tweets: list[dict], all_threads: list[tuple[dic
         "likes": sum(int(t.get("favorite_count") or 0) for t in tweets),
         "retweets_received": sum(int(t.get("retweet_count") or 0) for t in tweets),
         "pictures": pictures,
+        "words": words,
         "followers": followers,
         "following": following,
         "burst_threads": len(all_threads),

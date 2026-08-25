@@ -4,20 +4,26 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Threads · johncutlefish</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
   </head>
   <body data-page="threads">
-    <div class="wrap">
+    <div class="wrap wrap-wide">
       <nav class="site-nav">
         <a class="active" href="index.html">Threads</a>
         <a href="tweets.html">Top 400</a>
       </nav>
       <div id="intro" class="intro"></div>
       <p class="lede">Fifty original threads, loaded one at a time. A thread here is a burst of self-replies posted within an hour.</p>
-      <div id="thread-years" class="thread-years"></div>
-      <div id="reader"></div>
-      <p class="lede" id="more-label">More threads this year</p>
-      <div id="picker" class="picker"></div>
+      <div class="thread-shell">
+        <aside class="thread-pane">
+          <div id="thread-years" class="thread-years"></div>
+          <div id="picker" class="picker"></div>
+        </aside>
+        <div id="reader" class="thread-reader"></div>
+      </div>
     </div>
     <script src="app.js"></script>
   </body>

@@ -121,6 +121,10 @@ async function initThreads() {
       const payload = await loadJson(`data/threads/${id}.json`);
       if (token !== loadToken) return;
       readerEl.innerHTML = payload.tweets.map(renderPost).join("");
+      const shell = readerEl.closest(".thread-shell");
+      if (shell && (shell.getBoundingClientRect().top < 0 || window.innerWidth < 841)) {
+        shell.scrollIntoView({ block: "start" });
+      }
     } catch (err) {
       if (token !== loadToken) return;
       readerEl.innerHTML = `<p class="status">${escapeHtml(err.message)}</p>`;

@@ -2,6 +2,15 @@
   "month": "2020-03",
   "tweets": [
     {
+      "id": "1238195887303622656",
+      "date": "2020-03-12",
+      "datetime": "2020-03-12T20:11:18+00:00",
+      "likes": 351,
+      "rts": 100,
+      "text": "Now is not the time to worry about holding a 10% better remote standup. It is time to care for fellow humans. To connect.\n\nAny adding \"efficiency\" you get in the next 4-8w, or goals you hit, will be overwhelmingly offset by the how you show up for the humans you work with.",
+      "media": []
+    },
+    {
       "id": "1235740773989011456",
       "date": "2020-03-06",
       "datetime": "2020-03-06T01:35:34+00:00",

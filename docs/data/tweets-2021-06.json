@@ -13,6 +13,35 @@
       ]
     },
     {
+      "id": "1409184371693613058",
+      "date": "2021-06-27",
+      "datetime": "2021-06-27T16:18:30+00:00",
+      "likes": 360,
+      "rts": 53,
+      "text": "This shift is extremely important.\n\nWe are what we talk about and spend our time doing.\n\nCut your demo time and roadmap pitches in half, and replace that with reviewing past decisions and discussing strategy.",
+      "media": [
+        "media/1409184371693613058-E45tC1wUYAAjDHj.jpg"
+      ]
+    },
+    {
+      "id": "1407155289439162369",
+      "date": "2021-06-22",
+      "datetime": "2021-06-22T01:55:39+00:00",
+      "likes": 332,
+      "rts": 2,
+      "text": "Omg .. I just learned the trick of saying “well there are 3 key reasons.....” when you are collecting your thoughts so that your response is reasonably structured. Wtf, this whole time I thought people were geniuses.",
+      "media": []
+    },
+    {
+      "id": "1404925434203185159",
+      "date": "2021-06-15",
+      "datetime": "2021-06-15T22:15:00+00:00",
+      "likes": 337,
+      "rts": 46,
+      "text": "\"Stop throwing around the umbrella term of 'tech debt.' Name what you're facing as maintenance debt, developer efficiency debt, stability debt, security debt, technical product debt, and/or decision debt.\"\n\nName it to tame it.\n\nhttps://www.reforge.com/blog/managing-tech-debt?utm_term=&utm_content=techdebt",
+      "media": []
+    },
+    {
       "id": "1404104119837618177",
       "date": "2021-06-13",
       "datetime": "2021-06-13T15:51:23+00:00",

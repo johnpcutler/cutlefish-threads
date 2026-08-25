@@ -2,6 +2,26 @@
   "month": "2020-10",
   "tweets": [
     {
+      "id": "1321407617416056838",
+      "date": "2020-10-28",
+      "datetime": "2020-10-28T11:05:01+00:00",
+      "likes": 336,
+      "rts": 23,
+      "text": "must be me ... but I much prefer anti-product-visions to product visions. What will we NOT be. What will this NOT turn into.\n\nnot sure why, but I think it is because most product visions fail to tell me anything surprising.",
+      "media": []
+    },
+    {
+      "id": "1320503909908004865",
+      "date": "2020-10-25",
+      "datetime": "2020-10-25T23:14:00+00:00",
+      "likes": 364,
+      "rts": 55,
+      "text": "The @henrikkniberg original is a work of art.\n\nI respectfully add this “not like this...”",
+      "media": [
+        "media/1320503909908004865-ElNfTOmWMAEhlBG.jpg"
+      ]
+    },
+    {
       "id": "1315806382348615680",
       "date": "2020-10-13",
       "datetime": "2020-10-13T00:07:42+00:00",
@@ -40,6 +60,15 @@
       "media": [
         "media/1314372685627940864-Ej2WixjVkAANdSb.jpg"
       ]
+    },
+    {
+      "id": "1313760870422310914",
+      "date": "2020-10-07",
+      "datetime": "2020-10-07T08:39:34+00:00",
+      "likes": 369,
+      "rts": 70,
+      "text": "\"Why are you using that metric?\"\n\n\"It's a standard metric. Everyone tracks it.\"\n\n\"Why?\"\n\n\"It goes on our dashboards. The board looks at it. Everyone.\"\n\n\"But does it tell you? When I see it change, what is happening?\"\n\n....",
+      "media": []
     }
   ]
 }

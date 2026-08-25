@@ -1,0 +1,34 @@
+{
+  "month": "2018-12",
+  "tweets": [
+    {
+      "id": "1078511150357131264",
+      "date": "2018-12-28",
+      "datetime": "2018-12-28T04:41:10+00:00",
+      "likes": 373,
+      "rts": 91,
+      "text": "How do high performing proddev teams \"talk product\". I went back through notes from the last couple wks. What stands out most is how they confidently (yet humbly) embrace uncertainty\n\nThe difference between order takers and true product teams is stark #ux #prodmgmt #design",
+      "media": [
+        "media/1078511150357131264-DveiGSLUYAAt28w.jpg"
+      ]
+    },
+    {
+      "id": "1077846014990548993",
+      "date": "2018-12-26",
+      "datetime": "2018-12-26T08:38:10+00:00",
+      "likes": 341,
+      "rts": 64,
+      "text": "Someone should make a disspearing ticket plugin for #jira. Any ticket left untouched for n days just self-destructs. No intervention required.",
+      "media": []
+    },
+    {
+      "id": "1068937973289299970",
+      "date": "2018-12-01",
+      "datetime": "2018-12-01T18:40:47+00:00",
+      "likes": 347,
+      "rts": 121,
+      "text": "The trouble is that time is visible. Two weeks. Four weeks. A Deadline. Days, weeks, months.\n\nValue is often invisible...hard to link the impulse to the response.\n\nSo we over-index on time...time becomes the measure of doing a “good job”.",
+      "media": []
+    }
+  ]
+}

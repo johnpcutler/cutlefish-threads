@@ -155,7 +155,7 @@ def main() -> None:
     parser.add_argument("--archive", type=Path, default=Path("data"))
     parser.add_argument("--out", type=Path, default=Path("docs"))
     parser.add_argument("--threads", type=int, default=50)
-    parser.add_argument("--tweets", type=int, default=300)
+    parser.add_argument("--tweets", type=int, default=400)
     parser.add_argument("--max-gap-minutes", type=int, default=60)
     parser.add_argument("--min-tweets", type=int, default=3)
     args = parser.parse_args()

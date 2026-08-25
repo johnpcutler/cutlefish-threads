@@ -11,6 +11,24 @@
       "media": [
         "media/1087228715874975744-DxacXGmW0AEqkU7.jpg"
       ]
+    },
+    {
+      "id": "1085740078389841922",
+      "date": "2019-01-17",
+      "datetime": "2019-01-17T03:26:21+00:00",
+      "likes": 338,
+      "rts": 106,
+      "text": "observation\n* vague is easy\n* prescriptive is easy\n* being crystal clear w/o being prescriptive is hard\n\nLeaders often equate being vague w/empowerment, but IME ppl crave powerful, coherent context. And they want to have autonomy to solve the problem. Hard!\n\n#leadership",
+      "media": []
+    },
+    {
+      "id": "1084530536842809344",
+      "date": "2019-01-13",
+      "datetime": "2019-01-13T19:20:04+00:00",
+      "likes": 365,
+      "rts": 86,
+      "text": "All this focus on \"hiring more engineers!\" (and designers)... I wish we'd see equal focus on caring for existing teams and removing the drag, politics, dependencies, perverse incentives etc.\n\nI've seen teams increase value throughput by 2-3x w/o new hires. Scale what works.",
+      "media": []
     }
   ]
 }

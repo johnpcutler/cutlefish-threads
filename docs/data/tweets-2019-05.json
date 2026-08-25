@@ -2,6 +2,18 @@
   "month": "2019-05",
   "tweets": [
     {
+      "id": "1131942867549736960",
+      "date": "2019-05-24",
+      "datetime": "2019-05-24T15:19:44+00:00",
+      "likes": 358,
+      "rts": 69,
+      "text": "From: To Do | Doing | Doing\nTo:\nFocus On Next | Focusing | Review\nTo Try | Trying | Review\n\nSubtle shifts in language can be powerful.\nCombining the \"roadmap\" with \"a board\" can be powerful\n#prodmgmt #ux #design #leanagile",
+      "media": [
+        "media/1131942867549736960-D7V35-SW0AcPL40.jpg",
+        "media/1131942867549736960-D7V3xhuXoAIGtie.jpg"
+      ]
+    },
+    {
       "id": "1129496688882667520",
       "date": "2019-05-17",
       "datetime": "2019-05-17T21:19:30+00:00",
@@ -9,6 +21,17 @@
       "rts": 95,
       "text": "Beginning to think that 70hr weeks are spent handling the noise/lack of focus generated from other people working 70hr weeks. It is a wicked cycle that rarely helps the business...but that gives the *impression* that doing more at once is possible.",
       "media": []
+    },
+    {
+      "id": "1124782042787434496",
+      "date": "2019-05-04",
+      "datetime": "2019-05-04T21:05:11+00:00",
+      "likes": 333,
+      "rts": 55,
+      "text": "When asked for help in hiring a PM, I ask the person to force rank a list...\n#prodmgmt #ux #design\n\npost: https://medium.com/@johnpcutler/so-youre-hiring-a-product-manager-3959a0f519df?source=friends_link&sk=c5c2228eea0549d84ce509d09f2231e5",
+      "media": [
+        "media/1124782042787434496-D5wHLX9U8AAUOwP.jpg"
+      ]
     }
   ]
 }

@@ -2,6 +2,17 @@
   "month": "2018-08",
   "tweets": [
     {
+      "id": "1033068646208159744",
+      "date": "2018-08-24",
+      "datetime": "2018-08-24T19:08:53+00:00",
+      "likes": 340,
+      "rts": 74,
+      "text": "Product manager tip...have a 30s response for each of these questions ready at all times. Admit what you don’t know. Don’t make stuff up. Strive for coherence.\n\n#prodmgmt #productleadership",
+      "media": [
+        "media/1033068646208159744-DlYydF_UUAAJM9V.jpg"
+      ]
+    },
+    {
       "id": "1029757026895720449",
       "date": "2018-08-15",
       "datetime": "2018-08-15T15:49:41+00:00",

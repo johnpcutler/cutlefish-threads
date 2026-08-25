@@ -2,12 +2,30 @@
   "month": "2023-03",
   "tweets": [
     {
+      "id": "1641296982177382400",
+      "date": "2023-03-30",
+      "datetime": "2023-03-30T04:31:09+00:00",
+      "likes": 374,
+      "rts": 22,
+      "text": "Asked an engineer friend:\n\n\"Why do engineers who have the ability to switch jobs, stay in environments that are dysfunctional?\"\n\nAnswer:\n\n\"As long as it isn't unbearable, we assume the next place will be the same. Plus, with creativity, you can make any job fun.\"\n\nThoughts?",
+      "media": []
+    },
+    {
       "id": "1639675283593900032",
       "date": "2023-03-25",
       "datetime": "2023-03-25T17:07:05+00:00",
       "likes": 512,
       "rts": 68,
       "text": "Once you realize that 95% of prioritization frameworks are negotiation frameworks under the guise of objectivity it all becomes easier.",
+      "media": []
+    },
+    {
+      "id": "1639262933539598339",
+      "date": "2023-03-24",
+      "datetime": "2023-03-24T13:48:34+00:00",
+      "likes": 347,
+      "rts": 61,
+      "text": "Don’t bring me problems, bring me solutions is often code for “don’t remind me of the mess we’re in or how we got this way, just make the problem go away”\n\nThe crux issue is that without that core acceptance, progress is very hard.",
       "media": []
     },
     {

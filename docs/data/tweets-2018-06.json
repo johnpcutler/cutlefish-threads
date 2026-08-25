@@ -2,6 +2,15 @@
   "month": "2018-06",
   "tweets": [
     {
+      "id": "1012741499526602752",
+      "date": "2018-06-29",
+      "datetime": "2018-06-29T16:56:03+00:00",
+      "likes": 356,
+      "rts": 62,
+      "text": "To all my former and current teammates with kids ...\n\nI am SO SORRY if I ever did anything that downplayed how ****** hard this is. You were doing 3+ jobs (work,relationship,child).\n\nYou rock.",
+      "media": []
+    },
+    {
       "id": "1007700553307045889",
       "date": "2018-06-15",
       "datetime": "2018-06-15T19:05:08+00:00",
@@ -9,6 +18,17 @@
       "rts": 125,
       "text": "Agencies ....\n\nI always feel a bit bad for the in-house folks when an agency arrives and “the experts wow” execs.\n\nIn most cases, there are in-house ppl who had the chops, but were too dragged down and not empowered.\n\n#ux #design #servicedesign #agile",
       "media": []
+    },
+    {
+      "id": "1003024063848013824",
+      "date": "2018-06-02",
+      "datetime": "2018-06-02T21:22:26+00:00",
+      "likes": 344,
+      "rts": 130,
+      "text": "“How did you know that would happen?” ... junior PM\n\nA pattern library. And realizing patterns aren’t rules...they’re clues to pay attention.\n\n#agile #kanban #flow #prodmgmt",
+      "media": [
+        "media/1003024063848013824-Det1ETKUYAAOyOE.jpg"
+      ]
     }
   ]
 }

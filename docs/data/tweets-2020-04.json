@@ -2,6 +2,15 @@
   "month": "2020-04",
   "tweets": [
     {
+      "id": "1254175468837720065",
+      "date": "2020-04-25",
+      "datetime": "2020-04-25T22:28:27+00:00",
+      "likes": 343,
+      "rts": 42,
+      "text": "these are challenging times for micromanagers. remote presents some real hurdles.",
+      "media": []
+    },
+    {
       "id": "1247433939825774592",
       "date": "2020-04-07",
       "datetime": "2020-04-07T08:00:02+00:00",

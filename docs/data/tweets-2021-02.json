@@ -2,6 +2,35 @@
   "month": "2021-02",
   "tweets": [
     {
+      "id": "1365784686056759296",
+      "date": "2021-02-27",
+      "datetime": "2021-02-27T22:03:38+00:00",
+      "likes": 381,
+      "rts": 58,
+      "text": "new leaders....\n\nwicked loop\nvs.\ncatalyst loop",
+      "media": [
+        "media/1365784686056759296-EvQ9vjOUcAQ3phy.jpg"
+      ]
+    },
+    {
+      "id": "1364037460322263043",
+      "date": "2021-02-23",
+      "datetime": "2021-02-23T02:20:47+00:00",
+      "likes": 337,
+      "rts": 10,
+      "text": "Finalizing my 12w intro to PdM course\n\nWeek 1: Cal basics\nWeek 2: Scheduling\nWeek 3: Agendas\nWeek 4: Note-taking\nWeek 5: Facilitation\nWeek 6: Facilitation adv. topics\nWeek 7: Zoom\nWeek 8: Miro\nWeek 9: 1:1s\nWeek 10: 3 person meetings\nWeek 11: Kickoffs\nWeek 12: Recurring meetings",
+      "media": []
+    },
+    {
+      "id": "1362892316571176964",
+      "date": "2021-02-19",
+      "datetime": "2021-02-19T22:30:24+00:00",
+      "likes": 379,
+      "rts": 30,
+      "text": "Invariably, when I chat to product managers they say something like:\n\n\"I wish I had more time to be strategic, to be more thoughtful, to not be putting out fires, to not be juggling so many balls...\"\n\nWhat is getting in the way? Why is this so prevalent ?",
+      "media": []
+    },
+    {
       "id": "1362178500354928642",
       "date": "2021-02-17",
       "datetime": "2021-02-17T23:13:57+00:00",
@@ -17,6 +46,15 @@
       "likes": 520,
       "rts": 79,
       "text": "one big lesson of the last two years...\n\npassionate (and experienced) problem solvers want flexibility, but they expect meaningful and coherent context. they want to know how leaders see the situation.\n\nvague direction doesn't empower people",
+      "media": []
+    },
+    {
+      "id": "1360814223605993480",
+      "date": "2021-02-14",
+      "datetime": "2021-02-14T04:52:48+00:00",
+      "likes": 337,
+      "rts": 17,
+      "text": "PdM tip ....\n\nDon’t assume you need to learn everything that ppl like me and @shreyas and others rattle on about\n\nFocus on your immediate challenge. Clarify the problem. Seek relevant advice. Experiment. Reflect.\n\nApply product thinking to how you learn. Don’t get distracted.",
       "media": []
     },
     {

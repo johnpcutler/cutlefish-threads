@@ -2,6 +2,15 @@
   "month": "2022-10",
   "tweets": [
     {
+      "id": "1586441951259156480",
+      "date": "2022-10-29",
+      "datetime": "2022-10-29T19:36:50+00:00",
+      "likes": 337,
+      "rts": 33,
+      "text": "I want to thank anyone I know who works at or worked at Twitter. It truly changed the course of my life for the better. Thank you.",
+      "media": []
+    },
+    {
       "id": "1585788184620724225",
       "date": "2022-10-28",
       "datetime": "2022-10-28T00:19:00+00:00",
@@ -64,6 +73,15 @@
       "media": [
         "media/1580966378848235520-FfC4OL2VsAALlwx.jpg"
       ]
+    },
+    {
+      "id": "1580726497203011585",
+      "date": "2022-10-14",
+      "datetime": "2022-10-14T01:05:40+00:00",
+      "likes": 352,
+      "rts": 51,
+      "text": "Easiest:\nDoom and gloom\n\nEasy:\nSuccess theater\n\nHarder:\nAcknowledge reality\nInspire progress",
+      "media": []
     },
     {
       "id": "1578973973265932289",

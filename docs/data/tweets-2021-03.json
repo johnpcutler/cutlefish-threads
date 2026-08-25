@@ -13,6 +13,15 @@
       ]
     },
     {
+      "id": "1374524489694814211",
+      "date": "2021-03-24",
+      "datetime": "2021-03-24T00:52:30+00:00",
+      "likes": 332,
+      "rts": 28,
+      "text": "Wedding = project\nMarriage = product\n\n?",
+      "media": []
+    },
+    {
       "id": "1374006465527091204",
       "date": "2021-03-22",
       "datetime": "2021-03-22T14:34:03+00:00",
@@ -31,6 +40,29 @@
       "rts": 92,
       "text": "admission...\n\nI sometimes get so intimidated by how confidently silicon valley product folks discuss product management.\n\nso structured, so clear, so logical\n\nI've learned ... behind the scenes ... it is always hard. This is hard. It is often a mess. Even at their companies.",
       "media": []
+    },
+    {
+      "id": "1371722894405865473",
+      "date": "2021-03-16",
+      "datetime": "2021-03-16T07:19:58+00:00",
+      "likes": 372,
+      "rts": 56,
+      "text": "as a product manager ... everyone on your team should be able to go from \"the ticket\" up the chain of which-will-helps...\n\nbonus: \"we believe\" and \"we know\"",
+      "media": [
+        "media/1371722894405865473-EwlWNVZVEAYVnh9.jpg",
+        "media/1371722894405865473-EwlWiA3U8AUc8oy.jpg"
+      ]
+    },
+    {
+      "id": "1371292233081581573",
+      "date": "2021-03-15",
+      "datetime": "2021-03-15T02:48:40+00:00",
+      "likes": 352,
+      "rts": 60,
+      "text": "good roadmaps\n...not so good roadmaps",
+      "media": [
+        "media/1371292233081581573-EwfO7KZUYAAJ_uA.jpg"
+      ]
     },
     {
       "id": "1370298106319753219",
@@ -62,6 +94,15 @@
       "media": [
         "media/1368305369445920769-Ev0x9twVgAA4z9s.jpg"
       ]
+    },
+    {
+      "id": "1368244402771034112",
+      "date": "2021-03-06",
+      "datetime": "2021-03-06T16:57:41+00:00",
+      "likes": 336,
+      "rts": 51,
+      "text": "OH: \"think of documentation like a product, and not a process\"",
+      "media": []
     }
   ]
 }

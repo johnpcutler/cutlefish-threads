@@ -2,6 +2,15 @@
   "month": "2021-08",
   "tweets": [
     {
+      "id": "1432495138719223814",
+      "date": "2021-08-31",
+      "datetime": "2021-08-31T00:07:10+00:00",
+      "likes": 341,
+      "rts": 35,
+      "text": "It amazes me how many managers operate under the \"push people/teams until they crack and then back off a tad\" philosophy.",
+      "media": []
+    },
+    {
       "id": "1429532318528466945",
       "date": "2021-08-22",
       "datetime": "2021-08-22T19:53:58+00:00",

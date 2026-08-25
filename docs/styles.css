@@ -44,11 +44,6 @@ a:hover {
   max-width: 74rem;
 }
 
-.wrap-wide .intro,
-.wrap-wide .lede {
-  max-width: 42rem;
-}
-
 .site-nav {
   display: flex;
   gap: 1rem;
@@ -70,11 +65,19 @@ a:hover {
 }
 
 .intro {
+  width: 100%;
   margin: 0 0 1.75rem;
+  padding: 1.15rem 1.25rem 1.2rem;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--ink);
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  line-height: 1.5;
 }
 
 .intro p {
-  margin: 0 0 0.85rem;
+  margin: 0 0 0.7rem;
 }
 
 .intro p:last-child {
@@ -85,6 +88,10 @@ a:hover {
   color: var(--muted);
   font-size: 0.95rem;
   margin: 0 0 1.5rem;
+}
+
+.tweet-body {
+  max-width: 42rem;
 }
 
 .thread-years {

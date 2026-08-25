@@ -74,7 +74,8 @@ async function renderIntro() {
   if (!box) return;
   const stats = await loadJson("data/stats.json");
   box.innerHTML = `
-    <p>I started in December of 2015. I wrote ${formatNumber(stats.tweets)} tweets. ${formatNumber(stats.non_thread_replies)} were non-thread replies. ${formatNumber(stats.dms)} DMs with ${formatNumber(stats.dm_people)} people. Total likes ${formatNumber(stats.likes)}. Total retweets ${formatNumber(stats.retweets_received)}. I posted ${formatNumber(stats.pictures)} pictures, replied to ${formatNumber(stats.people_replied_to)} people, and ${formatNumber(stats.followers)} people followed along. And I met countless friends.</p>
+    <p>I started posting on Twitter in December of 2015. I wrote ${formatNumber(stats.tweets)} tweets. ${formatNumber(stats.non_thread_replies)} were non-thread replies. ${formatNumber(stats.dms)} DMs with ${formatNumber(stats.dm_people)} people. Total likes ${formatNumber(stats.likes)}. Total retweets ${formatNumber(stats.retweets_received)}. I posted ${formatNumber(stats.pictures)} pictures, replied to ${formatNumber(stats.people_replied_to)} people, and ${formatNumber(stats.followers)} people followed along. And I met countless friends.</p>
+    <p>I'm currently writing a newsletter at <a href="https://cutlefish.substack.com/" rel="noreferrer">cutlefish.substack.com</a>.</p>
     <p>Here are some of the more popular threads and standalone tweets.</p>
   `;
 }

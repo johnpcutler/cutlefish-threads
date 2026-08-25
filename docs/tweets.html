@@ -10,12 +10,13 @@
     <link rel="stylesheet" href="styles.css">
   </head>
   <body data-page="tweets">
-    <div class="wrap">
+    <div class="wrap wrap-wide">
       <nav class="site-nav">
         <a href="index.html">Threads</a>
         <a class="active" href="tweets.html">Top 500</a>
       </nav>
       <div id="intro" class="intro"></div>
+      <div class="tweet-body">
       <p class="lede">The 500 most-liked standalone tweets — not threads — browsed by month.</p>
       <div class="tweet-nav">
         <div id="tweet-years" class="year-row"></div>
@@ -26,6 +27,7 @@
         <button type="button" data-sort="likes">By likes</button>
       </div>
       <div id="tweet-list"></div>
+      </div>
     </div>
     <script src="app.js"></script>
   </body>

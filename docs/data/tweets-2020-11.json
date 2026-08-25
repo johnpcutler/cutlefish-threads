@@ -1,0 +1,45 @@
+{
+  "month": "2020-11",
+  "tweets": [
+    {
+      "id": "1332935673720913920",
+      "date": "2020-11-29",
+      "datetime": "2020-11-29T06:33:24+00:00",
+      "likes": 500,
+      "rts": 87,
+      "text": "some shifts....\n\neasy to talk about, but most need to be lived/experienced.",
+      "media": [
+        "media/1332935673720913920-En-EYwKVEAkcuRj.png"
+      ]
+    },
+    {
+      "id": "1329641977420288000",
+      "date": "2020-11-20",
+      "datetime": "2020-11-20T04:25:25+00:00",
+      "likes": 507,
+      "rts": 88,
+      "text": "Working group vs. team",
+      "media": [
+        "media/1329641977420288000-EnPWTQhVkAIqvhm.jpg"
+      ]
+    },
+    {
+      "id": "1329255458427658241",
+      "date": "2020-11-19",
+      "datetime": "2020-11-19T02:49:32+00:00",
+      "likes": 483,
+      "rts": 35,
+      "text": "Imagine how much easier picking a decent company to work for would be if you could try out a boss for four weeks before deciding to work there. And get health insurance. And a couple months of pay even if you left. https://twitter.com/paulg/status/1329094570056032264",
+      "media": []
+    },
+    {
+      "id": "1329203058715181056",
+      "date": "2020-11-18",
+      "datetime": "2020-11-18T23:21:19+00:00",
+      "likes": 386,
+      "rts": 48,
+      "text": "as simple as it sounds...\n\ntalking to the *actual* customer is a learned skill. realizing that you aren't the customer and can't impersonate them...is a learned skill.",
+      "media": []
+    }
+  ]
+}

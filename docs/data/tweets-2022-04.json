@@ -1,0 +1,36 @@
+{
+  "month": "2022-04",
+  "tweets": [
+    {
+      "id": "1518463618341228545",
+      "date": "2022-04-25",
+      "datetime": "2022-04-25T05:35:12+00:00",
+      "likes": 409,
+      "rts": 49,
+      "text": "\"we tore down the silos!\"\n\nme: \"how is it going?\"\n\n\"we're swimming in information overload, 100s of emails, 100s of Slacks, no one knows what the hell is going on, and we've basically institutionalized swimming in a huge gill-net of dependencies\"",
+      "media": []
+    },
+    {
+      "id": "1518361842342453248",
+      "date": "2022-04-24",
+      "datetime": "2022-04-24T22:50:47+00:00",
+      "likes": 1695,
+      "rts": 275,
+      "text": "20 things I've learned over the years as a systems (over)thinker ...\n\n(some advice I gave a friend, that may be helpful)",
+      "media": [
+        "media/1518361842342453248-FRJOBD0VEAA5YIb.png"
+      ]
+    },
+    {
+      "id": "1513244145275400192",
+      "date": "2022-04-10",
+      "datetime": "2022-04-10T19:54:53+00:00",
+      "likes": 1454,
+      "rts": 400,
+      "text": "“I am not a code monkey. I solve business problems with code. I need to understand that problem to do that well.” @BryanFinster",
+      "media": [
+        "media/1513244145275400192-FQAfh1LaQAAi27o.jpg"
+      ]
+    }
+  ]
+}

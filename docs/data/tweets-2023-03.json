@@ -1,0 +1,74 @@
+{
+  "month": "2023-03",
+  "tweets": [
+    {
+      "id": "1639675283593900032",
+      "date": "2023-03-25",
+      "datetime": "2023-03-25T17:07:05+00:00",
+      "likes": 512,
+      "rts": 68,
+      "text": "Once you realize that 95% of prioritization frameworks are negotiation frameworks under the guise of objectivity it all becomes easier.",
+      "media": []
+    },
+    {
+      "id": "1637833093892702209",
+      "date": "2023-03-20",
+      "datetime": "2023-03-20T15:06:53+00:00",
+      "likes": 722,
+      "rts": 51,
+      "text": "The best approach to managing tech debt is making sure to move jobs every couple years and get hired to do green field work each time.",
+      "media": []
+    },
+    {
+      "id": "1637570810033606656",
+      "date": "2023-03-19",
+      "datetime": "2023-03-19T21:44:40+00:00",
+      "likes": 537,
+      "rts": 56,
+      "text": "Long time coming but a while ago I asked Twitter to help define \"Product Thinking\". I finally got around to grouping the 120 odd responses...",
+      "media": [
+        "media/1637570810033606656-FrnQ2N-aAAE0gq2.png"
+      ]
+    },
+    {
+      "id": "1636868989082279938",
+      "date": "2023-03-17",
+      "datetime": "2023-03-17T23:15:53+00:00",
+      "likes": 408,
+      "rts": 62,
+      "text": "\"explain the cognitive biases at play that would lead to a product manager shipping a feature to get immediate value over improving the whole system of delivery that could increase throughput by 2x.\n\nDescribe their inner narrative with biases marked in parenthesis.\"",
+      "media": [
+        "media/1636868989082279938-FrdTgV1aUAAWoZ5.jpg"
+      ]
+    },
+    {
+      "id": "1634629784910323712",
+      "date": "2023-03-11",
+      "datetime": "2023-03-11T18:58:05+00:00",
+      "likes": 445,
+      "rts": 45,
+      "text": "Nothing says you underestimate your employees more than opening an “innovation lab”",
+      "media": []
+    },
+    {
+      "id": "1633979914197286913",
+      "date": "2023-03-09",
+      "datetime": "2023-03-09T23:55:44+00:00",
+      "likes": 416,
+      "rts": 49,
+      "text": "customers don't buy story points",
+      "media": []
+    },
+    {
+      "id": "1632564354800570368",
+      "date": "2023-03-06",
+      "datetime": "2023-03-06T02:10:48+00:00",
+      "likes": 476,
+      "rts": 51,
+      "text": "40 multiple choice questions you should be able to (eventually) answer about each item on your roadmap\n\nlink: https://docs.google.com/document/d/1eN9_jCv8oZPFrodFxcQjPpggIKxZFrenJE84KyaAbDU/edit?usp=sharing",
+      "media": [
+        "media/1632564354800570368-FqgIVSjaEAIuLQ-.jpg"
+      ]
+    }
+  ]
+}

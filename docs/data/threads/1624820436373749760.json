@@ -1,0 +1,111 @@
+{
+  "id": "1624820436373749760",
+  "tweets": [
+    {
+      "id": "1624820436373749760",
+      "date": "2023-02-12",
+      "datetime": "2023-02-12T17:19:14+00:00",
+      "likes": 1209,
+      "rts": 211,
+      "text": "Your team is burnt out. They are not getting anything done. Work is \"low quality\". You can see and feel those things.\n\nBut what you are seeing is an output of something—the downstream effects of other things happening.\n\nIn some companies this is a black box\n\n1/n",
+      "media": [
+        "media/1624820436373749760-FoyCNd3aYAE0T2t.png"
+      ]
+    },
+    {
+      "id": "1624820439447896065",
+      "date": "2023-02-12",
+      "datetime": "2023-02-12T17:19:15+00:00",
+      "likes": 31,
+      "rts": 0,
+      "text": "…they don’t have visibility into what’s happening.\n\nBut it is not that simple (of course).\n\nThe outputs are inputs into the black box. And the outputs input into the inputs.\n\n2/n",
+      "media": [
+        "media/1624820439447896065-FoyCjfBacAoQVeI.png"
+      ]
+    },
+    {
+      "id": "1624820443898318849",
+      "date": "2023-02-12",
+      "datetime": "2023-02-12T17:19:16+00:00",
+      "likes": 34,
+      "rts": 1,
+      "text": "Say the team reactively addresses quality issues.\n\nThis creates more “work” (the output inputs into the input), but it also leaves the team more burnt out and they make less-good decisions on whatever is going on in the box.\n\n3/n",
+      "media": []
+    },
+    {
+      "id": "1624820444988862464",
+      "date": "2023-02-12",
+      "datetime": "2023-02-12T17:19:16+00:00",
+      "likes": 38,
+      "rts": 3,
+      "text": "An executive walks in and says “we need visibility of what is going on in the box, give me a status check on everything!\"\n\nThis doesn’t tell you what’s really going on in the box though—it doesn’t explain the traffic light indicators. You still can’t see what is happening.\n\n4/n",
+      "media": [
+        "media/1624820444988862464-FoyCvHbaMAA3B2g.jpg"
+      ]
+    },
+    {
+      "id": "1624820447673204736",
+      "date": "2023-02-12",
+      "datetime": "2023-02-12T17:19:17+00:00",
+      "likes": 35,
+      "rts": 1,
+      "text": "In fact, it creates more inputs (more “work”), and stresses the people out working in the box…which becomes another input to what’s in the box.\n\n5/n",
+      "media": [
+        "media/1624820447673204736-FoyDh7OaIAAqHzf.jpg"
+      ]
+    },
+    {
+      "id": "1624820450542092289",
+      "date": "2023-02-12",
+      "datetime": "2023-02-12T17:19:17+00:00",
+      "likes": 27,
+      "rts": 2,
+      "text": "But now another person gets involved, they say “we should shine a light on what is in the box!”\n\nThis takes some explaining, bc the executive had their red, green, and orange. They had managers giving them status updates.\n\nBut the flashlight idea sounds reasonable…\n\n6/n",
+      "media": [
+        "media/1624820450542092289-FoyDtuLaAAEqkUh.jpg"
+      ]
+    },
+    {
+      "id": "1624820453188730880",
+      "date": "2023-02-12",
+      "datetime": "2023-02-12T17:19:18+00:00",
+      "likes": 44,
+      "rts": 6,
+      "text": "So they shine the light! And…\n\nShit gets real.\n\n7/n",
+      "media": [
+        "media/1624820453188730880-FoyEGh1aUAAMwlP.jpg"
+      ]
+    },
+    {
+      "id": "1624820456418344960",
+      "date": "2023-02-12",
+      "datetime": "2023-02-12T17:19:19+00:00",
+      "likes": 42,
+      "rts": 1,
+      "text": "First, this is another input into the box (which isn’t a black box anymore), and that adds stress.\n\nWhen people see what is inside the box, they find it incredibly overwhelming.\n\nSeeing the mess causes high cognitive load, which creates yet another input into the box.\n\n8/n",
+      "media": []
+    },
+    {
+      "id": "1624820457542385666",
+      "date": "2023-02-12",
+      "datetime": "2023-02-12T17:19:19+00:00",
+      "likes": 53,
+      "rts": 3,
+      "text": "The people in the box have been saying this for 18 months, and no one ever really listened!\n\nSo in comes the flashlight shiner, they shine the light, and all it does is bubble up all that accumulated resentment. What happens next?\n\nGuess...\n\n9/n",
+      "media": [
+        "media/1624820457542385666-FoyFNeFaQAAVMAA.jpg"
+      ]
+    },
+    {
+      "id": "1624820460130287618",
+      "date": "2023-02-12",
+      "datetime": "2023-02-12T17:19:20+00:00",
+      "likes": 146,
+      "rts": 12,
+      "text": "The bring in a new manager with low context.\n\nThe manager comes to the conclusion that better planning (packing even more work, and relying even more on estimates) will solve the problem.\n\nAnd our Andon cord puller leaves.\n\nAnd we go back to our black box.\n\nThe end 10/end",
+      "media": [
+        "media/1624820460130287618-FoyEuPoaEAEzgMt.jpg"
+      ]
+    }
+  ]
+}

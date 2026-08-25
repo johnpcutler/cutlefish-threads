@@ -1,0 +1,14 @@
+{
+  "month": "2020-04",
+  "tweets": [
+    {
+      "id": "1247433939825774592",
+      "date": "2020-04-07",
+      "datetime": "2020-04-07T08:00:02+00:00",
+      "likes": 415,
+      "rts": 69,
+      "text": "\"We've been doing OKRs for a year.\"\n\n\"Are they working?\"\n\n\"What do you mean?\"\n\n\"Do they help teams have more impact for customers?\"\n\n\"I thought they were more for internal alignment. For accountability. Something we just do.\"\n\n\"So that you can...\"\n\n\"Oh, I see...I'm not sure.\"",
+      "media": []
+    }
+  ]
+}

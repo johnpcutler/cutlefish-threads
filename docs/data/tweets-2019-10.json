@@ -1,0 +1,80 @@
+{
+  "month": "2019-10",
+  "tweets": [
+    {
+      "id": "1188572289727528960",
+      "date": "2019-10-27",
+      "datetime": "2019-10-27T21:44:51+00:00",
+      "likes": 655,
+      "rts": 186,
+      "text": "The telephone game...",
+      "media": [
+        "media/1188572289727528960-EH6oMdfU0AEVZz6.jpg"
+      ]
+    },
+    {
+      "id": "1188392378614214658",
+      "date": "2019-10-27",
+      "datetime": "2019-10-27T09:49:56+00:00",
+      "likes": 418,
+      "rts": 61,
+      "text": "\"roughly, what quarter will that be?\"\n\nno need for a timeline view.\n\nmore likely to get people thinking in terms of flow.",
+      "media": [
+        "media/1188392378614214658-EH4EkTsUUAAvex8.png"
+      ]
+    },
+    {
+      "id": "1187673908926771201",
+      "date": "2019-10-25",
+      "datetime": "2019-10-25T10:15:00+00:00",
+      "likes": 975,
+      "rts": 319,
+      "text": "Someone reminded me of this recently.\n\nCompany culture is...",
+      "media": [
+        "media/1187673908926771201-EHt3HyZVAAAlrwG.jpg"
+      ]
+    },
+    {
+      "id": "1185969051232718848",
+      "date": "2019-10-20",
+      "datetime": "2019-10-20T17:20:30+00:00",
+      "likes": 556,
+      "rts": 136,
+      "text": "We’re overburdening the #prodmgmt role\n\nPeople see this, and their first instinct is to unbundle...but in doing so they distance teams from users/customers/data (e.g. PM/PO)\n\nSo that is the puzzle. One thing is clear: they can’t do this alone.",
+      "media": [
+        "media/1185969051232718848-EHVoj4hUUAAvLxD.jpg"
+      ]
+    },
+    {
+      "id": "1184202672896798720",
+      "date": "2019-10-15",
+      "datetime": "2019-10-15T20:21:33+00:00",
+      "likes": 819,
+      "rts": 323,
+      "text": "20 years of org changes in 30 seconds.\n#prodmgmt #ux #design #agile",
+      "media": [
+        "media/1184202672896798720-3LawpVDzkKKXdbGI.mp4"
+      ]
+    },
+    {
+      "id": "1180750152245501954",
+      "date": "2019-10-06",
+      "datetime": "2019-10-06T07:42:28+00:00",
+      "likes": 759,
+      "rts": 190,
+      "text": "OH: “I’m getting sick of sports team examples...they spend 90% of their time training and practicing, and 10% playing. We spend 90% of our time heads-down working, and 10% focusing on improving”\n\nThey have a point.",
+      "media": []
+    },
+    {
+      "id": "1179862496863088640",
+      "date": "2019-10-03",
+      "datetime": "2019-10-03T20:55:14+00:00",
+      "likes": 444,
+      "rts": 101,
+      "text": "I found it! I found it! I found the CUSTOMER IN A CIRCLE!\n\nThe customer is now in a circle!! Near a double-diamond!!\n\nMy feedback on 4.0 heard. 🙏😥🤲\n\n#agile",
+      "media": [
+        "media/1179862496863088640-EF-2rrdUcAAAvj_.jpg"
+      ]
+    }
+  ]
+}

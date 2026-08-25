@@ -1,0 +1,43 @@
+{
+  "month": "2021-01",
+  "tweets": [
+    {
+      "id": "1352334326902362113",
+      "date": "2021-01-21",
+      "datetime": "2021-01-21T19:16:43+00:00",
+      "likes": 578,
+      "rts": 56,
+      "text": "50% of product management\n\nsaying the same things over and over again with slight modifications and tweaks until the message has landed ... only to worry that this wasn't the right message in the first place.",
+      "media": []
+    },
+    {
+      "id": "1351759191061368833",
+      "date": "2021-01-20",
+      "datetime": "2021-01-20T05:11:20+00:00",
+      "likes": 719,
+      "rts": 72,
+      "text": "I really like this style of one year roadmap ...\n\nkeeping options open. progressive refinement. commit at the last responsible moment\n\noutcome oriented 1 pagers.\n\nthe key is agreeing as a team on the resolution for 1 pagers (e.g. 1-3 months).",
+      "media": [
+        "media/1351759191061368833-EsJpiS7VgAMNb5e.jpg"
+      ]
+    },
+    {
+      "id": "1348871882053808128",
+      "date": "2021-01-12",
+      "datetime": "2021-01-12T05:58:12+00:00",
+      "likes": 545,
+      "rts": 3,
+      "text": "checking my sanity ...\n\nanyone else still social distancing, wearing a mask, not traveling, mostly ordering stuff to be delivered, and (reluctantly) spending their whole risk budget on daycare for their kid(s) so they can still work?",
+      "media": []
+    },
+    {
+      "id": "1348727403774844928",
+      "date": "2021-01-11",
+      "datetime": "2021-01-11T20:24:05+00:00",
+      "likes": 570,
+      "rts": 76,
+      "text": "most companies need some type of systems thinking / service design / holistic perspective that spans departments ... and most companies are not designed to empower those roles.",
+      "media": []
+    }
+  ]
+}

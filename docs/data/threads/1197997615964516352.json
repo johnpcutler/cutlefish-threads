@@ -1,0 +1,93 @@
+{
+  "id": "1197997615964516352",
+  "tweets": [
+    {
+      "id": "1197997615964516352",
+      "date": "2019-11-22",
+      "datetime": "2019-11-22T21:57:44+00:00",
+      "likes": 940,
+      "rts": 322,
+      "text": "Some common loops #proddev #systems\n\n1/7 Why does that team seem to always take on too much work?",
+      "media": [
+        "media/1197997615964516352-EKAkeukU4AIsajP.png"
+      ]
+    },
+    {
+      "id": "1197997622889287680",
+      "date": "2019-11-22",
+      "datetime": "2019-11-22T21:57:45+00:00",
+      "likes": 63,
+      "rts": 7,
+      "text": "2/7 Why does that shared resource seem to be perpetually under-staffed?",
+      "media": [
+        "media/1197997622889287680-EKAkfJbU4AAj8CM.png"
+      ]
+    },
+    {
+      "id": "1197997629793112065",
+      "date": "2019-11-22",
+      "datetime": "2019-11-22T21:57:47+00:00",
+      "likes": 61,
+      "rts": 14,
+      "text": "3/7 Why does the team keep slipping into planning big batches?",
+      "media": [
+        "media/1197997629793112065-EKAkfiwU8AAyq7d.png"
+      ]
+    },
+    {
+      "id": "1197997636411785216",
+      "date": "2019-11-22",
+      "datetime": "2019-11-22T21:57:48+00:00",
+      "likes": 57,
+      "rts": 9,
+      "text": "4/7 Why does a myopic focus on increasing velocity eventually hurt quality?",
+      "media": [
+        "media/1197997636411785216-EKAkf8xVUAE00FM.png"
+      ]
+    },
+    {
+      "id": "1197997644708114432",
+      "date": "2019-11-22",
+      "datetime": "2019-11-22T21:57:50+00:00",
+      "likes": 43,
+      "rts": 6,
+      "text": "5/7 Why are the team’s stories never “good enough” ?",
+      "media": [
+        "media/1197997644708114432-EKAkgXmVUAAafN7.png"
+      ]
+    },
+    {
+      "id": "1197997651108564992",
+      "date": "2019-11-22",
+      "datetime": "2019-11-22T21:57:52+00:00",
+      "likes": 42,
+      "rts": 3,
+      "text": "6/7 Why does my team hide things from me?",
+      "media": [
+        "media/1197997651108564992-EKAkgzxVAAAC0kB.png"
+      ]
+    },
+    {
+      "id": "1197997657194500096",
+      "date": "2019-11-22",
+      "datetime": "2019-11-22T21:57:53+00:00",
+      "likes": 50,
+      "rts": 5,
+      "text": "7/7 Well…you saw what happened when we tried to just hand them a problem, right?",
+      "media": [
+        "media/1197997657194500096-EKAkhKOU8AAavBI.png"
+      ]
+    },
+    {
+      "id": "1197997664702328832",
+      "date": "2019-11-22",
+      "datetime": "2019-11-22T21:57:55+00:00",
+      "likes": 133,
+      "rts": 21,
+      "text": "BONUS (that wraps up lots of these)",
+      "media": [
+        "media/1197997664702328832-EKAkhjUU0AAdTxp.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "month": "2020-01",
+  "tweets": [
+    {
+      "id": "1223131275810066432",
+      "date": "2020-01-31",
+      "datetime": "2020-01-31T06:29:55+00:00",
+      "likes": 730,
+      "rts": 180,
+      "text": "Massively underestimated:\n\nThe “cost” of people coming to work knowing things are broken &amp; fearing the next thing breaking.\n\nThis holds for usability issues, “bugs”, “quality”, elephants in the room, strategy misalignment...anything.\n\nThe drag and dissonance is extremely costly.",
+      "media": []
+    },
+    {
+      "id": "1222418853935796226",
+      "date": "2020-01-29",
+      "datetime": "2020-01-29T07:19:00+00:00",
+      "likes": 883,
+      "rts": 152,
+      "text": "design and developers weigh in on the \"best\" product manager they've worked with...",
+      "media": [
+        "media/1222418853935796226-EPbndwzU8AAF7fq.jpg"
+      ]
+    },
+    {
+      "id": "1213152260814970882",
+      "date": "2020-01-03",
+      "datetime": "2020-01-03T17:36:52+00:00",
+      "likes": 405,
+      "rts": 111,
+      "text": "Quick fix for 2020\n\nRelabel your “done” column and/or add a column for measuring/monitoring.\n\nFor each item, do a quick review. What have you learned?\n\nDone is rarely done.",
+      "media": []
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "month": "2022-03",
+  "tweets": [
+    {
+      "id": "1509286943372181506",
+      "date": "2022-03-30",
+      "datetime": "2022-03-30T21:50:23+00:00",
+      "likes": 514,
+      "rts": 59,
+      "text": "An important section missing in many one-pagers\n\nwhy now\n\nlots of things are \"problems\"\nlots of things are \"good ideas\"\n\nbut that doesn't mean you have do them now",
+      "media": []
+    },
+    {
+      "id": "1507180757957062676",
+      "date": "2022-03-25",
+      "datetime": "2022-03-25T02:21:09+00:00",
+      "likes": 419,
+      "rts": 58,
+      "text": "fascinating quote from some research:\n\n\"It is amazing how quickly you lose your skills and instincts when you work in an environment where you have no time to think... it really hurt me when I tried to get my next job\"",
+      "media": []
+    },
+    {
+      "id": "1506030774968938498",
+      "date": "2022-03-21",
+      "datetime": "2022-03-21T22:11:32+00:00",
+      "likes": 408,
+      "rts": 58,
+      "text": "why did the product manager cross the road?",
+      "media": []
+    },
+    {
+      "id": "1504709084435599362",
+      "date": "2022-03-18",
+      "datetime": "2022-03-18T06:39:36+00:00",
+      "likes": 442,
+      "rts": 37,
+      "text": "product management is 90% forecasting...\n\n...forecasting whether anyone will read your doc",
+      "media": []
+    },
+    {
+      "id": "1502734939405447171",
+      "date": "2022-03-12",
+      "datetime": "2022-03-12T19:55:03+00:00",
+      "likes": 439,
+      "rts": 95,
+      "text": "YAGNI\n\"You aren't gonna need it\"\n\n....is an important concept\n\nbut so is YAGFIL\n\"you're not going to fix it later\"\n\nbasically, own up to the fact that even if you rationalize you're going to fix it later... you probably aren't going to",
+      "media": []
+    },
+    {
+      "id": "1502445364204367872",
+      "date": "2022-03-12",
+      "datetime": "2022-03-12T00:44:23+00:00",
+      "likes": 411,
+      "rts": 37,
+      "text": "A reminder I have near my desk.\n\nTeaching is hard. Way easier than talking about something you’re good at.",
+      "media": [
+        "media/1502445364204367872-FNnCGD_VQAEcZh8.jpg"
+      ]
+    },
+    {
+      "id": "1502389521421258753",
+      "date": "2022-03-11",
+      "datetime": "2022-03-11T21:02:29+00:00",
+      "likes": 535,
+      "rts": 76,
+      "text": "Product work involves making decisions.\n\nDifferent types of decisions...",
+      "media": [
+        "media/1502389521421258753-FNmOT_FVUAErBlQ.jpg"
+      ]
+    },
+    {
+      "id": "1501581549048713217",
+      "date": "2022-03-09",
+      "datetime": "2022-03-09T15:31:53+00:00",
+      "likes": 401,
+      "rts": 46,
+      "text": "quote from a CTO\n\n\"If I'm honest with myself, I'm not really up on certain new ways of working. I get the theory. But it has been more than decade since I worked on a team. I recently took a full week off to be a member of one of our teams, and my god things are different\"",
+      "media": []
+    },
+    {
+      "id": "1501231733399646209",
+      "date": "2022-03-08",
+      "datetime": "2022-03-08T16:21:51+00:00",
+      "likes": 387,
+      "rts": 28,
+      "text": "\"We're so busy! We don't have time to write one-pagers! Do you have something more lightweight?\"\n\nGrab a notecard my friend....",
+      "media": [
+        "media/1501231733399646209-FNVyQotVkAUGhZO.jpg"
+      ]
+    },
+    {
+      "id": "1500218848745701376",
+      "date": "2022-03-05",
+      "datetime": "2022-03-05T21:17:00+00:00",
+      "likes": 527,
+      "rts": 52,
+      "text": "internal platform product management is an order of magnitude harder than customer-facing PdM (in my opinion)\n\n...and in most/many cases there's an order of magnitude LESS support, training, care, and infrastructure/ops, and education to help those PMs",
+      "media": []
+    },
+    {
+      "id": "1500022347440410624",
+      "date": "2022-03-05",
+      "datetime": "2022-03-05T08:16:11+00:00",
+      "likes": 427,
+      "rts": 58,
+      "text": "me: \"you seem great at estimation... what is your secret?\"\n\n\"overestimation\"",
+      "media": []
+    },
+    {
+      "id": "1499772366087340037",
+      "date": "2022-03-04",
+      "datetime": "2022-03-04T15:42:51+00:00",
+      "likes": 436,
+      "rts": 63,
+      "text": "I feel terrible for the new \"product teams\" in massive enterprises being saddled with an OKR process.\n\nWhat a waste of time.\n\nThere are like ten pre-requisites before these can be even remotely useful (most that have nothing to do with teams),\n\na",
+      "media": []
+    },
+    {
+      "id": "1499127372053823490",
+      "date": "2022-03-02",
+      "datetime": "2022-03-02T20:59:52+00:00",
+      "likes": 5210,
+      "rts": 359,
+      "text": "GoogleDocs whaaaaaaaat?",
+      "media": [
+        "media/1499127372053823490-FM34ZSWVQAEjhQ5.jpg"
+      ]
+    }
+  ]
+}

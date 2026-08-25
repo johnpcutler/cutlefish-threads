@@ -1,0 +1,78 @@
+{
+  "month": "2023-01",
+  "tweets": [
+    {
+      "id": "1618038878170132480",
+      "date": "2023-01-25",
+      "datetime": "2023-01-25T00:11:44+00:00",
+      "likes": 412,
+      "rts": 31,
+      "text": "it is entirely possible to ship product faster than customers can absorb change",
+      "media": []
+    },
+    {
+      "id": "1617258138159435776",
+      "date": "2023-01-22",
+      "datetime": "2023-01-22T20:29:21+00:00",
+      "likes": 1065,
+      "rts": 122,
+      "text": "Someone asked me to describe my \"system\" for product alignment in a single page. Challenge accepted: https://docs.google.com/document/d/1wDqFvVktoHdYGVl3l88Y8PxtM33Gy183I5CRZcWH9NA/edit?usp=sharing",
+      "media": [
+        "media/1617258138159435776-FnGnD6aaYAA-CGo.png"
+      ]
+    },
+    {
+      "id": "1615926654983090177",
+      "date": "2023-01-19",
+      "datetime": "2023-01-19T04:18:31+00:00",
+      "likes": 751,
+      "rts": 105,
+      "text": "lots of  people *still* view software product development this way",
+      "media": [
+        "media/1615926654983090177-FmzsbU8aMAI7zvX.jpg"
+      ]
+    },
+    {
+      "id": "1615161018598199297",
+      "date": "2023-01-17",
+      "datetime": "2023-01-17T01:36:09+00:00",
+      "likes": 611,
+      "rts": 48,
+      "text": "How a product manager and developers on a team perceived their respective responsibilities (and shared responsibilities)",
+      "media": [
+        "media/1615161018598199297-Fmo0M5WaUAETyL2.jpg"
+      ]
+    },
+    {
+      "id": "1613685330590470145",
+      "date": "2023-01-12",
+      "datetime": "2023-01-12T23:52:18+00:00",
+      "likes": 995,
+      "rts": 128,
+      "text": "How to think about Bets, Success Metrics, and Roadmapping\n\nHad to move around this mini-book, but here's the new link: https://docs.google.com/document/d/1XRx4p8cvA7r8RujYQhqFyTBSFAY7L9XJw_sifivRIaY/edit?usp=sharing",
+      "media": [
+        "media/1613685330590470145-FmT2JmzagAEAn5a.jpg"
+      ]
+    },
+    {
+      "id": "1610771837918785544",
+      "date": "2023-01-04",
+      "datetime": "2023-01-04T22:55:07+00:00",
+      "likes": 541,
+      "rts": 41,
+      "text": "\"I highly recommend that the developer who wrote this function take some time to review basic OOP principles before attempting to contribute to this codebase again. This pull request is not fit for review in its current state.\"",
+      "media": [
+        "media/1610771837918785544-FlqcWeIaMAAw8mB.jpg"
+      ]
+    },
+    {
+      "id": "1610385892463759366",
+      "date": "2023-01-03",
+      "datetime": "2023-01-03T21:21:30+00:00",
+      "likes": 583,
+      "rts": 27,
+      "text": "My prediction is that this will fail. And the people who call it out are makers who feel they are lacking strategic context and are being treated like cog automatons. https://twitter.com/CanadaKaz/status/1610274381267099650",
+      "media": []
+    }
+  ]
+}

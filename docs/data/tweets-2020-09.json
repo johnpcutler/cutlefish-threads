@@ -1,0 +1,45 @@
+{
+  "month": "2020-09",
+  "tweets": [
+    {
+      "id": "1309453979193978881",
+      "date": "2020-09-25",
+      "datetime": "2020-09-25T11:25:31+00:00",
+      "likes": 501,
+      "rts": 102,
+      "text": "One of the weird misinterpretations of “mvp” is that somehow you should start minimal because minimal might be sufficient.\n\n“Ship it and hopefully we can move on”\n\nInstead it is the smallest thing you need to do to learn something*\n\n*with the intent of acting on that",
+      "media": []
+    },
+    {
+      "id": "1306622930416070656",
+      "date": "2020-09-17",
+      "datetime": "2020-09-17T15:55:57+00:00",
+      "likes": 461,
+      "rts": 51,
+      "text": "Product development superpower\n\nBeing highly skeptical and highly optimistic at the same time.",
+      "media": []
+    },
+    {
+      "id": "1304952408854810625",
+      "date": "2020-09-13",
+      "datetime": "2020-09-13T01:17:53+00:00",
+      "likes": 1081,
+      "rts": 166,
+      "text": "The week of a product manager...\n\n(Thought, maybe the roll is over-burdened)",
+      "media": [
+        "media/1304952408854810625-EhwfTDlU0AAO2lD.jpg"
+      ]
+    },
+    {
+      "id": "1304289906680713217",
+      "date": "2020-09-11",
+      "datetime": "2020-09-11T05:25:20+00:00",
+      "likes": 547,
+      "rts": 85,
+      "text": "This is so \"basic\" ... but I am amazed how many teams jump into doing process stuff without a basic understanding of the Why and Why Not.",
+      "media": [
+        "media/1304289906680713217-EhnENsjU0AAmqcN.jpg"
+      ]
+    }
+  ]
+}

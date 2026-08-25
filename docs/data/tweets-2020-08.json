@@ -1,0 +1,63 @@
+{
+  "month": "2020-08",
+  "tweets": [
+    {
+      "id": "1299944674350649345",
+      "date": "2020-08-30",
+      "datetime": "2020-08-30T05:38:56+00:00",
+      "likes": 418,
+      "rts": 59,
+      "text": "OK, this probably deserves some explanation:\n\nPjM:\nSchedule? How much? On track? Budget? Requirements? Tasks? Change orders? T&amp;M? Contracts? Delivery risk?\n\nPdM:\nOptions. Why? Why this? Who? How? Opportunity? Context? Benefits? Market/Competitors? Experiments. Value risk? https://twitter.com/johncutlefish/status/1299889912808837120",
+      "media": []
+    },
+    {
+      "id": "1299889912808837120",
+      "date": "2020-08-30",
+      "datetime": "2020-08-30T02:01:20+00:00",
+      "likes": 484,
+      "rts": 38,
+      "text": "if you're working on a project ... hire a great project manager.\n\nMany of the best product managers I know are lousy at project management.",
+      "media": []
+    },
+    {
+      "id": "1298399603834814465",
+      "date": "2020-08-25",
+      "datetime": "2020-08-25T23:19:23+00:00",
+      "likes": 799,
+      "rts": 160,
+      "text": "Going to use this as my opening slide for a bit...",
+      "media": [
+        "media/1298399603834814465-EgTXSu_U4AErYuG.png"
+      ]
+    },
+    {
+      "id": "1298030257455292417",
+      "date": "2020-08-24",
+      "datetime": "2020-08-24T22:51:44+00:00",
+      "likes": 763,
+      "rts": 197,
+      "text": "imagine if ppl put as much rigor into the \"why should we do this\" vs. the \"when will this be done\".",
+      "media": []
+    },
+    {
+      "id": "1297224211669213184",
+      "date": "2020-08-22",
+      "datetime": "2020-08-22T17:28:47+00:00",
+      "likes": 605,
+      "rts": 147,
+      "text": "During the pandemic ... a company’s ability to prevent burnout / attrition vs. its competitors is probably more important than anything it can ship.",
+      "media": []
+    },
+    {
+      "id": "1290917588956884994",
+      "date": "2020-08-05",
+      "datetime": "2020-08-05T07:48:31+00:00",
+      "likes": 414,
+      "rts": 124,
+      "text": "Company culture is ...",
+      "media": [
+        "media/1290917588956884994-EepCtFBUEAAqkFv.jpg"
+      ]
+    }
+  ]
+}

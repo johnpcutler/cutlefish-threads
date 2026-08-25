@@ -1,0 +1,16 @@
+{
+  "month": "2017-06",
+  "tweets": [
+    {
+      "id": "873797258566787072",
+      "date": "2017-06-11",
+      "datetime": "2017-06-11T07:01:15+00:00",
+      "likes": 909,
+      "rts": 550,
+      "text": "Why are we going so slow?\n(Ignores large elephant walking across room)\n\n#agile #kanban #kaizen #retrospective",
+      "media": [
+        "media/873797258566787072-DCBZ-RLUAAAS010.jpg"
+      ]
+    }
+  ]
+}

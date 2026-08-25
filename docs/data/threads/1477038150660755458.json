@@ -1,0 +1,239 @@
+{
+  "id": "1477038150660755458",
+  "tweets": [
+    {
+      "id": "1477038150660755458",
+      "date": "2021-12-31",
+      "datetime": "2021-12-31T22:05:11+00:00",
+      "likes": 1218,
+      "rts": 189,
+      "text": "What actual, specific, behaviors would we observe if someone was good at product thinking?\n\nSpecific enough that someone without a lot of tacit knowledge would be able to say “that’s happening”.",
+      "media": []
+    },
+    {
+      "id": "1477048082705489926",
+      "date": "2021-12-31",
+      "datetime": "2021-12-31T22:44:39+00:00",
+      "likes": 124,
+      "rts": 7,
+      "text": "some off hand\n\n1/n\n\nBetter Proxies for Value. We'd observe them challenge a \"success metric\" and ask if there was a better proxy for actual value exchange. Fewer overt vanity metrics (or at a minimum, leading indicators mapped to trailing indicators)",
+      "media": []
+    },
+    {
+      "id": "1477048428618149888",
+      "date": "2021-12-31",
+      "datetime": "2021-12-31T22:46:02+00:00",
+      "likes": 66,
+      "rts": 1,
+      "text": "2/n\n\nConsider multiple options. We'd observe them weighing a range of options to achieve the same effect (vs. simply prioritizing a list). \"Well... some potential experiments might include...\"",
+      "media": []
+    },
+    {
+      "id": "1477048730121474051",
+      "date": "2021-12-31",
+      "datetime": "2021-12-31T22:47:14+00:00",
+      "likes": 117,
+      "rts": 4,
+      "text": "3/n\n\nUnpack problems into distinct problems. When given a problem statement, we'd observe them say something like \"that is actually four problems rolled into one\". Then they'd list them. The resulting mental model would help the team move forward",
+      "media": []
+    },
+    {
+      "id": "1477049197010378753",
+      "date": "2021-12-31",
+      "datetime": "2021-12-31T22:49:05+00:00",
+      "likes": 58,
+      "rts": 1,
+      "text": "4/n\n\nAn ecosystem view / value network view. This is tough to describe, but when thinking about a product they are able to imagine it as many potential products grouped together in different ways. E.g. \"well a competitor could just focus on X\" or \"we'll group Y and Z\"",
+      "media": []
+    },
+    {
+      "id": "1477049854589210624",
+      "date": "2021-12-31",
+      "datetime": "2021-12-31T22:51:42+00:00",
+      "likes": 61,
+      "rts": 2,
+      "text": "5/n\n\n\"Horizon dexterity\" or \"Resolution dexterity\". We'd observe them being able to go \"up and down the tree\" from specific feature properties, all the way up to big, multi-year strategic bets. They're able to go up/down at will.",
+      "media": []
+    },
+    {
+      "id": "1477050647518138369",
+      "date": "2021-12-31",
+      "datetime": "2021-12-31T22:54:51+00:00",
+      "likes": 74,
+      "rts": 1,
+      "text": "6/n\n\n\"Opportunity cost mental model\". We'd observe them have a keen sense of the time/value aspect of value creation. Instead of viewing the \"investment\" as dev time, they view the \"investment\" as the potential outcomes that could have been achieved during that time period",
+      "media": []
+    },
+    {
+      "id": "1477051144694231040",
+      "date": "2021-12-31",
+      "datetime": "2021-12-31T22:56:49+00:00",
+      "likes": 47,
+      "rts": 0,
+      "text": "7/n\n\n\"Need dexterity\". Products can meet functional needs all the way up to deep non-functional, emotional needs. We'd observe them communicate both with equal weight. E.g. \"we're providing them them the confidence to X\" AND \"we're helping them do Y more efficiently\"",
+      "media": []
+    },
+    {
+      "id": "1477051552204419075",
+      "date": "2021-12-31",
+      "datetime": "2021-12-31T22:58:26+00:00",
+      "likes": 54,
+      "rts": 0,
+      "text": "8/n\n\nAwareness of 2nd and 3rd order effects. We'd observe them highlight the risk of unintended consequences. The ability to have a \"win\" in the short-term that would lead to problems down the road. Improving X while cannibalizing Y.",
+      "media": []
+    },
+    {
+      "id": "1477052502029729793",
+      "date": "2021-12-31",
+      "datetime": "2021-12-31T23:02:13+00:00",
+      "likes": 46,
+      "rts": 1,
+      "text": "9/n\n\nAwareness of \"driver overload\". We'd observe them raise the flag when an effort was trying to \"solve too many problems\" and/or was trying to navigating too many constraints.\n\nIn the sense that instead of believing they can juggle more, they'd limit the # of balls",
+      "media": []
+    },
+    {
+      "id": "1477054298554990595",
+      "date": "2021-12-31",
+      "datetime": "2021-12-31T23:09:21+00:00",
+      "likes": 43,
+      "rts": 1,
+      "text": "10/n\n\nGenuine student of products. This is a tough one, but there's something here. We'd observe them keeping tabs on various products, trying to understand what teams were thinking, revel in interesting approaches, and be disappointed when a fave product went off the rails",
+      "media": []
+    },
+    {
+      "id": "1477055021241962496",
+      "date": "2021-12-31",
+      "datetime": "2021-12-31T23:12:14+00:00",
+      "likes": 39,
+      "rts": 1,
+      "text": "11/n\n\nResist generalizing. We'd observe them resisting efforts to group things/people/efforts together arbitrarily or in overly-broad categories. So, for example, when describing the \"target persona\", they'd opt to surface the actual clusters vs. a simplified model.",
+      "media": []
+    },
+    {
+      "id": "1477056268967702533",
+      "date": "2021-12-31",
+      "datetime": "2021-12-31T23:17:11+00:00",
+      "likes": 35,
+      "rts": 0,
+      "text": "12/n\n\nSeek commercial viability. We'd observe them asking whether ultimately there's a business \"here\". This probably translates to non-profits and governments as well, but the question is whether there's something sustainable possible. Can this sustain?",
+      "media": []
+    },
+    {
+      "id": "1477057550419824641",
+      "date": "2021-12-31",
+      "datetime": "2021-12-31T23:22:17+00:00",
+      "likes": 47,
+      "rts": 1,
+      "text": "13/n\n\nBias to get out of the building. When hitting a wall of some sort, we'd observe them making a big effort to get out of their head, and get out of the building somehow. Just recognizing this point is a key skill. \"We're way too up in our head here\"",
+      "media": []
+    },
+    {
+      "id": "1477058501348192256",
+      "date": "2021-12-31",
+      "datetime": "2021-12-31T23:26:03+00:00",
+      "likes": 42,
+      "rts": 0,
+      "text": "14/n\n\nAware of the cumulative value of focus. Harder to describe, but we'd observe them advocating for \"staying focused\" in potentially unnaturally or seemingly pedantic ways. Because...they have a \"sense\" of how focus pays dividends over longer periods. It \"adds up\"",
+      "media": []
+    },
+    {
+      "id": "1477060177727680514",
+      "date": "2021-12-31",
+      "datetime": "2021-12-31T23:32:43+00:00",
+      "likes": 39,
+      "rts": 0,
+      "text": "15/n\n\nKeen sense of the limits of quantitative/analytical approaches. We'd observe them considering more qualitative/less \"easy to measure\" factors when making product decisions and assessing product success.\n\nThat said, they wouldn't discount measurement outright. Balanced view",
+      "media": []
+    },
+    {
+      "id": "1477061122444251137",
+      "date": "2021-12-31",
+      "datetime": "2021-12-31T23:36:28+00:00",
+      "likes": 38,
+      "rts": 0,
+      "text": "16/n\n\nKeen sense of local/global optimums. Tough to describe, but it *appears* (not sure) that experienced product managers have a sense of when they're approaching a local optimum. So we'd observe them back off from optimizing X, and seeking a step-change at \"reasonable\" times.",
+      "media": []
+    },
+    {
+      "id": "1477062692976291840",
+      "date": "2021-12-31",
+      "datetime": "2021-12-31T23:42:43+00:00",
+      "likes": 35,
+      "rts": 0,
+      "text": "17/n\n\nWilling to cut losses and move on. We'd observe them pivot from efforts that produced \"meh\" results. Make the hard decision to sunset something, remove the feature, abandon the strategy.",
+      "media": []
+    },
+    {
+      "id": "1477065858006454272",
+      "date": "2021-12-31",
+      "datetime": "2021-12-31T23:55:17+00:00",
+      "likes": 28,
+      "rts": 0,
+      "text": "18/n\n\nBalanced bet portfolio. This is tougher to describe, but we'd observe them \"manage\" a portfolio of different bet types. They'd discuss the need to not only \"play it safe\", but also the folly of frenetic moonshot-ism.\n\nProbabilistic thinking? Evolutionary?\n\nSomething else?",
+      "media": []
+    },
+    {
+      "id": "1477068301314314240",
+      "date": "2022-01-01",
+      "datetime": "2022-01-01T00:05:00+00:00",
+      "likes": 34,
+      "rts": 0,
+      "text": "19/n\n\nAware of different ways to play the game. We'd observe them propose alternative business models, pricing models, strategies, approaches...drawing from either direct experience and/or keen observation of the product landscape.",
+      "media": []
+    },
+    {
+      "id": "1477073772553203715",
+      "date": "2022-01-01",
+      "datetime": "2022-01-01T00:26:44+00:00",
+      "likes": 47,
+      "rts": 1,
+      "text": "20/end ... must stop, but 19 was making me uncomfortable\n\nTalks about uncertainty with certainty. This is so hard to practice and cultivate, but we'd observe them being transparent about what is known / unknown, but also framing a \"wedge\" / a way forward\n\nPlease reply with more!",
+      "media": []
+    },
+    {
+      "id": "1477080612666183681",
+      "date": "2022-01-01",
+      "datetime": "2022-01-01T00:53:55+00:00",
+      "likes": 37,
+      "rts": 0,
+      "text": "21/cont. ... just kidding\n\nCan embrace the null hypothesis. We'd observe the product manager being able to flip to the view that there's a possibility that the current work is having no impact and/or negative impact.\n\nThe'd be able to actively try to prove that w/o fear",
+      "media": []
+    },
+    {
+      "id": "1477081251676758018",
+      "date": "2022-01-01",
+      "datetime": "2022-01-01T00:56:27+00:00",
+      "likes": 28,
+      "rts": 0,
+      "text": "22/n\n\nWilling to discard \"really good ideas\". We'd observe them discard \"really good ideas\" (ideally their own) in favor even better bets and/or exploring more.\n\nWhen someone says \"lets do X\" and there's immediate traction...they put the brakes on a bit and give room to ponder.",
+      "media": []
+    },
+    {
+      "id": "1477084631170052100",
+      "date": "2022-01-01",
+      "datetime": "2022-01-01T01:09:53+00:00",
+      "likes": 38,
+      "rts": 1,
+      "text": "23/n\n\nKeen sense of sequencing. We'd observe them sequence bets/work in a way that had a 1+1=3 effect -- a combination of learning, risk reduction, escape routes, reversible paths, etc. It would be deliberate...and way beyond a basic \"effort vs. value\" matrix.",
+      "media": []
+    },
+    {
+      "id": "1477086461459505153",
+      "date": "2022-01-01",
+      "datetime": "2022-01-01T01:17:10+00:00",
+      "likes": 34,
+      "rts": 1,
+      "text": "24/n\n\nModel maker. We'd observe them create \"simple\" (not not too simple) models that would help other ppl in the organization \"latch in\" to the prioritization scheme, focus of the product, the language of the product, levers, etc.\n\nCoherence builder! Shared language supporter.",
+      "media": []
+    },
+    {
+      "id": "1477088070990057473",
+      "date": "2022-01-01",
+      "datetime": "2022-01-01T01:23:33+00:00",
+      "likes": 46,
+      "rts": 0,
+      "text": "25/end\n\nThough if this gets some likes I'll do more?\n\nAvoid premature optimization. We'd observe them resisting the urge to lock everything down early. Also, thinking think broadly about \"the system\" and not obsess about tweaking a small lever before a more important lever.",
+      "media": []
+    }
+  ]
+}

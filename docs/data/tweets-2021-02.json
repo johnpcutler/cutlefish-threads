@@ -1,0 +1,98 @@
+{
+  "month": "2021-02",
+  "tweets": [
+    {
+      "id": "1362178500354928642",
+      "date": "2021-02-17",
+      "datetime": "2021-02-17T23:13:57+00:00",
+      "likes": 414,
+      "rts": 28,
+      "text": "product management roles are getting more and more overloaded. its a crazy people aren't burning out faster than they are already.",
+      "media": []
+    },
+    {
+      "id": "1361520729188040707",
+      "date": "2021-02-16",
+      "datetime": "2021-02-16T03:40:12+00:00",
+      "likes": 520,
+      "rts": 79,
+      "text": "one big lesson of the last two years...\n\npassionate (and experienced) problem solvers want flexibility, but they expect meaningful and coherent context. they want to know how leaders see the situation.\n\nvague direction doesn't empower people",
+      "media": []
+    },
+    {
+      "id": "1360781671893622784",
+      "date": "2021-02-14",
+      "datetime": "2021-02-14T02:43:27+00:00",
+      "likes": 612,
+      "rts": 112,
+      "text": "At least its honest ...",
+      "media": [
+        "media/1360781671893622784-EuJ3sG9VgAQJ3DX.jpg"
+      ]
+    },
+    {
+      "id": "1360732046197334016",
+      "date": "2021-02-13",
+      "datetime": "2021-02-13T23:26:15+00:00",
+      "likes": 484,
+      "rts": 89,
+      "text": "OH: “sprints ... a container for micromanagement”",
+      "media": []
+    },
+    {
+      "id": "1360354543398129665",
+      "date": "2021-02-12",
+      "datetime": "2021-02-12T22:26:11+00:00",
+      "likes": 5664,
+      "rts": 1587,
+      "text": "...or it will happen.",
+      "media": [
+        "media/1360354543398129665-EuDzKlTVEAIPxgd.jpg"
+      ]
+    },
+    {
+      "id": "1359004907483799556",
+      "date": "2021-02-09",
+      "datetime": "2021-02-09T05:03:13+00:00",
+      "likes": 707,
+      "rts": 116,
+      "text": "when you work on a product, you develop a level of myopia ... especially in B2B.",
+      "media": [
+        "media/1359004907483799556-EtwnnQLUUAI9O7g.jpg"
+      ]
+    },
+    {
+      "id": "1358466439154335744",
+      "date": "2021-02-07",
+      "datetime": "2021-02-07T17:23:32+00:00",
+      "likes": 438,
+      "rts": 70,
+      "text": "How designers and product managers share responsibilities *at one company, in December 2020, in their context (size, stage of growth, country, etc.*\n\naka \"why the internet will not answer your questions &amp; why doing the hard work of have conversations is always more effective...\"",
+      "media": [
+        "media/1358466439154335744-Eto9Ue6VEAAOd_S.jpg"
+      ]
+    },
+    {
+      "id": "1357944647356538880",
+      "date": "2021-02-06",
+      "datetime": "2021-02-06T06:50:07+00:00",
+      "likes": 449,
+      "rts": 75,
+      "text": "This was a fun experiment.\n\nI asked a engineering leader at a well-known tech company to identify \"Agile\" among these stickies...",
+      "media": [
+        "media/1357944647356538880-EthjaPlVEAIhLm4.jpg"
+      ]
+    },
+    {
+      "id": "1357098513180446722",
+      "date": "2021-02-03",
+      "datetime": "2021-02-03T22:47:53+00:00",
+      "likes": 608,
+      "rts": 105,
+      "text": "quick question...",
+      "media": [
+        "media/1357098513180446722-EtVhji2U0AAR_sg.jpg"
+      ]
+    }
+  ]
+}

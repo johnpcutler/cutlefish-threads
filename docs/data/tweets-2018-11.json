@@ -1,0 +1,23 @@
+{
+  "month": "2018-11",
+  "tweets": [
+    {
+      "id": "1066199948733992960",
+      "date": "2018-11-24",
+      "datetime": "2018-11-24T05:20:51+00:00",
+      "likes": 393,
+      "rts": 61,
+      "text": "I wish there were more exchange programs whereby people could get exposure to teams working in new/interesting ways (w/o leaving their jobs).",
+      "media": []
+    },
+    {
+      "id": "1059954114770227200",
+      "date": "2018-11-06",
+      "datetime": "2018-11-06T23:42:08+00:00",
+      "likes": 1068,
+      "rts": 335,
+      "text": "Some of the best roadmaps...\n* mention 0 features\n* use no shorthand (e.g. \"redesign V2.0\")\n* are not on a timeline (have no dates)\n* mention Who and Why\n* tell a compelling story\n* acknowledge uncertainty\n* set qual and quant goals\n* embrace incremental delivery\n\n#youcandoit!",
+      "media": []
+    }
+  ]
+}

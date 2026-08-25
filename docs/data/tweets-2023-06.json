@@ -1,0 +1,27 @@
+{
+  "month": "2023-06",
+  "tweets": [
+    {
+      "id": "1673231741698588673",
+      "date": "2023-06-26",
+      "datetime": "2023-06-26T07:28:29+00:00",
+      "likes": 614,
+      "rts": 33,
+      "text": "I'm sensing\n...something\nhere\n...can't exactly figure it out\n...it is bugging me\n...a similarity of sorts\nbut it can't be\n@McKinsey  is this...?",
+      "media": [
+        "media/1673231741698588673-FziC99RaMAYQmo5.jpg"
+      ]
+    },
+    {
+      "id": "1673036385757069312",
+      "date": "2023-06-25",
+      "datetime": "2023-06-25T18:32:12+00:00",
+      "likes": 387,
+      "rts": 32,
+      "text": "I really like now/next/later roadmaps\n\nit can be beneficial, however, to imagine / visualize things over time wrt to value",
+      "media": [
+        "media/1673036385757069312-FzfRsP6aMAAS1UL.jpg"
+      ]
+    }
+  ]
+}

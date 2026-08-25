@@ -1,0 +1,416 @@
+{
+  "handle": "johncutlefish",
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "default": "2022-03",
+  "calendar": {
+    "2016": [
+      {
+        "count": 0,
+        "likes_max": 0
+      },
+      {
+        "count": 0,
+        "likes_max": 0
+      },
+      {
+        "count": 0,
+        "likes_max": 0
+      },
+      {
+        "count": 0,
+        "likes_max": 0
+      },
+      {
+        "count": 0,
+        "likes_max": 0
+      },
+      {
+        "count": 0,
+        "likes_max": 0
+      },
+      {
+        "count": 1,
+        "likes_max": 2366
+      },
+      {
+        "count": 0,
+        "likes_max": 0
+      },
+      {
+        "count": 0,
+        "likes_max": 0
+      },
+      {
+        "count": 0,
+        "likes_max": 0
+      },
+      {
+        "count": 0,
+        "likes_max": 0
+      },
+      {
+        "count": 0,
+        "likes_max": 0
+      }
+    ],
+    "2017": [
+      {
+        "count": 0,
+        "likes_max": 0
+      },
+      {
+        "count": 0,
+        "likes_max": 0
+      },
+      {
+        "count": 0,
+        "likes_max": 0
+      },
+      {
+        "count": 0,
+        "likes_max": 0
+      },
+      {
+        "count": 1,
+        "likes_max": 733
+      },
+      {
+        "count": 1,
+        "likes_max": 909
+      },
+      {
+        "count": 0,
+        "likes_max": 0
+      },
+      {
+        "count": 0,
+        "likes_max": 0
+      },
+      {
+        "count": 0,
+        "likes_max": 0
+      },
+      {
+        "count": 1,
+        "likes_max": 430
+      },
+      {
+        "count": 2,
+        "likes_max": 477
+      },
+      {
+        "count": 5,
+        "likes_max": 532
+      }
+    ],
+    "2018": [
+      {
+        "count": 1,
+        "likes_max": 608
+      },
+      {
+        "count": 4,
+        "likes_max": 524
+      },
+      {
+        "count": 2,
+        "likes_max": 540
+      },
+      {
+        "count": 3,
+        "likes_max": 731
+      },
+      {
+        "count": 2,
+        "likes_max": 982
+      },
+      {
+        "count": 1,
+        "likes_max": 735
+      },
+      {
+        "count": 4,
+        "likes_max": 839
+      },
+      {
+        "count": 2,
+        "likes_max": 4056
+      },
+      {
+        "count": 3,
+        "likes_max": 812
+      },
+      {
+        "count": 3,
+        "likes_max": 1196
+      },
+      {
+        "count": 2,
+        "likes_max": 1068
+      },
+      {
+        "count": 0,
+        "likes_max": 0
+      }
+    ],
+    "2019": [
+      {
+        "count": 1,
+        "likes_max": 464
+      },
+      {
+        "count": 1,
+        "likes_max": 2688
+      },
+      {
+        "count": 2,
+        "likes_max": 5744
+      },
+      {
+        "count": 2,
+        "likes_max": 454
+      },
+      {
+        "count": 1,
+        "likes_max": 392
+      },
+      {
+        "count": 4,
+        "likes_max": 875
+      },
+      {
+        "count": 3,
+        "likes_max": 643
+      },
+      {
+        "count": 2,
+        "likes_max": 860
+      },
+      {
+        "count": 2,
+        "likes_max": 699
+      },
+      {
+        "count": 7,
+        "likes_max": 975
+      },
+      {
+        "count": 7,
+        "likes_max": 1797
+      },
+      {
+        "count": 6,
+        "likes_max": 645
+      }
+    ],
+    "2020": [
+      {
+        "count": 3,
+        "likes_max": 883
+      },
+      {
+        "count": 6,
+        "likes_max": 635
+      },
+      {
+        "count": 2,
+        "likes_max": 727
+      },
+      {
+        "count": 1,
+        "likes_max": 415
+      },
+      {
+        "count": 3,
+        "likes_max": 1472
+      },
+      {
+        "count": 3,
+        "likes_max": 846
+      },
+      {
+        "count": 3,
+        "likes_max": 2548
+      },
+      {
+        "count": 6,
+        "likes_max": 799
+      },
+      {
+        "count": 4,
+        "likes_max": 1081
+      },
+      {
+        "count": 4,
+        "likes_max": 952
+      },
+      {
+        "count": 4,
+        "likes_max": 507
+      },
+      {
+        "count": 8,
+        "likes_max": 1836
+      }
+    ],
+    "2021": [
+      {
+        "count": 4,
+        "likes_max": 719
+      },
+      {
+        "count": 9,
+        "likes_max": 5664
+      },
+      {
+        "count": 6,
+        "likes_max": 1203
+      },
+      {
+        "count": 4,
+        "likes_max": 1020
+      },
+      {
+        "count": 6,
+        "likes_max": 565
+      },
+      {
+        "count": 5,
+        "likes_max": 702
+      },
+      {
+        "count": 7,
+        "likes_max": 1900
+      },
+      {
+        "count": 5,
+        "likes_max": 760
+      },
+      {
+        "count": 4,
+        "likes_max": 1052
+      },
+      {
+        "count": 12,
+        "likes_max": 1371
+      },
+      {
+        "count": 6,
+        "likes_max": 1292
+      },
+      {
+        "count": 4,
+        "likes_max": 505
+      }
+    ],
+    "2022": [
+      {
+        "count": 4,
+        "likes_max": 603
+      },
+      {
+        "count": 6,
+        "likes_max": 559
+      },
+      {
+        "count": 13,
+        "likes_max": 5210
+      },
+      {
+        "count": 3,
+        "likes_max": 1695
+      },
+      {
+        "count": 6,
+        "likes_max": 740
+      },
+      {
+        "count": 4,
+        "likes_max": 665
+      },
+      {
+        "count": 8,
+        "likes_max": 1314
+      },
+      {
+        "count": 7,
+        "likes_max": 1845
+      },
+      {
+        "count": 8,
+        "likes_max": 1349
+      },
+      {
+        "count": 8,
+        "likes_max": 994
+      },
+      {
+        "count": 2,
+        "likes_max": 440
+      },
+      {
+        "count": 7,
+        "likes_max": 813
+      }
+    ],
+    "2023": [
+      {
+        "count": 7,
+        "likes_max": 1065
+      },
+      {
+        "count": 8,
+        "likes_max": 2342
+      },
+      {
+        "count": 7,
+        "likes_max": 722
+      },
+      {
+        "count": 3,
+        "likes_max": 1627
+      },
+      {
+        "count": 1,
+        "likes_max": 649
+      },
+      {
+        "count": 2,
+        "likes_max": 614
+      },
+      {
+        "count": 1,
+        "likes_max": 393
+      },
+      {
+        "count": 0,
+        "likes_max": 0
+      },
+      {
+        "count": 0,
+        "likes_max": 0
+      },
+      {
+        "count": 0,
+        "likes_max": 0
+      },
+      {
+        "count": 0,
+        "likes_max": 0
+      },
+      {
+        "count": 0,
+        "likes_max": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "month": "2021-03",
+  "tweets": [
+    {
+      "id": "1376765852272394242",
+      "date": "2021-03-30",
+      "datetime": "2021-03-30T05:18:52+00:00",
+      "likes": 460,
+      "rts": 62,
+      "text": "a question-type for every occasion ...",
+      "media": [
+        "media/1376765852272394242-ExtBNtDVoAIm-oB.jpg"
+      ]
+    },
+    {
+      "id": "1374006465527091204",
+      "date": "2021-03-22",
+      "datetime": "2021-03-22T14:34:03+00:00",
+      "likes": 428,
+      "rts": 73,
+      "text": "product as sum of features\nvs\nproduct as collection of promises",
+      "media": [
+        "media/1374006465527091204-ExFzff9UUAINsIn.png"
+      ]
+    },
+    {
+      "id": "1371901537966977025",
+      "date": "2021-03-16",
+      "datetime": "2021-03-16T19:09:50+00:00",
+      "likes": 1203,
+      "rts": 92,
+      "text": "admission...\n\nI sometimes get so intimidated by how confidently silicon valley product folks discuss product management.\n\nso structured, so clear, so logical\n\nI've learned ... behind the scenes ... it is always hard. This is hard. It is often a mess. Even at their companies.",
+      "media": []
+    },
+    {
+      "id": "1370298106319753219",
+      "date": "2021-03-12",
+      "datetime": "2021-03-12T08:58:22+00:00",
+      "likes": 664,
+      "rts": 196,
+      "text": "trust?",
+      "media": [
+        "media/1370298106319753219-EwRG3WcUYAAhLxi.jpg"
+      ]
+    },
+    {
+      "id": "1368785895478812676",
+      "date": "2021-03-08",
+      "datetime": "2021-03-08T04:49:22+00:00",
+      "likes": 642,
+      "rts": 165,
+      "text": "Too many meetings is a symptom, not the problem\n\nhigh work in progress, high planning inventories (planning in progress), dependency wrangling, not allowing teams to tweak their approach to work, no strategy, too much reactive work, etc are closer to “the problem”",
+      "media": []
+    },
+    {
+      "id": "1368305369445920769",
+      "date": "2021-03-06",
+      "datetime": "2021-03-06T20:59:56+00:00",
+      "likes": 976,
+      "rts": 164,
+      "text": "\"Employees don’t leave Companies, they leave their managers\" ... very popular saying\n\nBut... A large % of a team members experience is dictated by the actions of managers/leaders from other teams.\n\nMaybe ... People don't leave managers, they leave management",
+      "media": [
+        "media/1368305369445920769-Ev0x9twVgAA4z9s.jpg"
+      ]
+    }
+  ]
+}

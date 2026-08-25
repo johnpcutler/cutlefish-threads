@@ -1,0 +1,91 @@
+{
+  "month": "2022-10",
+  "tweets": [
+    {
+      "id": "1585788184620724225",
+      "date": "2022-10-28",
+      "datetime": "2022-10-28T00:19:00+00:00",
+      "likes": 676,
+      "rts": 62,
+      "text": "Some strategy prompts to guide you through the perverse holiday ritual we call annual planning.",
+      "media": [
+        "media/1585788184620724225-FgHZyacUAAUtcat.jpg"
+      ]
+    },
+    {
+      "id": "1584359317880201217",
+      "date": "2022-10-24",
+      "datetime": "2022-10-24T01:41:12+00:00",
+      "likes": 664,
+      "rts": 74,
+      "text": "Wild how many people don’t know there is a whole world of design research skills that massively overlap (and predate) what product calls “discovery",
+      "media": []
+    },
+    {
+      "id": "1584333599335063553",
+      "date": "2022-10-23",
+      "datetime": "2022-10-23T23:59:00+00:00",
+      "likes": 669,
+      "rts": 76,
+      "text": "Why do so many B2B products have terrible UX? Even with teams that care about UX?\n\n(beyond the buyer/user dichotomy, etc.)",
+      "media": [
+        "media/1584333599335063553-FfyqCl8VEAAY10s.png"
+      ]
+    },
+    {
+      "id": "1582816746716553216",
+      "date": "2022-10-19",
+      "datetime": "2022-10-19T19:31:34+00:00",
+      "likes": 858,
+      "rts": 63,
+      "text": "A plan on a page checklist\n\nYes, there are other things to detail. But if you can cover these you'll be well on your way to having a good conversation with someone.",
+      "media": [
+        "media/1582816746716553216-FfdLSkfVEAAK6Z1.jpg"
+      ]
+    },
+    {
+      "id": "1582155279684116481",
+      "date": "2022-10-17",
+      "datetime": "2022-10-17T23:43:08+00:00",
+      "likes": 994,
+      "rts": 141,
+      "text": "“We used to be able to deliver something like that in DAYS, and NOW it takes WEEKs. Can someone tell me WHY?”",
+      "media": [
+        "media/1582155279684116481-FfTxmUJUoAA768H.png"
+      ]
+    },
+    {
+      "id": "1580966378848235520",
+      "date": "2022-10-14",
+      "datetime": "2022-10-14T16:58:52+00:00",
+      "likes": 542,
+      "rts": 86,
+      "text": "the new leadership wicked loop\nvs.\nthe new leadership catalyst loop",
+      "media": [
+        "media/1580966378848235520-FfC4OL2VsAALlwx.jpg"
+      ]
+    },
+    {
+      "id": "1578973973265932289",
+      "date": "2022-10-09",
+      "datetime": "2022-10-09T05:01:45+00:00",
+      "likes": 543,
+      "rts": 48,
+      "text": "this is a team (team of teams, actually) reflecting on the overlapping roles of designers and product managers\n\nthe point isn't the details (while interesting)\n\nrather it is the conversations is valuable and rarely neat and tidy",
+      "media": [
+        "media/1578973973265932289-FemkRbcVsAAlfVs.jpg"
+      ]
+    },
+    {
+      "id": "1576437848370163714",
+      "date": "2022-10-02",
+      "datetime": "2022-10-02T05:04:06+00:00",
+      "likes": 472,
+      "rts": 40,
+      "text": "the history of a single (relatively small) initiative:",
+      "media": [
+        "media/1576437848370163714-FeChzNYVUAAKVBd.jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "month": "2018-04",
+  "tweets": [
+    {
+      "id": "990482710777884672",
+      "date": "2018-04-29",
+      "datetime": "2018-04-29T06:47:35+00:00",
+      "likes": 731,
+      "rts": 353,
+      "text": "I’ve always wondered about this asymmetry. What employees say they want vs. what employers think their employees want\n\n#orddesign #systemsthinking",
+      "media": [
+        "media/990482710777884672-Db7mVB-UQAAxsRH.jpg"
+      ]
+    },
+    {
+      "id": "987488604111818752",
+      "date": "2018-04-21",
+      "datetime": "2018-04-21T00:30:04+00:00",
+      "likes": 446,
+      "rts": 190,
+      "text": "As a Product Manager it is not about your ideas, or “being right”.  The best outcomes tend to come from a diverse set of ideas/perspectives/mindsets.\n\nFoster an environment where your solutions are routinely beaten. Align folks around the same puzzle.\n\n#prodmgmt #ux #design",
+      "media": []
+    },
+    {
+      "id": "983577159842201600",
+      "date": "2018-04-10",
+      "datetime": "2018-04-10T05:27:23+00:00",
+      "likes": 582,
+      "rts": 276,
+      "text": "We routinely underestimate...\n* the cost of handoffs\n* the cost of knowledge transfer\n* the cost of planning inventories\n* how quickly information gets stale\n* the impact of confirmation/choice bias\n* the value of diverse perspectives\n\n#agile #design #ux #starttogether",
+      "media": []
+    }
+  ]
+}

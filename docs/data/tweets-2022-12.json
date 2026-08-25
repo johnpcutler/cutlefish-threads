@@ -1,0 +1,79 @@
+{
+  "month": "2022-12",
+  "tweets": [
+    {
+      "id": "1609045822402101250",
+      "date": "2022-12-31",
+      "datetime": "2022-12-31T04:36:33+00:00",
+      "likes": 498,
+      "rts": 65,
+      "text": "How we imagine our customers world\nVs\nTheir world",
+      "media": [
+        "media/1609045822402101250-FlR6pW0akAQ1rg0.jpg"
+      ]
+    },
+    {
+      "id": "1606380866594185216",
+      "date": "2022-12-23",
+      "datetime": "2022-12-23T20:06:58+00:00",
+      "likes": 813,
+      "rts": 87,
+      "text": "McKinsey bot is almost complete.\n\nFirst we practiced with alignment vs. autonomy\n\nAnd now ChatGPT can make its own 🤣",
+      "media": [
+        "media/1606380866594185216-FksC2ZwVsAUFcGH.jpg",
+        "media/1606380866594185216-FksCwLoVUAAPcwC.jpg"
+      ]
+    },
+    {
+      "id": "1606157788714917888",
+      "date": "2022-12-23",
+      "datetime": "2022-12-23T05:20:32+00:00",
+      "likes": 459,
+      "rts": 38,
+      "text": "current Twitter \"enhancements\" are what you get when you say you'll fire people unless they ship something",
+      "media": []
+    },
+    {
+      "id": "1604595287846055936",
+      "date": "2022-12-18",
+      "datetime": "2022-12-18T21:51:43+00:00",
+      "likes": 394,
+      "rts": 30,
+      "text": "People with “big company” experience are biased to believe they are the grown up in the room.\n\nMeanwhile in many cases they lack the nimbleness to function in a dynamic environment.",
+      "media": []
+    },
+    {
+      "id": "1602828063326224386",
+      "date": "2022-12-14",
+      "datetime": "2022-12-14T00:49:24+00:00",
+      "likes": 494,
+      "rts": 56,
+      "text": "this is an existential threat to strategy consulting\n\nthis must STOP\n\n😂",
+      "media": [
+        "media/1602828063326224386-Fj5jfIAUAAAbE4E.jpg"
+      ]
+    },
+    {
+      "id": "1601078599259656193",
+      "date": "2022-12-09",
+      "datetime": "2022-12-09T04:57:39+00:00",
+      "likes": 678,
+      "rts": 130,
+      "text": "10 potentially damaging communication patterns...",
+      "media": [
+        "media/1601078599259656193-FjgsdbEUAAIlsaR.jpg"
+      ]
+    },
+    {
+      "id": "1601064674585255936",
+      "date": "2022-12-09",
+      "datetime": "2022-12-09T04:02:19+00:00",
+      "likes": 383,
+      "rts": 39,
+      "text": "I asked ChatGPT to write causal chains for 8 \"wicked loops\" in product\n\n1. Premature convergence\n2. Knowledge loss/turnover\n3. Decision quality/burnout\n4. Lack of customer knowledge\n5. Reactive leadership\n6. Low middle management support\n7. UX debt\n8. Low code quality\n\n🤯🤯🤯🤯🤯",
+      "media": [
+        "media/1601064674585255936-FjgfQDTVIAEraYf.jpg"
+      ]
+    }
+  ]
+}

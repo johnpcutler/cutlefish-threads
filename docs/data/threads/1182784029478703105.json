@@ -1,0 +1,166 @@
+{
+  "id": "1182784029478703105",
+  "tweets": [
+    {
+      "id": "1182784029478703105",
+      "date": "2019-10-11",
+      "datetime": "2019-10-11T22:24:22+00:00",
+      "likes": 496,
+      "rts": 95,
+      "text": "So here's a little prod dev lesson ...\n\n1/14 At any given time, you'll have all levels of work in this diagram (A-I) happening simultaneously. All connected. The connections may be implicit...or obstructed and/or opaque or flimsy...but they're there.\n\n@Amplitude_HQ #prodmgmt",
+      "media": [
+        "media/1182784029478703105-EGoXzLKVUAAslkf.jpg"
+      ]
+    },
+    {
+      "id": "1182784060386496512",
+      "date": "2019-10-11",
+      "datetime": "2019-10-11T22:24:29+00:00",
+      "likes": 14,
+      "rts": 0,
+      "text": "2. Who tackles what varies. Take this example from an organization. You can see it is a spectrum. The types of missions we tackle vary.\n\nA team might start with \"G\" to figure stuff out, but once they've gotten their groove, focus much more on C and D.\n\nTry mapping your work!",
+      "media": [
+        "media/1182784060386496512-EGoXz1rVAAAdNe6.jpg",
+        "media/1182784060386496512-EGoXz2KUwAAaVRp.jpg"
+      ]
+    },
+    {
+      "id": "1182784071220355072",
+      "date": "2019-10-11",
+      "datetime": "2019-10-11T22:24:32+00:00",
+      "likes": 15,
+      "rts": 0,
+      "text": "3. There's another way to think about this using time.\n\nWhen we walk into work we engage in little 1-3hr tasks. Say I ask you to \"walk the tree\" between your 1-3hr task all the way up to a 1-3year or decade mission. How would that play out?",
+      "media": [
+        "media/1182784071220355072-EGoX1t-U4AACqXU.jpg",
+        "media/1182784071220355072-EGoX1ufUcAErNfb.jpg"
+      ]
+    },
+    {
+      "id": "1182784084541489152",
+      "date": "2019-10-11",
+      "datetime": "2019-10-11T22:24:35+00:00",
+      "likes": 12,
+      "rts": 0,
+      "text": "4. Or a more vague -- but potentially valuable approach. What does \"complexity\" mean? I dunno, but the conversation will be super valuable.\n\nYou're starting to see a trend here hopefully: interconnectivity, connections, and the fractal nature of prod dev",
+      "media": [
+        "media/1182784084541489152-EGoX2QUUYAEeGi1.jpg"
+      ]
+    },
+    {
+      "id": "1182784092456153089",
+      "date": "2019-10-11",
+      "datetime": "2019-10-11T22:24:37+00:00",
+      "likes": 31,
+      "rts": 1,
+      "text": "5. @ttorres \"opportunity solution tree\" explores the connectivity between different input--&gt;outputs, at different resolutions. Yet another valuable way to explore the tree.\n\nhttps://miro.com/blog/mapping-product-teams-teresa-torres/",
+      "media": [
+        "media/1182784092456153089-EGoX3EgUUAEMKbF.jpg"
+      ]
+    },
+    {
+      "id": "1182784101473931264",
+      "date": "2019-10-11",
+      "datetime": "2019-10-11T22:24:39+00:00",
+      "likes": 39,
+      "rts": 1,
+      "text": "6. Here's yet another way to go \"up and down\" the tree, while also stating our assumptions, facts, constraints, etc.:\n\nhttp://eleganthack.com/a-map-from-goals-around-assumptions-through-tasks-towards-results/",
+      "media": [
+        "media/1182784101473931264-EGoX3gDUEAAn1Q7.jpg"
+      ]
+    },
+    {
+      "id": "1182784110248353792",
+      "date": "2019-10-11",
+      "datetime": "2019-10-11T22:24:41+00:00",
+      "likes": 22,
+      "rts": 2,
+      "text": "6. Visualizations like this board try to connect the dots. Your North Star might stick around for 1-3 years, and your day to day work might exist in 1-3 week blocks, but it is all connected.\n\nAgain: connectivity, relationships, a story...",
+      "media": [
+        "media/1182784110248353792-EGoX4BmU4AIyKLT.jpg"
+      ]
+    },
+    {
+      "id": "1182784117508718593",
+      "date": "2019-10-11",
+      "datetime": "2019-10-11T22:24:43+00:00",
+      "likes": 17,
+      "rts": 1,
+      "text": "7. This is why outcome/output, problem/solution, opportunity/intervention, objectives/key results will always need *more*.\n\nYou need a \"map\" or \"graph\".\n\nAnd even then you might not capture the essence of your bets. \"bets\" come in all shapes and sizes...",
+      "media": [
+        "media/1182784117508718593-EGoX4hsU0AA1Rit.jpg"
+      ]
+    },
+    {
+      "id": "1182784119249391617",
+      "date": "2019-10-11",
+      "datetime": "2019-10-11T22:24:43+00:00",
+      "likes": 10,
+      "rts": 0,
+      "text": "8. A bet can be opportunity focused ... \"oh hey, we have data indicating these issues w/the onboarding flow\",\n\nmore interventional \"fix this\",\n\nor higher level ... \"the onboarding flow is broken, fix it\"\n\nWith ALL 3, you need to frame the whole story.",
+      "media": []
+    },
+    {
+      "id": "1182784127944286210",
+      "date": "2019-10-11",
+      "datetime": "2019-10-11T22:24:45+00:00",
+      "likes": 26,
+      "rts": 1,
+      "text": "9. Would you bet on 1 or 2 here?\n\nWe might get lulled into the certainty of Bet 1. And Bet 2 might require skills the team does not have.",
+      "media": [
+        "media/1182784127944286210-EGoX5BFU8AA2Pwj.jpg"
+      ]
+    },
+    {
+      "id": "1182784136320188417",
+      "date": "2019-10-11",
+      "datetime": "2019-10-11T22:24:47+00:00",
+      "likes": 12,
+      "rts": 0,
+      "text": "10. Very importantly, this is all decoupled from how a particular organization \"tackles\" this whole nested mess of bets. This A-I scale is from the first tweet.\n\nObserve how these two orgs \"organize\" to tackle the spectrum of work. Is one better?",
+      "media": [
+        "media/1182784136320188417-EGoX5kWUYAE-QZp.jpg"
+      ]
+    },
+    {
+      "id": "1182784143408525312",
+      "date": "2019-10-11",
+      "datetime": "2019-10-11T22:24:49+00:00",
+      "likes": 23,
+      "rts": 0,
+      "text": "11. Or consider @swardley's Pioneer, Settler, Town Planner (...“a derivative of Robert X. Cringely’s description of companies as Commandos, Infantry &amp; Police\")\n\nP,S,TP have different strengths\n\nNotice it overlayed on a Wardley Map which is in itself another type of map.",
+      "media": [
+        "media/1182784143408525312-EGoX6EBVAAAixIl.jpg"
+      ]
+    },
+    {
+      "id": "1182784150773780481",
+      "date": "2019-10-11",
+      "datetime": "2019-10-11T22:24:51+00:00",
+      "likes": 16,
+      "rts": 1,
+      "text": "12. ShapeUp by @rjs and @basecamp use the healthy forcing function of a 6 week \"sprint\" ... with very frequent integration, and a 3d \"show something\" forcing function ... to hand teams ~C level work (to the first tweet).\n\nWorks for them. Some might find that too prescriptive.",
+      "media": [
+        "media/1182784150773780481-EGoX6eKUYAA7oyu.jpg"
+      ]
+    },
+    {
+      "id": "1182784154322137088",
+      "date": "2019-10-11",
+      "datetime": "2019-10-11T22:24:52+00:00",
+      "likes": 17,
+      "rts": 0,
+      "text": "13. We've touched on:\n\n1- different shapes of work\n2- coherence, how they are connected\n3- the ability to tell the story of #2\n4- how you organize, who \"owns\" what\n\nThe \"do this now\": use a variety of techniques to explore these four ideas.",
+      "media": []
+    },
+    {
+      "id": "1182784155567804416",
+      "date": "2019-10-11",
+      "datetime": "2019-10-11T22:24:52+00:00",
+      "likes": 54,
+      "rts": 8,
+      "text": "14. The single greatest blocker I have observed to being \"outcome focused\" or \"impact driven\" is a lack of shared language and a way to visualize connectivity.\n\nAnd/or limiting how you understand the work...based on how the team is currently organized.",
+      "media": []
+    }
+  ]
+}

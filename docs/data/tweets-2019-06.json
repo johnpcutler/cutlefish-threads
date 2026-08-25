@@ -1,0 +1,45 @@
+{
+  "month": "2019-06",
+  "tweets": [
+    {
+      "id": "1142862586867617792",
+      "date": "2019-06-23",
+      "datetime": "2019-06-23T18:30:48+00:00",
+      "likes": 726,
+      "rts": 247,
+      "text": "Company X does A\nCompany X is doing well\n\nWhat you don’t see is that A was a result of constant refinement and adaptation. That is what you must copy. Not A.",
+      "media": []
+    },
+    {
+      "id": "1139824204931485696",
+      "date": "2019-06-15",
+      "datetime": "2019-06-15T09:17:22+00:00",
+      "likes": 875,
+      "rts": 286,
+      "text": "Why are we going so slow?",
+      "media": [
+        "media/1139824204931485696-D9F4ESpU8AI6J0O.jpg"
+      ]
+    },
+    {
+      "id": "1138518961895555072",
+      "date": "2019-06-11",
+      "datetime": "2019-06-11T18:50:47+00:00",
+      "likes": 385,
+      "rts": 83,
+      "text": "I love when teams put together homegrown health checks. I don't care if it is scientific or \"rigorous\" if it helps them have a conversation about what they value. This one is great. #prodmgmt #ux #design #agile",
+      "media": [
+        "media/1138518961895555072-D8zU7qMV4AARFNR.jpg"
+      ]
+    },
+    {
+      "id": "1134917251335954433",
+      "date": "2019-06-01",
+      "datetime": "2019-06-01T20:18:53+00:00",
+      "likes": 871,
+      "rts": 259,
+      "text": "great quote from a friend whose agency consistently gets \"big\" projects done \"on time and on budget\"...\n\n\"the key to getting something done in 6 months, is to get a version of it done in 6 days, and expose it to the real world\"",
+      "media": []
+    }
+  ]
+}

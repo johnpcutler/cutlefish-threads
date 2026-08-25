@@ -1,0 +1,43 @@
+{
+  "month": "2018-07",
+  "tweets": [
+    {
+      "id": "1022906021491032065",
+      "date": "2018-07-27",
+      "datetime": "2018-07-27T18:06:14+00:00",
+      "likes": 839,
+      "rts": 399,
+      "text": "Define\n    Design\n        Build &lt;&lt; “agile”\n            Deliver\n                 Run\n\nStill waterfall.",
+      "media": []
+    },
+    {
+      "id": "1016977165122920449",
+      "date": "2018-07-11",
+      "datetime": "2018-07-11T09:27:05+00:00",
+      "likes": 811,
+      "rts": 376,
+      "text": "Different models of product management....\n\nA - Auctioneer / Translator\nB - Backlog Owner\nC - Context Builder / Catalyst\n\n#prodmgmt #ux #design #agile",
+      "media": [
+        "media/1016977165122920449-Dh0FLfvVAAMU17Q.jpg"
+      ]
+    },
+    {
+      "id": "1016363713719201792",
+      "date": "2018-07-09",
+      "datetime": "2018-07-09T16:49:27+00:00",
+      "likes": 713,
+      "rts": 296,
+      "text": "You cannot “split” an engineer across two projects without paying for context switching. So the pie chart would look more like:\n\n35% A\n35% B\n30% context switching, waiting\n\n#kanban",
+      "media": []
+    },
+    {
+      "id": "1013937952655675392",
+      "date": "2018-07-03",
+      "datetime": "2018-07-03T00:10:20+00:00",
+      "likes": 511,
+      "rts": 223,
+      "text": "Thought: if you’re able to write perfect specs / requirements for something, and give a perfect estimate ...  you’re likely solving a commodity problem. Buy it. Or outsource it. Not worth your time. Hopefully you have bigger fish to fry\n\n#prodmgmt #devops #ux #software",
+      "media": []
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "month": "2020-12",
+  "tweets": [
+    {
+      "id": "1342405327573020673",
+      "date": "2020-12-25",
+      "datetime": "2020-12-25T09:42:25+00:00",
+      "likes": 723,
+      "rts": 154,
+      "text": "Measure to manage/control\nvs\nMeasure to learn",
+      "media": [
+        "media/1342405327573020673-EqEufdnU0AIogI9.png"
+      ]
+    },
+    {
+      "id": "1342033559536615425",
+      "date": "2020-12-24",
+      "datetime": "2020-12-24T09:05:09+00:00",
+      "likes": 523,
+      "rts": 39,
+      "text": "Was asked about OKRs today\n\nI mentioned that goal setting takes practice. That it could take a year or more (4+ runs) to get in a groove. And two years to really get it.\n\nWas not received well. Alas.",
+      "media": []
+    },
+    {
+      "id": "1339717026298830848",
+      "date": "2020-12-17",
+      "datetime": "2020-12-17T23:40:04+00:00",
+      "likes": 464,
+      "rts": 66,
+      "text": "OH: “systems thinking is easier than systems doing”",
+      "media": []
+    },
+    {
+      "id": "1339240969330253824",
+      "date": "2020-12-16",
+      "datetime": "2020-12-16T16:08:23+00:00",
+      "likes": 907,
+      "rts": 129,
+      "text": "44 Signs You Are Becoming a “Real” Product Manager\n\n(ps it is hard)",
+      "media": [
+        "media/1339240969330253824-EpXwgCqU0AI57su.png"
+      ]
+    },
+    {
+      "id": "1339091364739305473",
+      "date": "2020-12-16",
+      "datetime": "2020-12-16T06:13:55+00:00",
+      "likes": 444,
+      "rts": 48,
+      "text": "product management reality\n\nget too high level, ppl will ask you to get specific\nget specific, ppl will ask you to get high level\nsay it one way...say it three other ways\nadmit you're wrong...\"be confident\"\nconfident ... \"admit you're wrong\"",
+      "media": []
+    },
+    {
+      "id": "1335822976957247489",
+      "date": "2020-12-07",
+      "datetime": "2020-12-07T05:46:30+00:00",
+      "likes": 1836,
+      "rts": 318,
+      "text": "cost of a feature ...",
+      "media": [
+        "media/1335822976957247489-EonL6NKUYAAf4ZF.png"
+      ]
+    },
+    {
+      "id": "1335632471044489218",
+      "date": "2020-12-06",
+      "datetime": "2020-12-06T17:09:30+00:00",
+      "likes": 416,
+      "rts": 49,
+      "text": "interesting activity ....\n\nproduct managers and engineers compare their *perceptions* of different areas of responsibility.\n\nnote where there is convergence / divergence.",
+      "media": [
+        "media/1335632471044489218-EokeYOLUwAU3gqn.jpg"
+      ]
+    },
+    {
+      "id": "1333940863869718528",
+      "date": "2020-12-02",
+      "datetime": "2020-12-02T01:07:40+00:00",
+      "likes": 546,
+      "rts": 32,
+      "text": "wow, that was fast ...",
+      "media": [
+        "media/1333940863869718528-EoMcIQDVcAAzAnl.png"
+      ]
+    }
+  ]
+}

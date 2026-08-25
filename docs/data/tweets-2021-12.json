@@ -1,0 +1,43 @@
+{
+  "month": "2021-12",
+  "tweets": [
+    {
+      "id": "1475215009412169731",
+      "date": "2021-12-26",
+      "datetime": "2021-12-26T21:20:41+00:00",
+      "likes": 505,
+      "rts": 42,
+      "text": "onboarding new team members is probably the most critical internal \"product\" ... worthy of the best service design, product management, etc. you can muster",
+      "media": []
+    },
+    {
+      "id": "1474913468151058433",
+      "date": "2021-12-26",
+      "datetime": "2021-12-26T01:22:28+00:00",
+      "likes": 400,
+      "rts": 48,
+      "text": "instead of \"success metric\"\n\nconsider a \"time to pivot / cancel metric\"\n\nwhat signal would persuade the team to pivot immediately?\n\n\"success\" tells us nothing, really. keep going? celebrate? do more?",
+      "media": []
+    },
+    {
+      "id": "1473705720579338249",
+      "date": "2021-12-22",
+      "datetime": "2021-12-22T17:23:18+00:00",
+      "likes": 464,
+      "rts": 69,
+      "text": "A product manager who doesn't write specs/stories/tickets?\n\nThat's blasphemy say some.\n\nThat's incredible, say others.\n\nIME, you tend to see this practice when the following pieces of the puzzle are in place:",
+      "media": [
+        "media/1473705720579338249-FHOnbfBWUAQfoE7.jpg"
+      ]
+    },
+    {
+      "id": "1471199046861656065",
+      "date": "2021-12-15",
+      "datetime": "2021-12-15T19:22:40+00:00",
+      "likes": 482,
+      "rts": 61,
+      "text": "OH: The wiki is like a fridge. People can't find anything, so they keep buying more food. More food makes it harder to find things. And when they do it is rotting.",
+      "media": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "month": "2018-09",
+  "tweets": [
+    {
+      "id": "1045823487552573440",
+      "date": "2018-09-28",
+      "datetime": "2018-09-28T23:52:04+00:00",
+      "likes": 812,
+      "rts": 344,
+      "text": "Stuff that seems crazy if you haven’t tried it:\n\nMob programming\nNot using story points\n1d sprints/no sprints\nResearch sprints away from keyboards\nTrunk-based development\nSharing scrum master duties\nUX not “getting ahead” of team\nSwarming/stop-line\n\nWhat else?\n#agile #ux #design",
+      "media": []
+    },
+    {
+      "id": "1041203537491853312",
+      "date": "2018-09-16",
+      "datetime": "2018-09-16T05:54:02+00:00",
+      "likes": 740,
+      "rts": 290,
+      "text": "“The team consistently hits its deadlines...”\n\nTranslation...the team:\n1 underpromises, overdelivers  or...\n2 works overtime or...\n3 works on highly repeatable/similar efforts or...\n4 gracefully reduces scope\n\nOnly #4 is a “skill”.",
+      "media": []
+    },
+    {
+      "id": "1036090841519943680",
+      "date": "2018-09-02",
+      "datetime": "2018-09-02T03:18:00+00:00",
+      "likes": 554,
+      "rts": 141,
+      "text": "Outcome focused hybrid board ...\n#kanban",
+      "media": [
+        "media/1036090841519943680-DmDvIEWUcAAXaBm.jpg"
+      ]
+    }
+  ]
+}

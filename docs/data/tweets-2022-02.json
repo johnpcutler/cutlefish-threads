@@ -1,0 +1,63 @@
+{
+  "month": "2022-02",
+  "tweets": [
+    {
+      "id": "1497760859476529152",
+      "date": "2022-02-27",
+      "datetime": "2022-02-27T02:29:50+00:00",
+      "likes": 389,
+      "rts": 31,
+      "text": "I saw a design team's OKRs recently, and it made me so sad....\n\n\"Run 5 research studies\"\n\n\"Deliver designs for 8 initiatives\"\n\nYou could tell someone had passed down the edict from on-high that everyone needed them, and they *needed* #s.",
+      "media": []
+    },
+    {
+      "id": "1497747113794367491",
+      "date": "2022-02-27",
+      "datetime": "2022-02-27T01:35:13+00:00",
+      "likes": 519,
+      "rts": 97,
+      "text": "not an original thought, but \"limiting WIP\" confuses people\n\nit is actually\n-increase focus\n-limit multi-tasking\n-stop starting, start finishing\n-collaborate more\n-try to keep less things in memory\n-reduce planning inventories\n-increase flow\n-learn faster\n-pivot earlier",
+      "media": []
+    },
+    {
+      "id": "1495068676508176385",
+      "date": "2022-02-19",
+      "datetime": "2022-02-19T16:12:04+00:00",
+      "likes": 559,
+      "rts": 84,
+      "text": "Most teams jump from high level strategy/goals straight to feature ideas (w/ \"success metrics\")\n\nThe most successful teams\n1. Have a strategy\n2. Translate that into models\n3. Add minimally viable measurement\n4. Identify leverage points\n5. Explore options\n6. Run experiments",
+      "media": [
+        "media/1495068676508176385-FL-LhGGVUAYTISS.jpg"
+      ]
+    },
+    {
+      "id": "1492034517212667904",
+      "date": "2022-02-11",
+      "datetime": "2022-02-11T07:15:24+00:00",
+      "likes": 424,
+      "rts": 38,
+      "text": "platform pm vs. customer-facing PM",
+      "media": [
+        "media/1492034517212667904-FLTFXDFVEAIUJNm.jpg"
+      ]
+    },
+    {
+      "id": "1488889060387033088",
+      "date": "2022-02-02",
+      "datetime": "2022-02-02T14:56:28+00:00",
+      "likes": 471,
+      "rts": 68,
+      "text": "product manager tip\n\nalso every designer (of interfaces, systems) is skeptical about \"iterating\" because they've been subject to a \"its good enough, ship it\" (and never come back to it)\n\nif you want ppl to embrace \"shipping and learning\", you NEED to make room for improvement",
+      "media": []
+    },
+    {
+      "id": "1488616459244740609",
+      "date": "2022-02-01",
+      "datetime": "2022-02-01T20:53:15+00:00",
+      "likes": 400,
+      "rts": 68,
+      "text": "product takes a village\n\ndesign, design research, development (across different areas), data expertise, marketing,  product management, (and many more)\n\n...the idea that product = product management is very limiting.",
+      "media": []
+    }
+  ]
+}

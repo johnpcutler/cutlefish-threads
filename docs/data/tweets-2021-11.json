@@ -1,0 +1,67 @@
+{
+  "month": "2021-11",
+  "tweets": [
+    {
+      "id": "1465573915334373376",
+      "date": "2021-11-30",
+      "datetime": "2021-11-30T06:50:25+00:00",
+      "likes": 425,
+      "rts": 69,
+      "text": "working group\nvs.\nteam",
+      "media": [
+        "media/1465573915334373376-FFbDpwoVUAEjFqG.jpg"
+      ]
+    },
+    {
+      "id": "1464372856020606978",
+      "date": "2021-11-26",
+      "datetime": "2021-11-26T23:17:50+00:00",
+      "likes": 835,
+      "rts": 128,
+      "text": "Lots of retrospectives start with a prompt that focuses on \"problems\". What is broken? Where did we mess up during the last sprint?\n\nA different approach is to brainstorm opportunities. Don't linger on what's broken.\n\nThis prompts might help...",
+      "media": [
+        "media/1464372856020606978-FFJ_IQ-VkAU3FVQ.png"
+      ]
+    },
+    {
+      "id": "1463240570990518273",
+      "date": "2021-11-23",
+      "datetime": "2021-11-23T20:18:32+00:00",
+      "likes": 925,
+      "rts": 147,
+      "text": "employers struggling to find \"talent\" should start advertising things like:\n\n-No story points\n-No fake deadlines\n-3d turnaround to request new machines\n-We use (tooling) to make your life easier\n-CI/CD performance\n-Team rotation to learn new things\n-Mgrs who have done this before",
+      "media": []
+    },
+    {
+      "id": "1459233162907717634",
+      "date": "2021-11-12",
+      "datetime": "2021-11-12T18:54:31+00:00",
+      "likes": 403,
+      "rts": 58,
+      "text": "I'm worried\n\nThat there's too much focus on things like \"mindset\", \"empowerment\", \"leadership\", etc.\n\nAnd too little focus on the \"boring\" parts of making our working setups more sane, reducing cognitive overhead, and decoupling where it makes sense\n\nThe former burns people out",
+      "media": []
+    },
+    {
+      "id": "1458859753501708310",
+      "date": "2021-11-11",
+      "datetime": "2021-11-11T18:10:44+00:00",
+      "likes": 519,
+      "rts": 78,
+      "text": "my god .......",
+      "media": [
+        "media/1458859753501708310-FD7pFhZVUAgwWgD.mp4"
+      ]
+    },
+    {
+      "id": "1456316496129318912",
+      "date": "2021-11-04",
+      "datetime": "2021-11-04T17:44:44+00:00",
+      "likes": 1292,
+      "rts": 105,
+      "text": "Fixed it ...",
+      "media": [
+        "media/1456316496129318912-FDXgHeLVIA4GiJB.jpg"
+      ]
+    }
+  ]
+}

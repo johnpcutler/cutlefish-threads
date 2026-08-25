@@ -1,0 +1,34 @@
+{
+  "month": "2019-07",
+  "tweets": [
+    {
+      "id": "1155410780730167296",
+      "date": "2019-07-28",
+      "datetime": "2019-07-28T09:32:51+00:00",
+      "likes": 643,
+      "rts": 202,
+      "text": "“I mean just a ballpark ... back of napkin type thing...?”",
+      "media": [
+        "media/1155410780730167296-EAjX-qrUEAEqqzE.jpg"
+      ]
+    },
+    {
+      "id": "1148093525109567488",
+      "date": "2019-07-08",
+      "datetime": "2019-07-08T04:56:41+00:00",
+      "likes": 558,
+      "rts": 197,
+      "text": "Something I’ve noticed about great product teams.\n\nThey actually talk about the stuff that didn’t work. The misses. The surprises. What they learned. How that informed future decisions.\n\n... it is the antithesis of success theater.",
+      "media": []
+    },
+    {
+      "id": "1146311917343870976",
+      "date": "2019-07-03",
+      "datetime": "2019-07-03T06:57:13+00:00",
+      "likes": 437,
+      "rts": 52,
+      "text": "Hiring is hard.\n\nBut expecting a new product manager to navigate a political minefield, a matrix, ego bingo, and dirty laundry... is not normal. It is not a fair expectation.",
+      "media": []
+    }
+  ]
+}

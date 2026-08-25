@@ -1,0 +1,256 @@
+:root {
+  --bg: #f6f1e8;
+  --paper: #fffdf8;
+  --ink: #1c1917;
+  --muted: #78716c;
+  --line: #e7e0d4;
+  --accent: #1d4ed8;
+  --live: #a8a29e;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  line-height: 1.5;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.wrap {
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 1.5rem 1.25rem 4rem;
+}
+
+.site-nav {
+  display: flex;
+  gap: 1rem;
+  align-items: baseline;
+  margin-bottom: 1.75rem;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.85rem;
+  letter-spacing: 0.02em;
+}
+
+.site-nav a {
+  color: var(--muted);
+}
+
+.site-nav a.active {
+  color: var(--ink);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.lede {
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin: 0 0 1.5rem;
+}
+
+.year-switch {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.75rem;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+}
+
+.year-switch button {
+  appearance: none;
+  border: 1px solid var(--line);
+  background: var(--paper);
+  color: var(--ink);
+  padding: 0.35rem 0.7rem;
+  font: inherit;
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+
+.year-switch button:disabled {
+  color: var(--live);
+  cursor: default;
+}
+
+.year-label {
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+
+.month-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.4rem;
+  margin-bottom: 2rem;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+}
+
+.month-cell {
+  appearance: none;
+  border: 1px solid var(--line);
+  background: var(--paper);
+  color: var(--ink);
+  padding: 0.7rem 0.55rem;
+  text-align: left;
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.8rem;
+}
+
+.month-cell .name {
+  display: block;
+  font-weight: 600;
+}
+
+.month-cell .count {
+  color: var(--muted);
+}
+
+.month-cell.empty {
+  color: var(--live);
+  background: transparent;
+  cursor: default;
+}
+
+.month-cell.active {
+  border-color: var(--ink);
+}
+
+.thread-years {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 0.75rem;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+}
+
+.thread-years button {
+  appearance: none;
+  border: 1px solid var(--line);
+  background: transparent;
+  color: var(--muted);
+  padding: 0.25rem 0.55rem;
+  font: inherit;
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+
+.thread-years button.active {
+  background: var(--paper);
+  color: var(--ink);
+  border-color: var(--ink);
+}
+
+.picker {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  margin-bottom: 2rem;
+}
+
+.picker button {
+  appearance: none;
+  border: 0;
+  border-left: 2px solid transparent;
+  background: transparent;
+  color: inherit;
+  text-align: left;
+  padding: 0.45rem 0.6rem;
+  cursor: pointer;
+  font: inherit;
+}
+
+.picker button.active {
+  border-left-color: var(--ink);
+  background: var(--paper);
+}
+
+.picker .meta {
+  display: block;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.75rem;
+  color: var(--muted);
+  margin-bottom: 0.15rem;
+}
+
+.sort-row {
+  display: flex;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.8rem;
+}
+
+.sort-row button {
+  appearance: none;
+  border: 0;
+  background: none;
+  color: var(--muted);
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+}
+
+.sort-row button.active {
+  color: var(--ink);
+}
+
+.post,
+.card {
+  background: var(--paper);
+  border: 1px solid var(--line);
+  padding: 1rem 1.1rem 1.15rem;
+  margin-bottom: 1rem;
+}
+
+.post-meta,
+.card-meta {
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.75rem;
+  color: var(--muted);
+  margin-bottom: 0.55rem;
+}
+
+.post-text,
+.card-text {
+  white-space: pre-wrap;
+  margin: 0 0 0.75rem;
+}
+
+.post img,
+.card img,
+.post video,
+.card video {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0.5rem 0 0;
+}
+
+.live {
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.75rem;
+  color: var(--live);
+}
+
+.status {
+  color: var(--muted);
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.9rem;
+}

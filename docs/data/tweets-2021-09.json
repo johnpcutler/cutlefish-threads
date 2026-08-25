@@ -1,0 +1,47 @@
+{
+  "month": "2021-09",
+  "tweets": [
+    {
+      "id": "1441531925655556102",
+      "date": "2021-09-24",
+      "datetime": "2021-09-24T22:36:08+00:00",
+      "likes": 961,
+      "rts": 126,
+      "text": "Cards Against Product Management",
+      "media": [
+        "media/1441531925655556102-FAFZlGHVcAk-PAA.jpg"
+      ]
+    },
+    {
+      "id": "1435334559910875136",
+      "date": "2021-09-07",
+      "datetime": "2021-09-07T20:10:00+00:00",
+      "likes": 1052,
+      "rts": 162,
+      "text": "... all in a 40hr week",
+      "media": [
+        "media/1435334559910875136-E-tVC04VEAM_Ko0.png"
+      ]
+    },
+    {
+      "id": "1434359552229535755",
+      "date": "2021-09-05",
+      "datetime": "2021-09-05T03:35:41+00:00",
+      "likes": 656,
+      "rts": 59,
+      "text": "Grant me the confidence of the MBA fresh out of a consulting firm gig talking about product development w/o ever having been on a actual team",
+      "media": []
+    },
+    {
+      "id": "1434093982368235521",
+      "date": "2021-09-04",
+      "datetime": "2021-09-04T10:00:24+00:00",
+      "likes": 614,
+      "rts": 135,
+      "text": "Signs of High Work in Progress (WIP)\n\nIs your organization/team struggling with too much work in progress? How would you know?",
+      "media": [
+        "media/1434093982368235521-E-bs2HrVIAIW0ZY.jpg"
+      ]
+    }
+  ]
+}

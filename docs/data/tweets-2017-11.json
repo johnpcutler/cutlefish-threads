@@ -1,0 +1,27 @@
+{
+  "month": "2017-11",
+  "tweets": [
+    {
+      "id": "935055660001067008",
+      "date": "2017-11-27",
+      "datetime": "2017-11-27T08:00:16+00:00",
+      "likes": 432,
+      "rts": 215,
+      "text": "It makes intuitive sense for #ux to “get ahead” of developers. What you find, in practice, is that if you relax pressure on devs to “stay busy”, and you tackle design together ... you 1) preserve sanity, and 2) “deliver” faster. Counterintuitive but true.\n\n#design #agile",
+      "media": [
+        "media/935055660001067008-DPn7xqhU8AExUnI.jpg"
+      ]
+    },
+    {
+      "id": "932656054852247552",
+      "date": "2017-11-20",
+      "datetime": "2017-11-20T17:05:06+00:00",
+      "likes": 477,
+      "rts": 249,
+      "text": "Whenever I’m in a meeting and someone talks in vague terms about “culture” or “fit”\n\nCompany culture is ...\n\n#orgdesign #startup #work #agile",
+      "media": [
+        "media/932656054852247552-DPF1vDaV4AEr5Wt.jpg"
+      ]
+    }
+  ]
+}

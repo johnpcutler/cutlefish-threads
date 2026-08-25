@@ -1,0 +1,25 @@
+{
+  "month": "2019-08",
+  "tweets": [
+    {
+      "id": "1167268403599441920",
+      "date": "2019-08-30",
+      "datetime": "2019-08-30T02:50:48+00:00",
+      "likes": 860,
+      "rts": 195,
+      "text": "\"No one looks like they're working. Seems so disorganized. There's no structure. Can't really tell what's going on. It doesn't look like one person is accountable. It's just confusing &amp; doesn't match what I'm used to\"\n\nExec upon interacting with a really skilled, empowered team.",
+      "media": []
+    },
+    {
+      "id": "1156727594210881538",
+      "date": "2019-08-01",
+      "datetime": "2019-08-01T00:45:24+00:00",
+      "likes": 400,
+      "rts": 154,
+      "text": "MMMM\nMaturity Model Maturity Model\n#movingup #upandtotheright #LEVEL5",
+      "media": [
+        "media/1156727594210881538-EA2FnD9UwAAcDEr.jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "month": "2022-06",
+  "tweets": [
+    {
+      "id": "1541236479455678464",
+      "date": "2022-06-27",
+      "datetime": "2022-06-27T01:46:26+00:00",
+      "likes": 450,
+      "rts": 78,
+      "text": "Conference organizers, you know what to do.\n\nCancel any event in a state that restricts women’s rights. You can’t guarantee the safety of people who travel to your event.",
+      "media": []
+    },
+    {
+      "id": "1541124162382467072",
+      "date": "2022-06-26",
+      "datetime": "2022-06-26T18:20:07+00:00",
+      "likes": 545,
+      "rts": 50,
+      "text": "When chatting with a new team, I sometimes use this type of approach to do a spot, collaborative assessment.\n\nI've found that people are open to the discussion when you present enough angles and nuance.",
+      "media": [
+        "media/1541124162382467072-FWMrvzJUYAAQCpf.jpg"
+      ]
+    },
+    {
+      "id": "1537919820661805058",
+      "date": "2022-06-17",
+      "datetime": "2022-06-17T22:07:13+00:00",
+      "likes": 665,
+      "rts": 85,
+      "text": "a company culture is often defined by the most widely known thing that can't be said out loud",
+      "media": []
+    },
+    {
+      "id": "1533155937824821248",
+      "date": "2022-06-04",
+      "datetime": "2022-06-04T18:37:14+00:00",
+      "likes": 408,
+      "rts": 60,
+      "text": "Leader:\n\n“You know you’ve lost when someone doesn’t think it is worth saying something to you. It almost doesn’t matter what that thing is”\n\nWow.",
+      "media": []
+    }
+  ]
+}

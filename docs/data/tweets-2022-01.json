@@ -1,0 +1,45 @@
+{
+  "month": "2022-01",
+  "tweets": [
+    {
+      "id": "1487161957916430337",
+      "date": "2022-01-28",
+      "datetime": "2022-01-28T20:33:35+00:00",
+      "likes": 403,
+      "rts": 84,
+      "text": "It really is very simple...\n\nYou just need to....\n\nHappy Friday!!!!!!!!!",
+      "media": [
+        "media/1487161957916430337-FKN1zm5VIAAMA1N.jpg"
+      ]
+    },
+    {
+      "id": "1485655528688685058",
+      "date": "2022-01-24",
+      "datetime": "2022-01-24T16:47:34+00:00",
+      "likes": 429,
+      "rts": 63,
+      "text": "It only takes a tiny bit of \"softening\" of a message ... to dull it so completely that by the time in reaches the CEO \"its all good\"",
+      "media": [
+        "media/1485655528688685058-FJ4bwvgUYAI2rMu.jpg"
+      ]
+    },
+    {
+      "id": "1482925441107197952",
+      "date": "2022-01-17",
+      "datetime": "2022-01-17T03:59:11+00:00",
+      "likes": 409,
+      "rts": 35,
+      "text": "anyone have tips on shifting an organization from \"deck culture\" (presentations) to document culture ?",
+      "media": []
+    },
+    {
+      "id": "1479383439400833026",
+      "date": "2022-01-07",
+      "datetime": "2022-01-07T09:24:32+00:00",
+      "likes": 603,
+      "rts": 73,
+      "text": "In B2B, any product manager, designer, or developer should be able to initiate and schedule a call with a customer.\n\nThe barriers orgs erect to prevent this are largely fear based\n\nIt can be such a game changer.",
+      "media": []
+    }
+  ]
+}

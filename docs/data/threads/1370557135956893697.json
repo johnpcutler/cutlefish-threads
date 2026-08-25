@@ -1,0 +1,68 @@
+{
+  "id": "1370557135956893697",
+  "tweets": [
+    {
+      "id": "1370557135956893697",
+      "date": "2021-03-13",
+      "datetime": "2021-03-13T02:07:39+00:00",
+      "likes": 520,
+      "rts": 93,
+      "text": "Critical thing to monitor\n\nthe distance between those adding complexity to the business and those having to deal with the increased complexity in day-to-day decision making\n\nwithout healthy feedback loops, you can get a massive increase in complexity before the alarm bells go off",
+      "media": []
+    },
+    {
+      "id": "1370561002488565764",
+      "date": "2021-03-13",
+      "datetime": "2021-03-13T02:23:01+00:00",
+      "likes": 21,
+      "rts": 1,
+      "text": "in addition to pure distance (hops between people), you also get some interesting effects.\n\nexperienced ppl tend to notice the early signals, bc they are able to juggle the ramifications.\n\ne.g \"for *that* persona we'd do this a bit differently...\"",
+      "media": []
+    },
+    {
+      "id": "1370561003843321858",
+      "date": "2021-03-13",
+      "datetime": "2021-03-13T02:23:01+00:00",
+      "likes": 17,
+      "rts": 1,
+      "text": "...less experienced team members may not notice as quickly. They will artificially reduce added complexity and/or just not do anything with the extra cognitive load.\n\nTheir work will suffer, but they may not notice",
+      "media": []
+    },
+    {
+      "id": "1370561004719861765",
+      "date": "2021-03-13",
+      "datetime": "2021-03-13T02:23:01+00:00",
+      "likes": 39,
+      "rts": 2,
+      "text": "...unless you are there actually juggling the tensions, it can be very hard to empathize. This is the classic executive swooping in and saying \"WHY ARE WE MAKING THIS SO COMPLICATED!\"\n\n(um, because you got us into this, and you aren't do the work)",
+      "media": []
+    },
+    {
+      "id": "1370561509454016514",
+      "date": "2021-03-13",
+      "datetime": "2021-03-13T02:25:02+00:00",
+      "likes": 17,
+      "rts": 1,
+      "text": "...another complication is that like many things, it doesn't happen all at once. It creeps up. You get some new information, it doesn't seem so conflicting, and you jump in.\n\nIt is only until later that you realize what this new constraint (or lack of a constraint) actually means",
+      "media": []
+    },
+    {
+      "id": "1370563256897609731",
+      "date": "2021-03-13",
+      "datetime": "2021-03-13T02:31:58+00:00",
+      "likes": 17,
+      "rts": 2,
+      "text": "...one of the big culprits is the human tendency to persuade ourselves that there's \"overlap\"\n\n\"Well, OK, these are different customer types BUT there is a lot of overlap, right? Most should still apply, right?\"\n\nWhy do we do this? To avoid the dissonance? Not sure",
+      "media": []
+    },
+    {
+      "id": "1370564279422787588",
+      "date": "2021-03-13",
+      "datetime": "2021-03-13T02:36:02+00:00",
+      "likes": 16,
+      "rts": 1,
+      "text": "...*everyone* does this ... in our personal lives as well.\n\nbut when we do it to ourselves, we typically get information very quickly that something is amiss.\n\nnot so when spread across an org.\n\nIf everyone's life gets 1% harder...do we sense that? 10%?",
+      "media": []
+    }
+  ]
+}

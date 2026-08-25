@@ -1,0 +1,58 @@
+{
+  "month": "2017-12",
+  "tweets": [
+    {
+      "id": "944448608652361728",
+      "date": "2017-12-23",
+      "datetime": "2017-12-23T06:04:29+00:00",
+      "likes": 429,
+      "rts": 282,
+      "text": "When we hit some drag our intuition (may) say _________\n\nInstead try _________\n\n(And before trying, make safety a prerequisite) #modernagile #leanagile #ux #design #devops",
+      "media": [
+        "media/944448608652361728-DRtY9w5X0AEM9GA.jpg"
+      ]
+    },
+    {
+      "id": "943355969580490758",
+      "date": "2017-12-20",
+      "datetime": "2017-12-20T05:42:44+00:00",
+      "likes": 392,
+      "rts": 199,
+      "text": "“Why are we going so slow?”\n\n#retrolife #teams #kanban #retrospectives #agile",
+      "media": [
+        "media/943355969580490758-DRd3I3kXkAE_QOo.jpg"
+      ]
+    },
+    {
+      "id": "942821655180484608",
+      "date": "2017-12-18",
+      "datetime": "2017-12-18T18:19:34+00:00",
+      "likes": 464,
+      "rts": 20,
+      "text": "Update:\n- I’m going to be a dad!\n- Left Zendesk\n- Looking for new gig (or gigs)\n- More writing... soon\n#agile #ux #design #uxr #modernagile",
+      "media": []
+    },
+    {
+      "id": "942590407921115136",
+      "date": "2017-12-18",
+      "datetime": "2017-12-18T03:00:40+00:00",
+      "likes": 532,
+      "rts": 306,
+      "text": "I’m not sure the tool providers realize the deep, deep impact of choosing to have “tickets” and “cards” assignable to only one person.\n\nIt literally shapes the way we work. Often for the worse.\n\n#jira #asana #kanban #agile",
+      "media": [
+        "media/942590407921115136-DRTAHPBUMAA7QpD.jpg"
+      ]
+    },
+    {
+      "id": "937205505079910402",
+      "date": "2017-12-03",
+      "datetime": "2017-12-03T06:22:59+00:00",
+      "likes": 514,
+      "rts": 247,
+      "text": "team wondered \"where did the time go?\" and kept a log for a week.\n\nflu season, holiday season\nissue in production\ncompany meeting\nmeetings\n\n#notabnormal #ux #product #ux #softwaredevelopment",
+      "media": [
+        "media/937205505079910402-DQGeZBWVwAAQy-n.jpg"
+      ]
+    }
+  ]
+}

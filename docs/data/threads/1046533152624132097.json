@@ -1,0 +1,122 @@
+{
+  "id": "1046533152624132097",
+  "tweets": [
+    {
+      "id": "1046533152624132097",
+      "date": "2018-09-30",
+      "datetime": "2018-09-30T22:52:01+00:00",
+      "likes": 723,
+      "rts": 410,
+      "text": "So let’s take an org that is experiencing 50%+ drag due to technical debt.\n\nYou would think that would ring alarm bells everywhere, right? It would be all hands on deck fixing the issue, right?\n\nWell... (1/13) #leanagile #devops",
+      "media": []
+    },
+    {
+      "id": "1046533161214042113",
+      "date": "2018-09-30",
+      "datetime": "2018-09-30T22:52:03+00:00",
+      "likes": 46,
+      "rts": 9,
+      "text": "“How could YOU ever let it get this way?”\n“Well, WE’VE been warning YOU about it since.”\n“But YOU never said it would be THIS bad!”\n\n“We did. You’d ask for a plan. We’d give you a plan. You’d say no way. And then we’d settle on a band-aid like 10% time” (2/13) #leanagile #devops",
+      "media": []
+    },
+    {
+      "id": "1046533163411898369",
+      "date": "2018-09-30",
+      "datetime": "2018-09-30T22:52:04+00:00",
+      "likes": 55,
+      "rts": 9,
+      "text": "Typically, someone was raising the alarm, somewhere. But it all got watered down...\n\nthe org was experiencing growth, hiring lots of people, launching new products. So much noise. Little signal.\n\n“Oh, it’s just developers complaining...” (3/13) #leanagile #devops",
+      "media": []
+    },
+    {
+      "id": "1046533165903372288",
+      "date": "2018-09-30",
+      "datetime": "2018-09-30T22:52:05+00:00",
+      "likes": 35,
+      "rts": 6,
+      "text": "Meanwhile, when faced with congestion, teams typically find work-arounds. Work around the problem, not through it.\n\n“Team X seems to be doing fine. What bad decisions did you make to cause your current pain?”\n\nThese work-arounds cause _more complexity_ (4/13) #leanagile #devops",
+      "media": []
+    },
+    {
+      "id": "1046533167492952064",
+      "date": "2018-09-30",
+      "datetime": "2018-09-30T22:52:05+00:00",
+      "likes": 42,
+      "rts": 9,
+      "text": "Congestion increases — in tiny, sometimes barely perceptible ways. No one thing stands out...it just gets harder and harder. Slowly.\n\nA common response is to enforce more planning, and more control over teams. The slip must be a management issue! (5/13) #leanagile #devops",
+      "media": []
+    },
+    {
+      "id": "1046533169338413056",
+      "date": "2018-09-30",
+      "datetime": "2018-09-30T22:52:05+00:00",
+      "likes": 71,
+      "rts": 11,
+      "text": "Some skilled “lifers” know their way around the code. They keep up the illusion of forward progress. Their ego is on the line. “It’s not THAT bad folks!”\n\nNew folks are lost. Onboarding takes ages. The lifers are too proud (and busy) to help. (6/13) #leanagile #devops",
+      "media": []
+    },
+    {
+      "id": "1046533170990993410",
+      "date": "2018-09-30",
+      "datetime": "2018-09-30T22:52:06+00:00",
+      "likes": 26,
+      "rts": 4,
+      "text": "At this point, something bad happens. An outage. A super long delay. Something customer facing. Eyes are on engineering leadership.\n\n“We need a MONTH to fix this! Then we’ll be back in business” (7/13) #leanagile #devops",
+      "media": []
+    },
+    {
+      "id": "1046533172584824832",
+      "date": "2018-09-30",
+      "datetime": "2018-09-30T22:52:06+00:00",
+      "likes": 25,
+      "rts": 4,
+      "text": "Meanwhile, behind closed doors ...\n\n“A month? Are you crazy? This will take a year to unravel. Why a month?”\n\n“We’ve got to prove ourselves team. All eyes are on us...” (8/13) #leanagile #devops",
+      "media": []
+    },
+    {
+      "id": "1046533174723923968",
+      "date": "2018-09-30",
+      "datetime": "2018-09-30T22:52:07+00:00",
+      "likes": 39,
+      "rts": 9,
+      "text": "You can probably tell what’s happening here. A drift into failure. Desire to please. Egos at stake. Even if someone said “at this rate, we’ll soon experience 50% drag, and non-linear increases in lead time, defects, failures” no one would believe them. (9/13) #leanagile #devops",
+      "media": []
+    },
+    {
+      "id": "1046533176858828801",
+      "date": "2018-09-30",
+      "datetime": "2018-09-30T22:52:07+00:00",
+      "likes": 32,
+      "rts": 6,
+      "text": "At this stage, driven by impatience, product leadership may be scouting acquisitions, looking for silver bullets, and figuring out a plan B. “Engineering is a mess! We have to figure something out”\n\nConsultants? Ohhhh..... (10/13) #leanagile #devops",
+      "media": []
+    },
+    {
+      "id": "1046533179178283009",
+      "date": "2018-09-30",
+      "datetime": "2018-09-30T22:52:08+00:00",
+      "likes": 49,
+      "rts": 8,
+      "text": "Which triggers more heroics, more distraction, more obfuscation, and more confusion.\n\nMeanwhile, the passionate front-liners who’ve been feeling the hurt the most are leaving. Bitter.\n\n“I told you so” is a bad look :) (11/13) #leanagile #devops",
+      "media": []
+    },
+    {
+      "id": "1046533180654645248",
+      "date": "2018-09-30",
+      "datetime": "2018-09-30T22:52:08+00:00",
+      "likes": 31,
+      "rts": 4,
+      "text": "Anyway... this is how you get here.\n\nOnce you’re over a certain point of drag, it is far too costly to work things down.\n\nBad leadership? Nope. I’ve seen this happen with great leaders. Bad process/systems? Nope. (12/13) #leanagile #devops",
+      "media": []
+    },
+    {
+      "id": "1046533182537912320",
+      "date": "2018-09-30",
+      "datetime": "2018-09-30T22:52:09+00:00",
+      "likes": 222,
+      "rts": 54,
+      "text": "The fix? Visualize the work. Measure lead times. Blameless retrospectives. Psyc safety. An awareness of the non-linear nature of debt and drag. Listen!\n\nAnd deeply challenge the notion that technical debt can be artfully managed. Maybe? Very, very hard (13/13) #leanagile #devops",
+      "media": []
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "month": "2018-02",
+  "tweets": [
+    {
+      "id": "968507877294944256",
+      "date": "2018-02-27",
+      "datetime": "2018-02-27T15:27:26+00:00",
+      "likes": 412,
+      "rts": 228,
+      "text": "To recap:\n“When feedback loops are long, output will always be valued over outcomes” #prodmgmt #ux #design",
+      "media": [
+        "media/968507877294944256-DXDUchWU8AEd5fy.jpg"
+      ]
+    },
+    {
+      "id": "966431811772366848",
+      "date": "2018-02-21",
+      "datetime": "2018-02-21T21:57:54+00:00",
+      "likes": 475,
+      "rts": 161,
+      "text": "“Burnout charts...”\n\nSilence.\n\n“Do you mean burndown charts?”\n\n“Whoops”\n\n#agile",
+      "media": []
+    },
+    {
+      "id": "966355738741301250",
+      "date": "2018-02-21",
+      "datetime": "2018-02-21T16:55:36+00:00",
+      "likes": 524,
+      "rts": 206,
+      "text": "I totally forgot about this bit of whiteboard-ery. #modernagile #agile",
+      "media": [
+        "media/966355738741301250-DWkvOltV4AEcbpO.jpg"
+      ]
+    },
+    {
+      "id": "964419642218311680",
+      "date": "2018-02-16",
+      "datetime": "2018-02-16T08:42:15+00:00",
+      "likes": 489,
+      "rts": 250,
+      "text": "Teams are often too busy, too highly utilized, too reactive, and too pressured to do the deep work required for sensemaking.\n\nBuilding shared understanding is messy, difficult, and time-consuming. It’s not “efficient”.",
+      "media": []
+    }
+  ]
+}

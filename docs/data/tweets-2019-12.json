@@ -1,0 +1,63 @@
+{
+  "month": "2019-12",
+  "tweets": [
+    {
+      "id": "1211125715527180289",
+      "date": "2019-12-29",
+      "datetime": "2019-12-29T03:24:06+00:00",
+      "likes": 394,
+      "rts": 46,
+      "text": "When working with a new team, how do you “reset” from past professional trauma/dysfunction?",
+      "media": []
+    },
+    {
+      "id": "1208069709574238208",
+      "date": "2019-12-20",
+      "datetime": "2019-12-20T17:00:38+00:00",
+      "likes": 594,
+      "rts": 234,
+      "text": "The sad cycle ...\n\nIt happens so predictably. There are a couple points where you can intervene, but it is still hard.",
+      "media": []
+    },
+    {
+      "id": "1206137769908531201",
+      "date": "2019-12-15",
+      "datetime": "2019-12-15T09:03:47+00:00",
+      "likes": 645,
+      "rts": 95,
+      "text": "What is the least intrusive/least threatening question to ask a prospective employer that will yield the most information about the culture ?",
+      "media": []
+    },
+    {
+      "id": "1205989404772143104",
+      "date": "2019-12-14",
+      "datetime": "2019-12-14T23:14:14+00:00",
+      "likes": 564,
+      "rts": 125,
+      "text": "team activity ...\n\n\"Describe the role of Manager without using the words Manager or Leader\"",
+      "media": [
+        "media/1205989404772143104-ELyI92CU8AAzCx1.jpg"
+      ]
+    },
+    {
+      "id": "1204901076136128517",
+      "date": "2019-12-11",
+      "datetime": "2019-12-11T23:09:37+00:00",
+      "likes": 500,
+      "rts": 149,
+      "text": "the idea that engineer minutes are so incredibly precious -- that they must be micromanaged and hyper-optimized -- is at the root of so much dysfunction.\n\n...premature convergence, Tetris playing, distancing from customers, risk-aversion, efficiency over efficacy, silos",
+      "media": []
+    },
+    {
+      "id": "1203236683543506944",
+      "date": "2019-12-07",
+      "datetime": "2019-12-07T08:55:55+00:00",
+      "likes": 444,
+      "rts": 61,
+      "text": "#ux and developer collaboration on a real initiative. What *really* happened. This is why I have trouble answering \"so what do you think of dual track?\" .\n\n... because teams that are in the zone adapt their approach constantly to match the problem &amp; work",
+      "media": [
+        "media/1203236683543506944-ELLBYbeUYAAszDp.jpg"
+      ]
+    }
+  ]
+}

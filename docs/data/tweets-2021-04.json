@@ -1,0 +1,43 @@
+{
+  "month": "2021-04",
+  "tweets": [
+    {
+      "id": "1386146096926363649",
+      "date": "2021-04-25",
+      "datetime": "2021-04-25T02:32:37+00:00",
+      "likes": 969,
+      "rts": 128,
+      "text": "consultant friend:\n\n\"the reason you see people jump to consulting later in their career is that being able to see the anti-patterns makes it too painful to be on the inside, but they genuinely still want to help humans\"",
+      "media": []
+    },
+    {
+      "id": "1385453131937374213",
+      "date": "2021-04-23",
+      "datetime": "2021-04-23T04:39:01+00:00",
+      "likes": 485,
+      "rts": 81,
+      "text": "amazing how \"stop starting, start finishing\" is *so much more effective* than \"reduce work in progress\".\n\nand they are basically equivalent.",
+      "media": []
+    },
+    {
+      "id": "1381329849558568961",
+      "date": "2021-04-11",
+      "datetime": "2021-04-11T19:34:34+00:00",
+      "likes": 808,
+      "rts": 80,
+      "text": "Some insanely high % of product management is trying to make sure team members  interpret fifteen words in roughly the same way.",
+      "media": []
+    },
+    {
+      "id": "1378918909605076995",
+      "date": "2021-04-05",
+      "datetime": "2021-04-05T03:54:21+00:00",
+      "likes": 1020,
+      "rts": 262,
+      "text": "Pssst .... the “size” of the story may be the least important thing to estimate",
+      "media": [
+        "media/1378918909605076995-EyLncEIU4AEyZKZ.jpg"
+      ]
+    }
+  ]
+}

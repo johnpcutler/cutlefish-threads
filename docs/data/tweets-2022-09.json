@@ -1,0 +1,83 @@
+{
+  "month": "2022-09",
+  "tweets": [
+    {
+      "id": "1575856208644169728",
+      "date": "2022-09-30",
+      "datetime": "2022-09-30T14:32:52+00:00",
+      "likes": 878,
+      "rts": 94,
+      "text": "This is a super effective way to guide people towards framing outcomes AND to differentiate the idea of WHAT we are attempting to measure and HOW we are measuring it.\n\nHas been a game-changer at @Amplitude_HQ with customers and future customers new to being more outcome oriented",
+      "media": [
+        "media/1575856208644169728-Fd6Q0UZVIAA9PmL.jpg"
+      ]
+    },
+    {
+      "id": "1572682956631863296",
+      "date": "2022-09-21",
+      "datetime": "2022-09-21T20:23:30+00:00",
+      "likes": 491,
+      "rts": 64,
+      "text": "PMs are told to \"define the problem\"\n\nyet, the rush to define the problem is where a lot of PMs go wrong.\n\nbefore you define the problem, you have to observe, suspend judgement, resist even calling it a \"problem\"....just take it in.",
+      "media": []
+    },
+    {
+      "id": "1570990487380840449",
+      "date": "2022-09-17",
+      "datetime": "2022-09-17T04:18:14+00:00",
+      "likes": 728,
+      "rts": 90,
+      "text": "Annual planning slide template\n\nThis is REALLY coming together",
+      "media": [
+        "media/1570990487380840449-Fc1HYH8aEAAKCxc.jpg"
+      ]
+    },
+    {
+      "id": "1569922885107712000",
+      "date": "2022-09-14",
+      "datetime": "2022-09-14T05:35:58+00:00",
+      "likes": 499,
+      "rts": 75,
+      "text": "No one will have time to do the pre-read\n\nPresent instead...",
+      "media": [
+        "media/1569922885107712000-Fcl8bhNaAAA_bMR.jpg"
+      ]
+    },
+    {
+      "id": "1568459907401412608",
+      "date": "2022-09-10",
+      "datetime": "2022-09-10T04:42:37+00:00",
+      "likes": 1349,
+      "rts": 141,
+      "text": "\"Wait, you all don't use user stories?\"\n\n\"No. What for?\"\n\n\"To have stories. How do you break stuff down?\"\n\n\"The team meets, talks about it, maybe sketches, and then we build it\"\n\n\"Without stories?\"\n\n\"We might take notes. Or diagrams\"\n\n\"And make them stories?\"\n\n\"No. No stories\"",
+      "media": []
+    },
+    {
+      "id": "1566496875187826688",
+      "date": "2022-09-04",
+      "datetime": "2022-09-04T18:42:13+00:00",
+      "likes": 488,
+      "rts": 58,
+      "text": "Startups value ppl who can be flexible and fix the highest value challenges. Non-startups have trouble with this because it almost by definition challenges existing power structures.",
+      "media": []
+    },
+    {
+      "id": "1565717771010224128",
+      "date": "2022-09-02",
+      "datetime": "2022-09-02T15:06:20+00:00",
+      "likes": 533,
+      "rts": 52,
+      "text": "I chat with lots of teams.\n\nOne thing is sadly clear.\n\nThat people let the dysfunction of their org seep into their self-identity, and talk themselves out of being able to get a better job.\n\nAnd in some cases out of even considering the possibility.",
+      "media": []
+    },
+    {
+      "id": "1565169706599731200",
+      "date": "2022-09-01",
+      "datetime": "2022-09-01T02:48:32+00:00",
+      "likes": 659,
+      "rts": 88,
+      "text": "without a strategy, all you are left with is a ton of good ideas, and no way to prioritize them",
+      "media": []
+    }
+  ]
+}

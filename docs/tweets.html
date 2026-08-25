@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Top 300 · johncutlefish</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body data-page="tweets">
+    <div class="wrap">
+      <nav class="site-nav">
+        <a href="index.html">Threads</a>
+        <a class="active" href="tweets.html">Top 300</a>
+      </nav>
+      <p class="lede">The 300 most-liked standalone tweets — not threads — browsed by month. Empty months stay on the grid.</p>
+      <div class="year-switch">
+        <button type="button" id="prev-year">Previous</button>
+        <div id="year-label" class="year-label"></div>
+        <button type="button" id="next-year">Next</button>
+      </div>
+      <div id="month-grid" class="month-grid"></div>
+      <div id="sort-row" class="sort-row">
+        <button type="button" data-sort="date" class="active">By date</button>
+        <button type="button" data-sort="likes">By likes</button>
+      </div>
+      <div id="tweet-list"></div>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>

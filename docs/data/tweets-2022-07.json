@@ -1,0 +1,87 @@
+{
+  "month": "2022-07",
+  "tweets": [
+    {
+      "id": "1553457927859552256",
+      "date": "2022-07-30",
+      "datetime": "2022-07-30T19:10:06+00:00",
+      "likes": 841,
+      "rts": 109,
+      "text": "\"Are you a glass half full, or glass half empty kind of person?\"\n\nEngineer: \"it is the same amount of water\"\n\nDesigner: \"what shape is the glass?\"\n\nMarketer: \"half full\"\n\nProduct Manager: \"as long as we can get a refill I'm good...ship it\"",
+      "media": []
+    },
+    {
+      "id": "1551689943965044736",
+      "date": "2022-07-25",
+      "datetime": "2022-07-25T22:04:46+00:00",
+      "likes": 385,
+      "rts": 30,
+      "text": "true: PMs don't need domain experience in most cases\n\nalso true: PMs should be voracious learners, and ready/able to fully immerse themselves in a new domain in 1-3 months",
+      "media": []
+    },
+    {
+      "id": "1551291294839738368",
+      "date": "2022-07-24",
+      "datetime": "2022-07-24T19:40:40+00:00",
+      "likes": 499,
+      "rts": 39,
+      "text": "I really miss the days you could own instead of rent software.",
+      "media": []
+    },
+    {
+      "id": "1550675797035233281",
+      "date": "2022-07-23",
+      "datetime": "2022-07-23T02:54:54+00:00",
+      "likes": 414,
+      "rts": 83,
+      "text": "The Debt Spiral",
+      "media": [
+        "media/1550675797035233281-FYUbOiqVsAECbpq.jpg"
+      ]
+    },
+    {
+      "id": "1548911886699089921",
+      "date": "2022-07-18",
+      "datetime": "2022-07-18T06:05:45+00:00",
+      "likes": 800,
+      "rts": 138,
+      "text": "Why does our strategy keep changing?\n\n1. Not a strategy\n2. Premature convergence\n3. Recency bias\n4. 🐘 in the room\n5. Poor outcomes\n6. Layering issues\n7. Too vague\n8. Watered down\n9. Unclear outcomes\n10. Whiplash\n11. Difficulty executing\n12. Sporadic research",
+      "media": [
+        "media/1548911886699089921-FX7WuRjUIAAJYC8.jpg"
+      ]
+    },
+    {
+      "id": "1545549384141574144",
+      "date": "2022-07-08",
+      "datetime": "2022-07-08T23:24:22+00:00",
+      "likes": 1314,
+      "rts": 197,
+      "text": "44 signs you are becoming a \"real\" product manager....\n\nDon't let the idealized Twitter version of product management fool you 😅",
+      "media": [
+        "media/1545549384141574144-FXLj_1pVsAAyTyA.png"
+      ]
+    },
+    {
+      "id": "1545525607412350976",
+      "date": "2022-07-08",
+      "datetime": "2022-07-08T21:49:53+00:00",
+      "likes": 412,
+      "rts": 46,
+      "text": "a lot of PMs focus on \"validating\" things when they talk to customers\n\nremember definitional, descriptive, contextual, explanatory, exploratory, strategic, and generative questions...",
+      "media": [
+        "media/1545525607412350976-FXLOg_WVQAE0Y_Q.jpg"
+      ]
+    },
+    {
+      "id": "1542919705626677249",
+      "date": "2022-07-01",
+      "datetime": "2022-07-01T17:14:58+00:00",
+      "likes": 519,
+      "rts": 60,
+      "text": "What issues do you see with this advice?",
+      "media": [
+        "media/1542919705626677249-FWmNSypUIAQTyKb.jpg"
+      ]
+    }
+  ]
+}

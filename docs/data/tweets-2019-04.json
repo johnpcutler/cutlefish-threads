@@ -1,0 +1,23 @@
+{
+  "month": "2019-04",
+  "tweets": [
+    {
+      "id": "1122908245595525120",
+      "date": "2019-04-29",
+      "datetime": "2019-04-29T16:59:23+00:00",
+      "likes": 451,
+      "rts": 141,
+      "text": "We've gotten to the point where many companies are building faster than they can learn. Velocity is *not* the problem.\n\nKicker is... if you do this long enough eventually the complexity catches up to you. And velocity/ability to \"deliver\" IS the problem.\n\n#prodmgmt #ux #design",
+      "media": []
+    },
+    {
+      "id": "1119862166050369536",
+      "date": "2019-04-21",
+      "datetime": "2019-04-21T07:15:21+00:00",
+      "likes": 454,
+      "rts": 137,
+      "text": "The shift from “delivery” teams (a cost) to problem solving, innovating, upside exploring teams (revenue) is a fascinating one.\n\nOne is “in service” to the business. Order takers.\n\nThe other *is* the business...and in service to customers. Order creators :)",
+      "media": []
+    }
+  ]
+}

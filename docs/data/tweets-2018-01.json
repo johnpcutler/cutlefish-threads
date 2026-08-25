@@ -1,0 +1,14 @@
+{
+  "month": "2018-01",
+  "tweets": [
+    {
+      "id": "947733241393446912",
+      "date": "2018-01-01",
+      "datetime": "2018-01-01T07:36:27+00:00",
+      "likes": 608,
+      "rts": 213,
+      "text": "Invest in #ux. Seriously.\n\nNot like one person for six teams. Not a department to feed the dev machine.\n\nBut one #ux per team. Available. “On” the team.",
+      "media": []
+    }
+  ]
+}

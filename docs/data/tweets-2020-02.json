@@ -1,0 +1,63 @@
+{
+  "month": "2020-02",
+  "tweets": [
+    {
+      "id": "1233688275845410816",
+      "date": "2020-02-29",
+      "datetime": "2020-02-29T09:39:40+00:00",
+      "likes": 584,
+      "rts": 102,
+      "text": "this sucks, but is amazing\n\nFriend's team at BigCo has run a shadow no-sprints / no-points / measure bets / start together approach at BigCo for 8mos in complete secrecy while following \"the rules\". Jira looked A+ :)\n\nPresented outcomes today. Left the crowd speechless. YES.",
+      "media": []
+    },
+    {
+      "id": "1232203546423988225",
+      "date": "2020-02-25",
+      "datetime": "2020-02-25T07:19:53+00:00",
+      "likes": 397,
+      "rts": 81,
+      "text": "Will always remember a developer’s feedback after being invited to a string of customer interviews:\n\n“Interesting! For some reason I thought you just asked them what they want, and that’s what you came back to us with. But it is nothing like that. Please invite me next time.”",
+      "media": []
+    },
+    {
+      "id": "1231815344865468419",
+      "date": "2020-02-24",
+      "datetime": "2020-02-24T05:37:18+00:00",
+      "likes": 422,
+      "rts": 83,
+      "text": "THIS IS THE RIGHT WAY\n\nVs.\n\nThis is how we do it. We’re optimizing for X, and navigating these trade offs. Here’s more about our context. We tried ___, but it opted for X because ___. A sign we might be on the right track might be ___.\n\nTwitter encourages the former.",
+      "media": []
+    },
+    {
+      "id": "1230776450547998721",
+      "date": "2020-02-21",
+      "datetime": "2020-02-21T08:49:07+00:00",
+      "likes": 429,
+      "rts": 32,
+      "text": "On a call\n\nProduct manager communicates flawlessly ... humble, crisp, coherent\n\nI ask questions...\n\n“I set aside 30m every Friday morning, revisit and update a mind-maps and my notes, and practice. Mostly practice. That 30m is easily the highest leverage thing I do each week.”",
+      "media": []
+    },
+    {
+      "id": "1230356554311860226",
+      "date": "2020-02-20",
+      "datetime": "2020-02-20T05:00:36+00:00",
+      "likes": 635,
+      "rts": 172,
+      "text": "This obsession with keeping developers in delivery mode, topped up, cranking it out. Does the world really end if a team does discovery together(B) ?",
+      "media": [
+        "media/1230356554311860226-ERMVibLU8AAV6Do.jpg"
+      ]
+    },
+    {
+      "id": "1227685790735421440",
+      "date": "2020-02-12",
+      "datetime": "2020-02-12T20:07:56+00:00",
+      "likes": 435,
+      "rts": 187,
+      "text": "Totally unscientific ....\n\nBut yeah, the % of time talking about \"things\" that aren't all that important in the grand scheme. And glossing over specific practices.",
+      "media": [
+        "media/1227685790735421440-EQmdt03UUAA0k2u.jpg"
+      ]
+    }
+  ]
+}

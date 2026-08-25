@@ -1,0 +1,69 @@
+{
+  "month": "2022-05",
+  "tweets": [
+    {
+      "id": "1530951320621920258",
+      "date": "2022-05-29",
+      "datetime": "2022-05-29T16:36:53+00:00",
+      "likes": 418,
+      "rts": 43,
+      "text": "I've noticed a pattern\n\nIn very inexperienced teams, role definitions are vague\n\nAs the team improves, role definitions are more rigid\n\nAs the team improves further, and ppl learn each other's craft, role definitions become more relaxed (w/absolute respect for deep skills)",
+      "media": [
+        "media/1530951320621920258-FT8HV4cUYAAgEDi.jpg"
+      ]
+    },
+    {
+      "id": "1530770569070710784",
+      "date": "2022-05-29",
+      "datetime": "2022-05-29T04:38:38+00:00",
+      "likes": 686,
+      "rts": 112,
+      "text": "Is working making your head hurt?\n\n54 Sources of Dissonance",
+      "media": [
+        "media/1530770569070710784-FT5joL6UYAAhQwz.jpg"
+      ]
+    },
+    {
+      "id": "1528417822266695680",
+      "date": "2022-05-22",
+      "datetime": "2022-05-22T16:49:40+00:00",
+      "likes": 484,
+      "rts": 47,
+      "text": "The progressively detailed roadmap item\n\nno need to go deep until the last responsible moment",
+      "media": [
+        "media/1528417822266695680-FTYH0K9VEAIOPzZ.jpg"
+      ]
+    },
+    {
+      "id": "1528269492425396224",
+      "date": "2022-05-22",
+      "datetime": "2022-05-22T07:00:15+00:00",
+      "likes": 483,
+      "rts": 97,
+      "text": "Is your organization struggling with too much work in progress? How would you know?",
+      "media": [
+        "media/1528269492425396224-FTWA15PUcAE0GOu.jpg"
+      ]
+    },
+    {
+      "id": "1527204105688477697",
+      "date": "2022-05-19",
+      "datetime": "2022-05-19T08:26:47+00:00",
+      "likes": 740,
+      "rts": 115,
+      "text": "5 communication patterns to watch out for",
+      "media": [
+        "media/1527204105688477697-FTG37UVVEAEKM6P.jpg"
+      ]
+    },
+    {
+      "id": "1520831456171687936",
+      "date": "2022-05-01",
+      "datetime": "2022-05-01T18:24:09+00:00",
+      "likes": 419,
+      "rts": 54,
+      "text": "you know what is better than \"action items\"\n\ncalendar blocks\n\nthe amount of things people agree to do — without making space/time to do it within sane working hours — is staggering",
+      "media": []
+    }
+  ]
+}

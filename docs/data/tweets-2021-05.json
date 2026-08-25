@@ -1,0 +1,65 @@
+{
+  "month": "2021-05",
+  "tweets": [
+    {
+      "id": "1396547292304330753",
+      "date": "2021-05-23",
+      "datetime": "2021-05-23T19:23:15+00:00",
+      "likes": 498,
+      "rts": 33,
+      "text": "My guess is that in 10 years we will barely hear about agile. Not that it will go away. But the best parts will be ingrained in how great teams work. And we will do away with all the outdated stuff and tacked-on excess",
+      "media": []
+    },
+    {
+      "id": "1395565703160205315",
+      "date": "2021-05-21",
+      "datetime": "2021-05-21T02:22:46+00:00",
+      "likes": 427,
+      "rts": 67,
+      "text": "amazing how flippantly some people use descriptions like \"get the most value out of the engineering team\"\n\nit may seem innocent and subtle, but the idea of extracting value ... vs partnering to do valuable things ... is an important distinction",
+      "media": []
+    },
+    {
+      "id": "1392943820728246274",
+      "date": "2021-05-13",
+      "datetime": "2021-05-13T20:44:21+00:00",
+      "likes": 433,
+      "rts": 69,
+      "text": "Old Guard vs. New Guard\n\nnavigating these polarities is critical to scaling a team",
+      "media": [
+        "media/1392943820728246274-E1S65VfVEAAy-AI.png"
+      ]
+    },
+    {
+      "id": "1391934227055190019",
+      "date": "2021-05-11",
+      "datetime": "2021-05-11T01:52:35+00:00",
+      "likes": 438,
+      "rts": 101,
+      "text": "same \"speed\" ... different results",
+      "media": [
+        "media/1391934227055190019-E1EktVDVkAQD_NQ.mp4"
+      ]
+    },
+    {
+      "id": "1389754749222752257",
+      "date": "2021-05-05",
+      "datetime": "2021-05-05T01:32:07+00:00",
+      "likes": 565,
+      "rts": 88,
+      "text": "Very relieved that SAFE 5.0 now includes OKRs\n\nI will sleep easy tonight.",
+      "media": [
+        "media/1389754749222752257-E0lmbjzVEAIpXEX.png"
+      ]
+    },
+    {
+      "id": "1388351747899367425",
+      "date": "2021-05-01",
+      "datetime": "2021-05-01T04:37:05+00:00",
+      "likes": 512,
+      "rts": 75,
+      "text": "\"what features are we missing\"\nvs.\n\"talk me through your day and the other tools you use. in fact, can you show me?\"",
+      "media": []
+    }
+  ]
+}

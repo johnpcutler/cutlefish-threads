@@ -1,0 +1,54 @@
+{
+  "id": "1439276038345789441",
+  "tweets": [
+    {
+      "id": "1439276038345789441",
+      "date": "2021-09-18",
+      "datetime": "2021-09-18T17:12:02+00:00",
+      "likes": 652,
+      "rts": 141,
+      "text": "A thread on \"Starting Together\"\n\n1/n Here is how lots of teams work:\n\n1) PMs and designers focus on the \"next thing\"\n2) Developers work on the \"current project\"\n\nWhat's wrong with this?\n\nOutcomes suffer, even if it feels more efficient.\n\nWhy ...?",
+      "media": [
+        "media/1439276038345789441-E_lRq-nVgAApBft.jpg"
+      ]
+    },
+    {
+      "id": "1439276039914483713",
+      "date": "2021-09-18",
+      "datetime": "2021-09-18T17:12:03+00:00",
+      "likes": 70,
+      "rts": 2,
+      "text": "2/n While seemingly more efficient -- it causes problems:\n\n1) information loss\n2) \"resetting costs\" during transfer of knowledge\n2) distances developer from \"the problem\"\n3) higher work in progress (WIP), less flow\n4) split focus for PMs/designer\n\nSo...",
+      "media": []
+    },
+    {
+      "id": "1439276043257331712",
+      "date": "2021-09-18",
+      "datetime": "2021-09-18T17:12:03+00:00",
+      "likes": 90,
+      "rts": 10,
+      "text": "3/n When thinking about starting together, teams get a little paralyzed because they somehow can't imagine all focusing on research/discovery\n\nYou have...\n\nA: The status quo\nB: How they imagine starting together\nC: How it happens in practice",
+      "media": [
+        "media/1439276043257331712-E_lVGW4UcAQMj3r.jpg"
+      ]
+    },
+    {
+      "id": "1439276045522272256",
+      "date": "2021-09-18",
+      "datetime": "2021-09-18T17:12:04+00:00",
+      "likes": 64,
+      "rts": 5,
+      "text": "4/n. The important thing about starting together is that they kickoff the effort together and really \"open the door\" together. And set working agreements.\n\nAt that point, they figure out what will work for the effort. It often looks like this:\n\nhttps://twitter.com/johncutlefish/status/1203236683543506944?s=20",
+      "media": []
+    },
+    {
+      "id": "1439276046927290370",
+      "date": "2021-09-18",
+      "datetime": "2021-09-18T17:12:04+00:00",
+      "likes": 71,
+      "rts": 7,
+      "text": "5/end. It is that period of discovery -- all together -- grappling with the opportunity together, that is most important.\n\nWhen you take that away and just treat developers like a hamster wheel of delivery, you may (often not) be more efficient, but outcomes suffer.",
+      "media": []
+    }
+  ]
+}

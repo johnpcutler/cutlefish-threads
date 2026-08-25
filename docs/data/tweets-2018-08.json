@@ -1,0 +1,25 @@
+{
+  "month": "2018-08",
+  "tweets": [
+    {
+      "id": "1029757026895720449",
+      "date": "2018-08-15",
+      "datetime": "2018-08-15T15:49:41+00:00",
+      "likes": 4056,
+      "rts": 2137,
+      "text": "This feels like going faster\nVs.\nThis actually makes us faster\n\n#lean #prodmgmt #quality #agile #devops",
+      "media": [
+        "media/1029757026895720449-DkpuUnVUUAEKJpJ.jpg"
+      ]
+    },
+    {
+      "id": "1026598256577470465",
+      "date": "2018-08-06",
+      "datetime": "2018-08-06T22:37:52+00:00",
+      "likes": 406,
+      "rts": 146,
+      "text": "It’s not a road-map\n\nIt is a guess map, bet map, question map, assumption map",
+      "media": []
+    }
+  ]
+}

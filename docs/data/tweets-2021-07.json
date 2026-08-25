@@ -1,0 +1,78 @@
+{
+  "month": "2021-07",
+  "tweets": [
+    {
+      "id": "1420879606333140996",
+      "date": "2021-07-29",
+      "datetime": "2021-07-29T22:51:11+00:00",
+      "likes": 583,
+      "rts": 68,
+      "text": "there's only one thing worse than a gantt chart\n\na gantt chart in a spreadsheet",
+      "media": []
+    },
+    {
+      "id": "1420628081643950082",
+      "date": "2021-07-29",
+      "datetime": "2021-07-29T06:11:43+00:00",
+      "likes": 736,
+      "rts": 90,
+      "text": "This is a lot of responsibility for an engineering manager to shoulder...",
+      "media": [
+        "media/1420628081643950082-E7cVk3QVkAYqiCJ.jpg"
+      ]
+    },
+    {
+      "id": "1417677739536965638",
+      "date": "2021-07-21",
+      "datetime": "2021-07-21T02:48:06+00:00",
+      "likes": 398,
+      "rts": 86,
+      "text": "so you want predictability ...",
+      "media": [
+        "media/1417677739536965638-E6yaVekVUAEXeux.png"
+      ]
+    },
+    {
+      "id": "1417334927410958340",
+      "date": "2021-07-20",
+      "datetime": "2021-07-20T04:05:54+00:00",
+      "likes": 490,
+      "rts": 75,
+      "text": "If you are forced to use the language of \"to do\" and \"done\" ... try this:\n\n(Note: almost no one will get fired for doing this. You may get odd looks. But you owe it to your professional development to build this muscle.)",
+      "media": [
+        "media/1417334927410958340-E6tiG9tVcAgFl3M.jpg"
+      ]
+    },
+    {
+      "id": "1416582420489326592",
+      "date": "2021-07-18",
+      "datetime": "2021-07-18T02:15:42+00:00",
+      "likes": 417,
+      "rts": 41,
+      "text": "if you're being forced to provide a timeline-based roadmap ... do whatever you can to indicate the overarching mission/outcome.\n\njust that visual hint can be a nudge",
+      "media": [
+        "media/1416582420489326592-E6i17m4VIAUyzdF.jpg"
+      ]
+    },
+    {
+      "id": "1412629302600888323",
+      "date": "2021-07-07",
+      "datetime": "2021-07-07T04:27:25+00:00",
+      "likes": 1900,
+      "rts": 296,
+      "text": "Every company that has an innovation lab should also have a “boring shit that will actually save the business” lab.",
+      "media": []
+    },
+    {
+      "id": "1410401354347126788",
+      "date": "2021-07-01",
+      "datetime": "2021-07-01T00:54:21+00:00",
+      "likes": 590,
+      "rts": 160,
+      "text": "\"We NEED PREDICTABILITY!\"\n\n“Train yourself to let go of everything you fear to lose.” — Yoda",
+      "media": [
+        "media/1410401354347126788-E5LABp_UUAECDVN.jpg"
+      ]
+    }
+  ]
+}

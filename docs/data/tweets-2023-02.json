@@ -1,0 +1,90 @@
+{
+  "month": "2023-02",
+  "tweets": [
+    {
+      "id": "1627464018763063296",
+      "date": "2023-02-20",
+      "datetime": "2023-02-20T00:23:53+00:00",
+      "likes": 576,
+      "rts": 108,
+      "text": "there is no such things a \"50% time\"",
+      "media": [
+        "media/1627464018763063296-FpXp4wlaUAEmFL-.jpg"
+      ]
+    },
+    {
+      "id": "1627388003919478784",
+      "date": "2023-02-19",
+      "datetime": "2023-02-19T19:21:50+00:00",
+      "likes": 549,
+      "rts": 52,
+      "text": "Why do some product managers and engineers have such a hard time seeing documentation, education, copy etc. as part of the product?",
+      "media": []
+    },
+    {
+      "id": "1627213991679512576",
+      "date": "2023-02-19",
+      "datetime": "2023-02-19T07:50:22+00:00",
+      "likes": 494,
+      "rts": 34,
+      "text": "This is a good example of how ChatGPT....\n\n1. Saves time\n\n2. Requires a reasonably knowledge prompt",
+      "media": [
+        "media/1627213991679512576-FpUGQmNakAcDQGd.jpg",
+        "media/1627213991679512576-FpUGVnTaUAIUZVM.png"
+      ]
+    },
+    {
+      "id": "1627100097074040833",
+      "date": "2023-02-19",
+      "datetime": "2023-02-19T00:17:47+00:00",
+      "likes": 522,
+      "rts": 52,
+      "text": "RACI is a great signal you need to reorg.\n\nIn that sense it is incredible.",
+      "media": []
+    },
+    {
+      "id": "1626812154824499200",
+      "date": "2023-02-18",
+      "datetime": "2023-02-18T05:13:37+00:00",
+      "likes": 2342,
+      "rts": 174,
+      "text": "I got this odd pop up. Not sure what to make of it.",
+      "media": [
+        "media/1626812154824499200-FpOZBRTaAAARQu8.jpg"
+      ]
+    },
+    {
+      "id": "1625703443833950210",
+      "date": "2023-02-15",
+      "datetime": "2023-02-15T03:47:59+00:00",
+      "likes": 581,
+      "rts": 98,
+      "text": "there are a lot of ways team can work together...",
+      "media": [
+        "media/1625703443833950210-Fo-oncmaEAY72ej.png"
+      ]
+    },
+    {
+      "id": "1622093852969680896",
+      "date": "2023-02-05",
+      "datetime": "2023-02-05T04:44:46+00:00",
+      "likes": 500,
+      "rts": 64,
+      "text": "If you've been at a company that prevented the \"Not this, or this will happen\"... what was the catalyst for that approach?",
+      "media": [
+        "media/1622093852969680896-FoLVfifaQAABN9F.jpg"
+      ]
+    },
+    {
+      "id": "1621395050038190081",
+      "date": "2023-02-03",
+      "datetime": "2023-02-03T06:27:58+00:00",
+      "likes": 581,
+      "rts": 59,
+      "text": "\"product team\"",
+      "media": [
+        "media/1621395050038190081-FoBaMCDaYAEbQ8I.jpg"
+      ]
+    }
+  ]
+}

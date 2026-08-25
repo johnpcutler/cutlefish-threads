@@ -1,0 +1,36 @@
+{
+  "id": "1433881190889521152",
+  "tweets": [
+    {
+      "id": "1433881190889521152",
+      "date": "2021-09-03",
+      "datetime": "2021-09-03T19:54:50+00:00",
+      "likes": 935,
+      "rts": 137,
+      "text": "I'm noticing some differences in how teams operate\n\nteams influenced by Scrum\nvs\nteams less influence by Scrum\ndrawing from other influences\n\nIt is such an interesting dynamic. I can't pin it all down exactly. Thinking out loud...",
+      "media": [
+        "media/1433881190889521152-E-Yqz8uVUAQSTsf.jpg"
+      ]
+    },
+    {
+      "id": "1433882079628910593",
+      "date": "2021-09-03",
+      "datetime": "2021-09-03T19:58:22+00:00",
+      "likes": 41,
+      "rts": 0,
+      "text": "reflecting ... this shift is probably one of the big challenges @Atlassian will need to tackle in the coming years. The coupling with Scrum can be problematic.",
+      "media": []
+    },
+    {
+      "id": "1433882964954267650",
+      "date": "2021-09-03",
+      "datetime": "2021-09-03T20:01:53+00:00",
+      "likes": 114,
+      "rts": 23,
+      "text": "To clarify ... as the original table caused confusion ...",
+      "media": [
+        "media/1433882964954267650-E-Ys7f6VUAImPc0.jpg"
+      ]
+    }
+  ]
+}

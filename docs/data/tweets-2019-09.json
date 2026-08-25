@@ -1,0 +1,23 @@
+{
+  "month": "2019-09",
+  "tweets": [
+    {
+      "id": "1175483723946455040",
+      "date": "2019-09-21",
+      "datetime": "2019-09-21T18:55:33+00:00",
+      "likes": 699,
+      "rts": 127,
+      "text": "“We need to hire 10 developers in the next four months”\n\n“That’s $2-3 million dollars a year...”\n\n“Yup. Things are crazy!”\n\n“Could you walk me through your last ten product decisions...how did they contribute to mid/long term sustainable growth?”\n\n“We have no idea, but...”",
+      "media": []
+    },
+    {
+      "id": "1172181333684162561",
+      "date": "2019-09-12",
+      "datetime": "2019-09-12T16:13:02+00:00",
+      "likes": 435,
+      "rts": 87,
+      "text": "You can have product management and no one with the product manager title. And someone with the product manager title and no product management.  It’s like that.",
+      "media": []
+    }
+  ]
+}

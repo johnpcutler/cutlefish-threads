@@ -1,0 +1,25 @@
+{
+  "month": "2020-03",
+  "tweets": [
+    {
+      "id": "1235740773989011456",
+      "date": "2020-03-06",
+      "datetime": "2020-03-06T01:35:34+00:00",
+      "likes": 727,
+      "rts": 130,
+      "text": "Tip for people going remote for the first time\n\n1 remote hr = 2.5 in-office hours.",
+      "media": []
+    },
+    {
+      "id": "1235364672179703808",
+      "date": "2020-03-05",
+      "datetime": "2020-03-05T00:41:04+00:00",
+      "likes": 600,
+      "rts": 218,
+      "text": "healthy use of sprints\nunhealthy use of sprints",
+      "media": [
+        "media/1235364672179703808-ESTleJBUcAAycbJ.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "month": "2021-06",
+  "tweets": [
+    {
+      "id": "1409777716182749185",
+      "date": "2021-06-29",
+      "datetime": "2021-06-29T07:36:14+00:00",
+      "likes": 702,
+      "rts": 83,
+      "text": "A rolling 1y roadmap involves just 10 boxes to fill\n\nWith limited space, you can only specify so much.\n\nNot hard to keep continuously up to date",
+      "media": [
+        "media/1409777716182749185-E5CJP9SVoAU_jbQ.jpg"
+      ]
+    },
+    {
+      "id": "1404104119837618177",
+      "date": "2021-06-13",
+      "datetime": "2021-06-13T15:51:23+00:00",
+      "likes": 564,
+      "rts": 91,
+      "text": "two org structures ....\n\none with the PO/PM divide\n\none with a product team",
+      "media": [
+        "media/1404104119837618177-E3xhH7rVUAEg1pD.jpg"
+      ]
+    },
+    {
+      "id": "1403815364723580929",
+      "date": "2021-06-12",
+      "datetime": "2021-06-12T20:43:59+00:00",
+      "likes": 535,
+      "rts": 64,
+      "text": "300 person hour all-hands …. Sure\n\n24hrs of more thoughtful design on an initiative … woah there. What’s the ROI ?",
+      "media": []
+    },
+    {
+      "id": "1403082008096509953",
+      "date": "2021-06-10",
+      "datetime": "2021-06-10T20:09:53+00:00",
+      "likes": 617,
+      "rts": 107,
+      "text": "product is hard\n\nvanity metrics = easy\nthoughtful measurement = hard\n\nindividual projects = easy\ncollaboration = hard\n\nhandoffs = easy\nstarting together = hard\n\nsaying yes (or no) = easy\nsaying \"no, but\" = hard\n\nsuccess theater = easy\nembrace learning = hard\n\nhard, but worth it",
+      "media": []
+    },
+    {
+      "id": "1401565654721863681",
+      "date": "2021-06-06",
+      "datetime": "2021-06-06T15:44:26+00:00",
+      "likes": 391,
+      "rts": 67,
+      "text": "here's the thing about the orgs that are seemingly amazing at product, and write posts that spread FOMO\n\nthe teams operate under *WAY* less process overhead/dependencies/constraints, and have *much* more flexibility/autonomy.\n\nit looks like skill/chops, but it is mostly freedom",
+      "media": []
+    }
+  ]
+}

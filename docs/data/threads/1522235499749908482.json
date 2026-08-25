@@ -1,0 +1,100 @@
+{
+  "id": "1522235499749908482",
+  "tweets": [
+    {
+      "id": "1522235499749908482",
+      "date": "2022-05-05",
+      "datetime": "2022-05-05T15:23:19+00:00",
+      "likes": 773,
+      "rts": 125,
+      "text": "Now that OKRs are a checkbox item in many digital transformation efforts, I wanted to share some observations from working with customers/future customers at @Amplitude_HQ\n\n1/n: You can't OKR your way into a strategy. OKRs aren't a strategy. They \"deploy\" a strategy",
+      "media": []
+    },
+    {
+      "id": "1522235504996995073",
+      "date": "2022-05-05",
+      "datetime": "2022-05-05T15:23:20+00:00",
+      "likes": 105,
+      "rts": 9,
+      "text": "2/n\n\nYou can't OKR your way into contextual awareness.\n\nOKRs are a time-bound goal setting framework. Not a framework for surfacing assumptions, beliefs, hypotheses, etc.\n\nThey are an *output* of those things. Not an input.",
+      "media": [
+        "media/1522235504996995073-FSALSVaVIAAn4E7.jpg"
+      ]
+    },
+    {
+      "id": "1522235510877425664",
+      "date": "2022-05-05",
+      "datetime": "2022-05-05T15:23:22+00:00",
+      "likes": 34,
+      "rts": 2,
+      "text": "3/n\n\nIt is very important to distinguish between \"persistent models\" and time-based goals. They are complimentary, however. One creates the foundation for the other.\n\nSo many teams are tacking OKRs on to roadmap items, vs. *starting* with a sense of what is important.",
+      "media": [
+        "media/1522235510877425664-FSALyLrVcAA2iP0.jpg"
+      ]
+    },
+    {
+      "id": "1522235516917219328",
+      "date": "2022-05-05",
+      "datetime": "2022-05-05T15:23:23+00:00",
+      "likes": 34,
+      "rts": 3,
+      "text": "4/n\n\nHere is a graceful example of an OKR that spans context and Bet.\n\nThis team wants to capture key goals in an onboarding workflow.\n\nNote how one of the Rs refers to the Bet. Another R relates to Project Matching Success Rate which is stable/persistent.",
+      "media": [
+        "media/1522235516917219328-FSAMhSOVEAE-C3n.jpg"
+      ]
+    },
+    {
+      "id": "1522235524068507650",
+      "date": "2022-05-05",
+      "datetime": "2022-05-05T15:23:25+00:00",
+      "likes": 30,
+      "rts": 2,
+      "text": "5/n\n\nSay this team wants to improve Activated Accounts (AAs) and focus on Onboarding Efficacy (OE).\n\nThey dream up a Bet to surface charts during onboarding.\n\nThe OKR can be:\n* movement in AAs\n* movement in OE\n* Bet specific metrics (Chart Interactions)",
+      "media": [
+        "media/1522235524068507650-FSANABPVcAETOrp.jpg"
+      ]
+    },
+    {
+      "id": "1522235528866717696",
+      "date": "2022-05-05",
+      "datetime": "2022-05-05T15:23:26+00:00",
+      "likes": 68,
+      "rts": 7,
+      "text": "6/n\n\nStarting with OKRs is a bit like working backwards into practices and good habits. I mean it can work. People figure things out. But they also risk stalling.\n\nAnother approach is to work forwards with The Basics\n\nGet the basics in place.\n\nhttps://cutlefish.substack.com/p/tbm-1252-the-basics?s=w",
+      "media": [
+        "media/1522235528866717696-FSAOv4IVsAApasw.png"
+      ]
+    },
+    {
+      "id": "1522235534508142592",
+      "date": "2022-05-05",
+      "datetime": "2022-05-05T15:23:27+00:00",
+      "likes": 109,
+      "rts": 9,
+      "text": "8/n\n\nEach team should have a\n* mission\n* some sense of a persistent model\n* some core dashboards that cover that model\n* a roadmap of bets (ideally not PRDs)\n\nAnd dedicated time to REVIEW what's happening.",
+      "media": [
+        "media/1522235534508142592-FSAQFqHUYAAtv-o.jpg"
+      ]
+    },
+    {
+      "id": "1522235539486740482",
+      "date": "2022-05-05",
+      "datetime": "2022-05-05T15:23:29+00:00",
+      "likes": 90,
+      "rts": 15,
+      "text": "9/n\n\nIt's important to keep in mind what OKRs are for ... and not for.\n\nThey are FOR:\nAlignment\nFocused ambition\nShared understanding\nCollective commitment\nLearning &amp; reflection\n\nNot FOR:\nPerf. management\nIndividual commitment\nBolted on to projects\nAvoiding communication",
+      "media": [
+        "media/1522235539486740482-FSAOfZYUYAAenvk.jpg"
+      ]
+    },
+    {
+      "id": "1522235542666022912",
+      "date": "2022-05-05",
+      "datetime": "2022-05-05T15:23:29+00:00",
+      "likes": 42,
+      "rts": 2,
+      "text": "10/n\n\nOK, rant over.\n\nHere's the webinar I did on this topic\nhttps://info.amplitude.com/growth-series-north-star-202108\n\nAnd the Miro board\nhttps://miro.com/app/board/o9J_l2PsXJo=/?share_link_id=62114389030\n\nAnd if it takes days/weeks to create a basic dashboard for your Bets and team (let alone tweak the dashboard), consider @Amplitude_HQ. It helps.",
+      "media": []
+    }
+  ]
+}

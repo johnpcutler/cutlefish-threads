@@ -1,0 +1,74 @@
+{
+  "month": "2022-08",
+  "tweets": [
+    {
+      "id": "1564852682312912896",
+      "date": "2022-08-31",
+      "datetime": "2022-08-31T05:48:47+00:00",
+      "likes": 604,
+      "rts": 86,
+      "text": "How did \"Individuals and interactions over processes and tools\" become \"processes and tools over individuals and interactions\"?",
+      "media": []
+    },
+    {
+      "id": "1564349272740417537",
+      "date": "2022-08-29",
+      "datetime": "2022-08-29T20:28:25+00:00",
+      "likes": 1845,
+      "rts": 159,
+      "text": "Product leadership is a simple as 1,2,3,4,5!\n\n(my notes before going into a conversation with a product leader friend who heads up a large product org)",
+      "media": [
+        "media/1564349272740417537-FbWvODtWIAU0bjF.jpg"
+      ]
+    },
+    {
+      "id": "1563940694120488962",
+      "date": "2022-08-28",
+      "datetime": "2022-08-28T17:24:52+00:00",
+      "likes": 427,
+      "rts": 57,
+      "text": "The number of people you will piss off and inconvenience when you do the right thing…is a great measure of org design.",
+      "media": []
+    },
+    {
+      "id": "1562485305596207104",
+      "date": "2022-08-24",
+      "datetime": "2022-08-24T17:01:41+00:00",
+      "likes": 815,
+      "rts": 75,
+      "text": "prerequisite for being a product manager\n\nbeing comfortable saying the same thing, in slightly different ways, over...and over...and over...and over",
+      "media": []
+    },
+    {
+      "id": "1559272251408543744",
+      "date": "2022-08-15",
+      "datetime": "2022-08-15T20:14:09+00:00",
+      "likes": 654,
+      "rts": 94,
+      "text": "The idea that we need to “define” a problem fully before starting will bias your team to easily define-able problems.\n\nIn many cases the opportunity is clear, but the problems vague.\n\nThis shouldn’t stop a team from making progress and explore the problem as it goes.",
+      "media": []
+    },
+    {
+      "id": "1558510711793336321",
+      "date": "2022-08-13",
+      "datetime": "2022-08-13T17:48:04+00:00",
+      "likes": 1753,
+      "rts": 165,
+      "text": "\"John, can you share that North Star template?\"\n\nSure:\n\n- 17  @MiroHQ  frames/activities\n- 17 short @loom  videos on how to use each activity\n- A bunch of other resources\n\nThe culmination of years of work (and 100s of workshops) at @Amplitude_HQ\n\nlink: https://miro.com/app/board/uXjVPf0HwEA=/?share_link_id=761530592476",
+      "media": [
+        "media/1558510711793336321-FaDxKqFVEAA7x2S.jpg"
+      ]
+    },
+    {
+      "id": "1555775855741116417",
+      "date": "2022-08-06",
+      "datetime": "2022-08-06T04:40:43+00:00",
+      "likes": 849,
+      "rts": 70,
+      "text": "Keep this checklist handy when chatting with teams.\n\nIt isn't \"simple\", but over time I've gotten it out of my head so my head hurts less 🤣\n\nI should boil it down into 100 threads. jk jk jk jk",
+      "media": [
+        "media/1555775855741116417-FZc5On6UIAI2pua.png"
+      ]
+    }
+  ]
+}

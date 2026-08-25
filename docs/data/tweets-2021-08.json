@@ -1,0 +1,54 @@
+{
+  "month": "2021-08",
+  "tweets": [
+    {
+      "id": "1429532318528466945",
+      "date": "2021-08-22",
+      "datetime": "2021-08-22T19:53:58+00:00",
+      "likes": 426,
+      "rts": 33,
+      "text": "Two level, hybrid boards are incredibly effective …. Yet a huge PIA to do in most tools.",
+      "media": [
+        "media/1429532318528466945-E9a4EHaVoAMXK6l.jpg"
+      ]
+    },
+    {
+      "id": "1429363425201717249",
+      "date": "2021-08-22",
+      "datetime": "2021-08-22T08:42:51+00:00",
+      "likes": 400,
+      "rts": 22,
+      "text": "my god ... some orgs/teams are starting annual planning\n\nsending strength.",
+      "media": []
+    },
+    {
+      "id": "1429232613810610176",
+      "date": "2021-08-22",
+      "datetime": "2021-08-22T00:03:03+00:00",
+      "likes": 760,
+      "rts": 147,
+      "text": "Your company is optimized to avoid the hardest conversations it needs to have",
+      "media": []
+    },
+    {
+      "id": "1427845416989519874",
+      "date": "2021-08-18",
+      "datetime": "2021-08-18T04:10:50+00:00",
+      "likes": 527,
+      "rts": 64,
+      "text": "product management:\n\nget specific\n\"need big picture\"\n\nbig picture\n\"too vague\"\n\nhands on\n\"hands off\"\n\nhands off\n\"hands on\"\n\nmore context\n\"less meeting time\"\n\nless meeting time\n\"more context\"\n\nsmall efforts\n\"less optimizing\"\n\nbig missions\n\"more small stuff\"\n\n(repeat)",
+      "media": []
+    },
+    {
+      "id": "1423822130077073409",
+      "date": "2021-08-07",
+      "datetime": "2021-08-07T01:43:43+00:00",
+      "likes": 530,
+      "rts": 125,
+      "text": "How does an organization \"forget\"?\n\nOne way ... there's a push for operational efficiency in the midst of increasing complexity.\n\nThe organizations loses people with institutional knowledge, and starts mischaracterizing the challenge as one of operational efficiency.",
+      "media": [
+        "media/1423822130077073409-E8JuMA4VIAEXNv3.jpg"
+      ]
+    }
+  ]
+}

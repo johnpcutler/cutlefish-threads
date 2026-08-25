@@ -1,0 +1,72 @@
+{
+  "month": "2019-11",
+  "tweets": [
+    {
+      "id": "1198655483403329537",
+      "date": "2019-11-24",
+      "datetime": "2019-11-24T17:31:51+00:00",
+      "likes": 650,
+      "rts": 117,
+      "text": "Blog titles we don’t see:\n\n-The Developers Guide to Establishing Trust With Designers\n-The CTOs Guide to Design Transformation\n-UX Agile — Adapting Agile to Fit Your UX Process\n-Dual Track #UX — Where to Put The Development Tasks\n-Everyone is a Developer\n\nLol. More...?",
+      "media": []
+    },
+    {
+      "id": "1198627021212942336",
+      "date": "2019-11-24",
+      "datetime": "2019-11-24T15:38:45+00:00",
+      "likes": 445,
+      "rts": 128,
+      "text": "Tip: Time.\n\nPpl often underestimate just how much time it takes to foster shared understanding. I’ve seen a leadership team barely, barely scratch the surface...after 24hrs/3 days, and prod teams take two weeks just to get their bearings around a new initiative.\n\nThis is “work”",
+      "media": []
+    },
+    {
+      "id": "1194114666152095744",
+      "date": "2019-11-12",
+      "datetime": "2019-11-12T04:48:16+00:00",
+      "likes": 470,
+      "rts": 122,
+      "text": "cracking up, and loving that ppl send me stuff like this:\n\n\"we have a whole set of secret signals when asked for story point estimates like nose scratch equals everyone go high &amp; don't budge, hair flip equals all disagree, argue for 15m. Our pact is 'fight insanity w/humor'.",
+      "media": []
+    },
+    {
+      "id": "1193565619339198464",
+      "date": "2019-11-10",
+      "datetime": "2019-11-10T16:26:33+00:00",
+      "likes": 396,
+      "rts": 69,
+      "text": "“Our weekly all-hands probably cost us $60-80k in opportunity costs. We sit and talk about wins. Yet we can’t approve the $100k in tooling to move beyond success theater.”\n\n#funnymoney",
+      "media": []
+    },
+    {
+      "id": "1192356361629253633",
+      "date": "2019-11-07",
+      "datetime": "2019-11-07T08:21:24+00:00",
+      "likes": 391,
+      "rts": 85,
+      "text": "Quote of the day ...\n\n“Instead of building new features we could probably have more of an impact by building better tooling for customer success and support and helping them with service design”\n\nFile under “the whole company becomes the product”",
+      "media": []
+    },
+    {
+      "id": "1191864230493843456",
+      "date": "2019-11-05",
+      "datetime": "2019-11-05T23:45:50+00:00",
+      "likes": 384,
+      "rts": 78,
+      "text": "Folks asked for a pdf of this image. And a non-twitter URL.\n\n*Meant to encourage conversations...not as a \"maturity model\" or linear progression.\n\nhttps://amplitude.com/blog/journey-to-product-teams-infographic",
+      "media": [
+        "media/1191864230493843456-EIpaMRIXkAQz2ej.jpg"
+      ]
+    },
+    {
+      "id": "1190689018792443905",
+      "date": "2019-11-02",
+      "datetime": "2019-11-02T17:55:58+00:00",
+      "likes": 1797,
+      "rts": 605,
+      "text": "The shifts.... from waterfall to product team\n\nOf course there is no end-state.\n\n#agile #devops #ux #prodmgmt @Amplitude_HQ",
+      "media": [
+        "media/1190689018792443905-EIYtV7WWkAIqrWF.jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "month": "2020-06",
+  "tweets": [
+    {
+      "id": "1277762597303930881",
+      "date": "2020-06-30",
+      "datetime": "2020-06-30T00:35:17+00:00",
+      "likes": 846,
+      "rts": 190,
+      "text": "50 Short Product Lessons\n\nGot around to posting this. It is a bit rough, but some might find it helpful.\n\nLink:  https://cutle.fish/blog/50-product-lessons\n\nThe topics👇",
+      "media": [
+        "media/1277762597303930881-EbuGTzhUwAA8CyI.jpg"
+      ]
+    },
+    {
+      "id": "1276774980236132353",
+      "date": "2020-06-27",
+      "datetime": "2020-06-27T07:10:51+00:00",
+      "likes": 730,
+      "rts": 172,
+      "text": "Most of the time, the red part doesn’t happen...\n\nAnd when it does, things get interesting.",
+      "media": [
+        "media/1276774980236132353-EbgEEmuU0AEyLki.jpg"
+      ]
+    },
+    {
+      "id": "1273808905684914177",
+      "date": "2020-06-19",
+      "datetime": "2020-06-19T02:44:43+00:00",
+      "likes": 827,
+      "rts": 194,
+      "text": "2004 ... “we need an end-to-end view of the customer journey”\n\n2020 ... “we need an end-to-end view of the customer journey”\n\nA hunch, but this is not a technical problem.\n\nIt is that organizations are not organized around the customer.",
+      "media": []
+    }
+  ]
+}

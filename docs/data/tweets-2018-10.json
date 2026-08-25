@@ -1,0 +1,34 @@
+{
+  "month": "2018-10",
+  "tweets": [
+    {
+      "id": "1057136367400939520",
+      "date": "2018-10-30",
+      "datetime": "2018-10-30T05:05:25+00:00",
+      "likes": 434,
+      "rts": 115,
+      "text": "When someone says \"that'll never work here\"\n\nI always ask \"what does work here?\"",
+      "media": []
+    },
+    {
+      "id": "1056495497697878016",
+      "date": "2018-10-28",
+      "datetime": "2018-10-28T10:38:50+00:00",
+      "likes": 596,
+      "rts": 133,
+      "text": "So...I \"wrote\" a short 13k word \"book\" today, while watching over sleeping sick baby. It is super rough, almost incomprehensible at the moment. Here is the MVP:\n\nhttps://drive.google.com/file/d/1DFNzMRbIGiwHAn5G_8yabfIURL0G1o5G/view?usp=sharing\n\nIt's based off of this image. Worth continuing? #agile #design #prodmgmt #ux",
+      "media": [
+        "media/1056495497697878016-DqlqRiTVsAE0P6d.jpg"
+      ]
+    },
+    {
+      "id": "1048820946650316800",
+      "date": "2018-10-07",
+      "datetime": "2018-10-07T06:22:54+00:00",
+      "likes": 1196,
+      "rts": 511,
+      "text": "Instead of focusing on making “better” estimates ...\n\nfocus on:\n- working smaller\n- integrating frequently\n- exposing work to users/customers sooner\n- testing assumptions earlier\n- limiting dependencies\n- less fragile code\n- limiting handoffs\n\nYour estimates will improve\n\n#agile",
+      "media": []
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "month": "2021-10",
+  "tweets": [
+    {
+      "id": "1454846471891611650",
+      "date": "2021-10-31",
+      "datetime": "2021-10-31T16:23:23+00:00",
+      "likes": 741,
+      "rts": 128,
+      "text": "how does an organization \"forget\" ?",
+      "media": [
+        "media/1454846471891611650-FDCnJDOUUAgy6sW.jpg"
+      ]
+    },
+    {
+      "id": "1453820123257597957",
+      "date": "2021-10-28",
+      "datetime": "2021-10-28T20:25:02+00:00",
+      "likes": 473,
+      "rts": 88,
+      "text": "How it started:                 How it's going:",
+      "media": [
+        "media/1453820123257597957-FC0BeZnVcCUnW9F.jpg",
+        "media/1453820123257597957-FC0BgRRVcAsqR87.jpg"
+      ]
+    },
+    {
+      "id": "1452048722917871620",
+      "date": "2021-10-23",
+      "datetime": "2021-10-23T23:06:07+00:00",
+      "likes": 1368,
+      "rts": 290,
+      "text": "Enterprise SaaS MVP trap ..",
+      "media": [
+        "media/1452048722917871620-FCa2nfGVQAIij-1.jpg"
+      ]
+    },
+    {
+      "id": "1450958039213690880",
+      "date": "2021-10-20",
+      "datetime": "2021-10-20T22:52:08+00:00",
+      "likes": 387,
+      "rts": 50,
+      "text": "a big problem in our industry\n\nyou have simplified frameworks\n\nmeanwhile, how actual successful teams work is messy\n\ncompanies adopt the simple frameworks and then apply their legacy process to the new way to fill in the gaps\n\nwe don't talk enough about operationalizing things",
+      "media": []
+    },
+    {
+      "id": "1450598779371941888",
+      "date": "2021-10-19",
+      "datetime": "2021-10-19T23:04:34+00:00",
+      "likes": 423,
+      "rts": 61,
+      "text": "change agent tip\n\nyou are likely spending 10x more time thinking about X than the person you are trying to influence\n\nthere is no way they'll have bandwidth to process your 10x.\n\nyou have to impedance match",
+      "media": []
+    },
+    {
+      "id": "1450531731069571073",
+      "date": "2021-10-19",
+      "datetime": "2021-10-19T18:38:08+00:00",
+      "likes": 578,
+      "rts": 74,
+      "text": "Me: \"It's fractal and messy\"\n\nAmazing. @misaelneto combined ideas from myself, @cagan, @herbigt, @slidbook, @gibsonbiddle, @sebastienphl,",
+      "media": [
+        "media/1450531731069571073-FCFRopJWQAg-yKk.jpg"
+      ]
+    },
+    {
+      "id": "1449516223595626499",
+      "date": "2021-10-16",
+      "datetime": "2021-10-16T23:22:53+00:00",
+      "likes": 652,
+      "rts": 65,
+      "text": "a PRD - product requirements document\n\ncomes after:\n* a vision\n* a strategy\n* A North Star Metric and Inputs\n* detailed core beliefs/ ssumptions\n* open-ended research\n* bet 1-pager(s)\n* persona-ish things\n* detailed history of prior bets\n* learning backlog\n* (10 other things)",
+      "media": []
+    },
+    {
+      "id": "1449031102094458881",
+      "date": "2021-10-15",
+      "datetime": "2021-10-15T15:15:11+00:00",
+      "likes": 646,
+      "rts": 88,
+      "text": "Good thing this never happens in product.",
+      "media": [
+        "media/1449031102094458881-FBv-Ew3VIAEdaqf.jpg"
+      ]
+    },
+    {
+      "id": "1447606009069850631",
+      "date": "2021-10-11",
+      "datetime": "2021-10-11T16:52:22+00:00",
+      "likes": 388,
+      "rts": 62,
+      "text": "Here is where most \"product transformations\" in the enterprise are getting stuck.\n\nThe messy middle.\n\nNot \"Agile\".\n\nAn actual \"digital\" strategy (that has a unique perspective on how to use design, data, technology to achieve business goals)",
+      "media": [
+        "media/1447606009069850631-FBbtnhTVQAQ7okI.jpg"
+      ]
+    },
+    {
+      "id": "1447235221905047554",
+      "date": "2021-10-10",
+      "datetime": "2021-10-10T16:18:59+00:00",
+      "likes": 1371,
+      "rts": 172,
+      "text": "keep in mind that if your role involves being an \"integrator\" across multiple teams ... and you don't manage people directly ... there's a good chance you have a view of your org that no one (even the CEO) has ...\n\nand you're taking on an emotional burden most ppl don't take on",
+      "media": []
+    },
+    {
+      "id": "1445618064217706504",
+      "date": "2021-10-06",
+      "datetime": "2021-10-06T05:12:59+00:00",
+      "likes": 574,
+      "rts": 118,
+      "text": "if you don't slow down to speed up\n\nyou'll be forced to slow down\n\nand it will not be on your terms\n\nhappens with people\n\nhappens with companies ... they hit the wall and have to \"rebuild\"",
+      "media": []
+    },
+    {
+      "id": "1445484793680916488",
+      "date": "2021-10-05",
+      "datetime": "2021-10-05T20:23:25+00:00",
+      "likes": 743,
+      "rts": 82,
+      "text": "I am a big believer in teams having a *suitably detailed* one year-ish rolling roadmap at the ready.\n\nThe trick? Suitably detailed.\n\nThink of it as progressively disclosing options/solutions.",
+      "media": [
+        "media/1445484793680916488-FA9kgfdUYAE4BrG.jpg"
+      ]
+    }
+  ]
+}

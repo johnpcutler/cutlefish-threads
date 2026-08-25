@@ -1,0 +1,95 @@
+{
+  "id": "1124938723093766144",
+  "tweets": [
+    {
+      "id": "1124938723093766144",
+      "date": "2019-05-05",
+      "datetime": "2019-05-05T07:27:46+00:00",
+      "likes": 1874,
+      "rts": 610,
+      "text": "“As a product manager...how do you earn the respect and trust of your team?”\n\nA couple things\n1/10 - Don’t hide things from your team in an effort to protect/shield them. That’s weird. It’ll come back to bite you.\n#prodmgmt #ux #design",
+      "media": []
+    },
+    {
+      "id": "1124938732774105089",
+      "date": "2019-05-05",
+      "datetime": "2019-05-05T07:27:48+00:00",
+      "likes": 200,
+      "rts": 18,
+      "text": "2/10 - Do actual work. Meaningful work. Context-building work. Analysis. Research. Design smart experiments. A good test is whether the team would pay you if they controlled the budget.",
+      "media": []
+    },
+    {
+      "id": "1124938734854496256",
+      "date": "2019-05-05",
+      "datetime": "2019-05-05T07:27:49+00:00",
+      "likes": 192,
+      "rts": 15,
+      "text": "3/10 - Act like a member of the team, not as a manager of the team. The second you create a wall...the team will create a wall as well. Consider inviting a facilitator in so you can express your own needs (instead of juggling facilitation and team membership)",
+      "media": []
+    },
+    {
+      "id": "1124938737069113344",
+      "date": "2019-05-05",
+      "datetime": "2019-05-05T07:27:49+00:00",
+      "likes": 138,
+      "rts": 16,
+      "text": "4/10 - Take ownership of your decisions. Don’t celebrate when things go well, and make excuses when they don’t (and don’t, don’t, don’t throw your team under the bus). This asymmetry can be maddening for passionate problem solvers.",
+      "media": []
+    },
+    {
+      "id": "1124938738629398529",
+      "date": "2019-05-05",
+      "datetime": "2019-05-05T07:27:50+00:00",
+      "likes": 137,
+      "rts": 7,
+      "text": "5/10 - The second it seems like you’re only in this for *you* and your self-advancement...you’ll lose the team. Share all wins. Be humble. This is trust-building/maintaining 101, but too many PMs smack of selfish careerism",
+      "media": []
+    },
+    {
+      "id": "1124938740512591872",
+      "date": "2019-05-05",
+      "datetime": "2019-05-05T07:27:50+00:00",
+      "likes": 92,
+      "rts": 6,
+      "text": "6/10 - On the flipside, don’t fake being humble or “deep”. There’s so much talk about humble servant leadership, that you’re seeing people go through the motions in obviously very forced and unnatural ways. Be yourself.",
+      "media": []
+    },
+    {
+      "id": "1124938742249152513",
+      "date": "2019-05-05",
+      "datetime": "2019-05-05T07:27:51+00:00",
+      "likes": 140,
+      "rts": 10,
+      "text": "7/10 - Don’t sugar-coat. Master talking about uncertainty with certainty. Explain what you know and don’t know. Be transparent about risks. Let the data/context do the inspiring and census building. Lots of PMs over-use their charisma and salesperson-ship and it backfires",
+      "media": []
+    },
+    {
+      "id": "1124938743738032129",
+      "date": "2019-05-05",
+      "datetime": "2019-05-05T07:27:51+00:00",
+      "likes": 125,
+      "rts": 7,
+      "text": "8/10 - Don’t disappear for days on end — “because [your] calendar is sooooo full” — and come back empty-handed. This is an extension of “do actual work” (2). It is one thing to be unavailable. Another thing to ignore your team.",
+      "media": []
+    },
+    {
+      "id": "1124938745906585600",
+      "date": "2019-05-05",
+      "datetime": "2019-05-05T07:27:52+00:00",
+      "likes": 173,
+      "rts": 16,
+      "text": "9/10 - Your job is not to keep the team busy or “topped up”. You don’t feed them work. You don’t do story point by engineer spreadsheets. Yuck. Focus on value and opportunity. If you need to back off and rethink things....well do that.",
+      "media": []
+    },
+    {
+      "id": "1124938747659804672",
+      "date": "2019-05-05",
+      "datetime": "2019-05-05T07:27:52+00:00",
+      "likes": 211,
+      "rts": 14,
+      "text": "10/10 - Finally...remember engineers make cost/benefit decisions all day. No one wants to add lots of complexity to the product without impact. Consider product as IDD (impact driven development). Give yourself passing tests. Be transparent about those tests. Impact builds trust",
+      "media": []
+    }
+  ]
+}

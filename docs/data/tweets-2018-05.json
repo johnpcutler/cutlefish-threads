@@ -1,0 +1,23 @@
+{
+  "month": "2018-05",
+  "tweets": [
+    {
+      "id": "992994538758201344",
+      "date": "2018-05-06",
+      "datetime": "2018-05-06T05:08:41+00:00",
+      "likes": 982,
+      "rts": 302,
+      "text": "Imagine if *everyone* in your org, even for day, could...\n\n- own a support ticket\n- deploy something into prod\n- listen in on sales calls\n- watch usability tests\n- visit a customer\n- onboard a new employee\n- go to lunch with random teammates\n\nImagine the power of that #orgdesign",
+      "media": []
+    },
+    {
+      "id": "992116161545318400",
+      "date": "2018-05-03",
+      "datetime": "2018-05-03T18:58:20+00:00",
+      "likes": 711,
+      "rts": 318,
+      "text": "Key metric ...\n\nElephant time.\n\nThe cumulative amount of time spent across the org talking 1:1 or in small groups about the elephant in the room, without taking some sort of action.\n\nLower that.\n#orgdesign #leadership #management #sensemaking",
+      "media": []
+    }
+  ]
+}

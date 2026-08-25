@@ -180,7 +180,7 @@ async function initThreads() {
 
 async function initTweets() {
   const index = await loadJson("data/tweets-index.json");
-  const years = index.years.slice().sort((a, b) => b - a);
+  const years = index.years.slice().sort((a, b) => a - b);
   let year = Number((index.default || "").split("-")[0] || years[0]);
   let month = Number((index.default || "").split("-")[1] || 1);
   const requested = hashValue();
@@ -217,9 +217,9 @@ async function initTweets() {
       .map((info, i) => {
         const empty = !info.count;
         const active = !empty && i + 1 === month;
+        const count = empty ? "" : `<span class="n">${info.count}</span>`;
         return `<button type="button" data-month="${i + 1}" class="${active ? "active" : ""}" ${empty ? "disabled" : ""}>
-          <span class="meta">${empty ? "No posts" : `${info.count} tweet${info.count === 1 ? "" : "s"}`}</span>
-          ${MONTHS[i]}
+          ${MONTHS[i]}${count}
         </button>`;
       })
       .join("");
@@ -248,9 +248,9 @@ async function initTweets() {
     const payload = await loadJson(`data/tweets-${key}.json`);
     currentTweets = payload.tweets;
     drawList();
-    const shell = list.closest(".thread-shell");
-    if (shell && (shell.getBoundingClientRect().top < 0 || window.innerWidth < 841)) {
-      shell.scrollIntoView({ block: "start" });
+    const nav = document.querySelector(".tweet-nav");
+    if (nav && nav.getBoundingClientRect().top < 0) {
+      nav.scrollIntoView({ block: "start" });
     }
   }
 

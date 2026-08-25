@@ -10,26 +10,22 @@
     <link rel="stylesheet" href="styles.css">
   </head>
   <body data-page="tweets">
-    <div class="wrap wrap-wide">
+    <div class="wrap">
       <nav class="site-nav">
         <a href="index.html">Threads</a>
         <a class="active" href="tweets.html">Top 500</a>
       </nav>
       <div id="intro" class="intro"></div>
       <p class="lede">The 500 most-liked standalone tweets — not threads — browsed by month.</p>
-      <div class="thread-shell">
-        <aside class="thread-pane">
-          <div id="tweet-years" class="thread-years"></div>
-          <div id="month-list" class="picker"></div>
-        </aside>
-        <div class="thread-reader">
-          <div id="sort-row" class="sort-row">
-            <button type="button" data-sort="date" class="active">By date</button>
-            <button type="button" data-sort="likes">By likes</button>
-          </div>
-          <div id="tweet-list"></div>
-        </div>
+      <div class="tweet-nav">
+        <div id="tweet-years" class="year-row"></div>
+        <div id="month-list" class="month-row"></div>
       </div>
+      <div id="sort-row" class="sort-row">
+        <button type="button" data-sort="date" class="active">By date</button>
+        <button type="button" data-sort="likes">By likes</button>
+      </div>
+      <div id="tweet-list"></div>
     </div>
     <script src="app.js"></script>
   </body>

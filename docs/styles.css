@@ -46,9 +46,10 @@ a:hover {
 
 .site-nav {
   display: flex;
-  gap: 1rem;
+  flex-wrap: wrap;
+  gap: 0.85rem 1.5rem;
   align-items: baseline;
-  margin-bottom: 1.75rem;
+  margin: 0 0 1.75rem;
   font-family: var(--sans);
   font-size: 0.85rem;
   letter-spacing: 0.02em;

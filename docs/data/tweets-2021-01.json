@@ -2,6 +2,17 @@
   "month": "2021-01",
   "tweets": [
     {
+      "id": "1354233412081446913",
+      "date": "2021-01-27",
+      "datetime": "2021-01-27T01:03:00+00:00",
+      "likes": 300,
+      "rts": 53,
+      "text": "every problem is a nested solution to a higher level problem ... which makes the product/solution dichotomy not as helpful for product development\n\nit can be helpful to put words to the in-between",
+      "media": [
+        "media/1354233412081446913-EsszznMVEAUFduB.jpg"
+      ]
+    },
+    {
       "id": "1353434551297576960",
       "date": "2021-01-24",
       "datetime": "2021-01-24T20:08:37+00:00",

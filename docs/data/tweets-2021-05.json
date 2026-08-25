@@ -2,6 +2,15 @@
   "month": "2021-05",
   "tweets": [
     {
+      "id": "1398353943239921669",
+      "date": "2021-05-28",
+      "datetime": "2021-05-28T19:02:14+00:00",
+      "likes": 329,
+      "rts": 42,
+      "text": "A mixed remote / non-remote team is like dialing in to have dinner with a group of friends in a restaurant.",
+      "media": []
+    },
+    {
       "id": "1396547292304330753",
       "date": "2021-05-23",
       "datetime": "2021-05-23T19:23:15+00:00",
@@ -60,6 +69,15 @@
       "media": [
         "media/1389754749222752257-E0lmbjzVEAIpXEX.png"
       ]
+    },
+    {
+      "id": "1388645930476339201",
+      "date": "2021-05-02",
+      "datetime": "2021-05-02T00:06:04+00:00",
+      "likes": 319,
+      "rts": 29,
+      "text": "kind of funny if you think about it\n\nReading a 4,000 word doc takes about 20m for an average reader, and can convey *so much* context\n\nYet docs that long are considered end-of-the-world level reads for executives (\"they'll never read something that long...put it on one slide\")",
+      "media": []
     },
     {
       "id": "1388351747899367425",

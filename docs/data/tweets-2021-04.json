@@ -2,6 +2,15 @@
   "month": "2021-04",
   "tweets": [
     {
+      "id": "1386890799049166849",
+      "date": "2021-04-27",
+      "datetime": "2021-04-27T03:51:48+00:00",
+      "likes": 299,
+      "rts": 10,
+      "text": "why do company founders feel it necessary to broadcast internal org decisions to the whole world?",
+      "media": []
+    },
+    {
       "id": "1386146096926363649",
       "date": "2021-04-25",
       "datetime": "2021-04-25T02:32:37+00:00",
@@ -17,6 +26,15 @@
       "likes": 485,
       "rts": 81,
       "text": "amazing how \"stop starting, start finishing\" is *so much more effective* than \"reduce work in progress\".\n\nand they are basically equivalent.",
+      "media": []
+    },
+    {
+      "id": "1383451819913801735",
+      "date": "2021-04-17",
+      "datetime": "2021-04-17T16:06:31+00:00",
+      "likes": 327,
+      "rts": 30,
+      "text": "if you're going to run a messy cross-team, cross-functional, cross-department project\n\nrun. the. project\n\nget everyone in a \"room\" daily. cross your Ts. Dot Is. full attention. checklists. regular retros (with everyone)\n\nthere's nothing worse than a middling big project",
       "media": []
     },
     {
@@ -38,6 +56,15 @@
       "media": []
     },
     {
+      "id": "1379824637350010884",
+      "date": "2021-04-07",
+      "datetime": "2021-04-07T15:53:24+00:00",
+      "likes": 307,
+      "rts": 14,
+      "text": "I had a epiphany the other day...\n\nby going through the motions and doing your best in your current company (even if your company isn't ready for what you have in mind)\n\n...even if things \"don't work\", you'll set yourself up well for your next job\n\nthere's a benefit in practice",
+      "media": []
+    },
+    {
       "id": "1378918909605076995",
       "date": "2021-04-05",
       "datetime": "2021-04-05T03:54:21+00:00",
@@ -46,6 +73,17 @@
       "text": "Pssst .... the “size” of the story may be the least important thing to estimate",
       "media": [
         "media/1378918909605076995-EyLncEIU4AEyZKZ.jpg"
+      ]
+    },
+    {
+      "id": "1378886825754918913",
+      "date": "2021-04-05",
+      "datetime": "2021-04-05T01:46:52+00:00",
+      "likes": 330,
+      "rts": 45,
+      "text": "principles stated as questions...",
+      "media": [
+        "media/1378886825754918913-EyLKL5OVcAMYFz7.png"
       ]
     }
   ]

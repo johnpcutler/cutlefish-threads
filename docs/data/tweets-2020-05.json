@@ -2,6 +2,15 @@
   "month": "2020-05",
   "tweets": [
     {
+      "id": "1264328118967259136",
+      "date": "2020-05-23",
+      "datetime": "2020-05-23T22:51:28+00:00",
+      "likes": 299,
+      "rts": 62,
+      "text": "When we think of “strategy” as something rarified that only people with big paychecks do ... and the rest are left to execute ... we shut down the learning loop.",
+      "media": []
+    },
+    {
       "id": "1261957309695025152",
       "date": "2020-05-17",
       "datetime": "2020-05-17T09:50:43+00:00",
@@ -20,6 +29,15 @@
       "media": [
         "media/1261111274470952960-EYBeAtLVcAE2SDL.jpg"
       ]
+    },
+    {
+      "id": "1260637925085024256",
+      "date": "2020-05-13",
+      "datetime": "2020-05-13T18:27:57+00:00",
+      "likes": 296,
+      "rts": 46,
+      "text": "Prioritization is easy.\n\nBuilding shared understanding around a system for prioritization... hard.\n\nWithout the latter, the former is hard.",
+      "media": []
     },
     {
       "id": "1259508451392155648",

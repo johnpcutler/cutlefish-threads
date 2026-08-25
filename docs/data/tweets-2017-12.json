@@ -2,6 +2,15 @@
   "month": "2017-12",
   "tweets": [
     {
+      "id": "946805413571416064",
+      "date": "2017-12-29",
+      "datetime": "2017-12-29T18:09:36+00:00",
+      "likes": 295,
+      "rts": 114,
+      "text": "Interesting how orgs skip self-organization, cross-functional teams, trust, and transparency and latch on to the parts about forecasts, estimates, commitments, burn-downs, and “faster”.\n\nIt is almost...as...if...it...is...being...sold...and...that...way.\n#scrum #agile",
+      "media": []
+    },
+    {
       "id": "944448608652361728",
       "date": "2017-12-23",
       "datetime": "2017-12-23T06:04:29+00:00",
@@ -11,6 +20,15 @@
       "media": [
         "media/944448608652361728-DRtY9w5X0AEM9GA.jpg"
       ]
+    },
+    {
+      "id": "944413488771977216",
+      "date": "2017-12-23",
+      "datetime": "2017-12-23T03:44:56+00:00",
+      "likes": 296,
+      "rts": 78,
+      "text": "I’m always hearing about the need for “more experienced PMs”. Yet I see...\n\n1) very little mentorship / apprenticeship\n2) junior PMs thrown into the deep end\n3) PMs being asked to “herd” teams (not the job)\n4) insistence on “domain experience”\n\n#prodmgmt #ux #design",
+      "media": []
     },
     {
       "id": "943355969580490758",

@@ -2,6 +2,15 @@
   "month": "2019-02",
   "tweets": [
     {
+      "id": "1100262559100264448",
+      "date": "2019-02-26",
+      "datetime": "2019-02-26T05:13:30+00:00",
+      "likes": 330,
+      "rts": 111,
+      "text": "A cross-functional team includes access to real humans who pay for / use your product...not a proxy who proxies a proxy who proxies a proxy. One of the first Qs I ask new-to-me teams is how long it takes to interact with a customer.\n\nRange...\nNever, 3-5w ....15 minutes.",
+      "media": []
+    },
+    {
       "id": "1094329270187347968",
       "date": "2019-02-09",
       "datetime": "2019-02-09T20:16:44+00:00",
@@ -17,6 +26,15 @@
       "likes": 373,
       "rts": 71,
       "text": "We're 8y into our #agile transformation. 5y scaled agile. 4y into our #devops transformation. 3y into our #product transformation. 3y into our innovation lab and #leanstartup. 2y into \"infusing #design thinking\"\n\nBlessed are the consultants: for they shall inherit the earth",
+      "media": []
+    },
+    {
+      "id": "1091583898633437184",
+      "date": "2019-02-02",
+      "datetime": "2019-02-02T06:27:36+00:00",
+      "likes": 295,
+      "rts": 85,
+      "text": "\"oh that's important ... we should do X!\"\n\"cool, what should we stop doing so we have time to do X?\"\n\n#radicalfocus",
       "media": []
     },
     {

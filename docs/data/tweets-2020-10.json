@@ -2,12 +2,41 @@
   "month": "2020-10",
   "tweets": [
     {
+      "id": "1322355794147340288",
+      "date": "2020-10-31",
+      "datetime": "2020-10-31T01:52:44+00:00",
+      "likes": 306,
+      "rts": 30,
+      "text": "Product development is so wild ...\n\nYou can have a very green / inexperienced team do amazing things (with the lightest amount of direction)\n\nAnd a team filled with highly experienced ppl at a complete standstill",
+      "media": []
+    },
+    {
       "id": "1321407617416056838",
       "date": "2020-10-28",
       "datetime": "2020-10-28T11:05:01+00:00",
       "likes": 336,
       "rts": 23,
       "text": "must be me ... but I much prefer anti-product-visions to product visions. What will we NOT be. What will this NOT turn into.\n\nnot sure why, but I think it is because most product visions fail to tell me anything surprising.",
+      "media": []
+    },
+    {
+      "id": "1321365019280334848",
+      "date": "2020-10-28",
+      "datetime": "2020-10-28T08:15:45+00:00",
+      "likes": 320,
+      "rts": 50,
+      "text": "features come and go\npromises persist",
+      "media": [
+        "media/1321365019280334848-ElZuVRMUUAAJC-g.png"
+      ]
+    },
+    {
+      "id": "1320782897201082370",
+      "date": "2020-10-26",
+      "datetime": "2020-10-26T17:42:36+00:00",
+      "likes": 303,
+      "rts": 56,
+      "text": "remember ... start the \"timer\" from the moment you dream up an idea, the CEO says \"awesome\", and it enters the collective mental backlog of the org....\n\nand you'll find out that \"development time\" is really but a small % of the effort. Yet where people obsess obsess obsess.",
       "media": []
     },
     {
@@ -68,6 +97,15 @@
       "likes": 369,
       "rts": 70,
       "text": "\"Why are you using that metric?\"\n\n\"It's a standard metric. Everyone tracks it.\"\n\n\"Why?\"\n\n\"It goes on our dashboards. The board looks at it. Everyone.\"\n\n\"But does it tell you? When I see it change, what is happening?\"\n\n....",
+      "media": []
+    },
+    {
+      "id": "1311510393546657793",
+      "date": "2020-10-01",
+      "datetime": "2020-10-01T03:36:59+00:00",
+      "likes": 308,
+      "rts": 47,
+      "text": "They did this ... before multiple ticket assignees. https://twitter.com/jaysonrobinson/status/1311307129823821829",
       "media": []
     }
   ]

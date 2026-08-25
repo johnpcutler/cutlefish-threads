@@ -2,6 +2,18 @@
   "month": "2019-11",
   "tweets": [
     {
+      "id": "1199109478437642240",
+      "date": "2019-11-25",
+      "datetime": "2019-11-25T23:35:52+00:00",
+      "likes": 298,
+      "rts": 0,
+      "text": "So grateful for modern medicine today!",
+      "media": [
+        "media/1199109478437642240-EKQXtc8UEAA9Vjy.jpg",
+        "media/1199109478437642240-EKQXtkrUwAA-HrS.jpg"
+      ]
+    },
+    {
       "id": "1198655483403329537",
       "date": "2019-11-24",
       "datetime": "2019-11-24T17:31:51+00:00",
@@ -17,6 +29,15 @@
       "likes": 445,
       "rts": 128,
       "text": "Tip: Time.\n\nPpl often underestimate just how much time it takes to foster shared understanding. I’ve seen a leadership team barely, barely scratch the surface...after 24hrs/3 days, and prod teams take two weeks just to get their bearings around a new initiative.\n\nThis is “work”",
+      "media": []
+    },
+    {
+      "id": "1195511541468033024",
+      "date": "2019-11-16",
+      "datetime": "2019-11-16T01:18:57+00:00",
+      "likes": 319,
+      "rts": 85,
+      "text": "Lowering WIP starts with you/me. It's hard...\n\n1. Busy feels good\n2. Avoid uncomfortable work\n3. Yes feels good\n4. \"Get the most out of the day\"\n5. Shiny objects\n6. Tired? Motivation drops\n7. Conflict=hard\n8. Sunk cost\n9. Hard to discuss weaknesses\n10. Hard to change habits",
       "media": []
     },
     {
@@ -56,6 +77,15 @@
       "media": [
         "media/1191864230493843456-EIpaMRIXkAQz2ej.jpg"
       ]
+    },
+    {
+      "id": "1191408147526586368",
+      "date": "2019-11-04",
+      "datetime": "2019-11-04T17:33:32+00:00",
+      "likes": 309,
+      "rts": 75,
+      "text": "I'm not sure ppl realize how assigning \"right thing\" to one group and \"building it right\" to another can be insulting. It turns one group into order takers. And another group as thinkers.\n\nProduct development is a beautiful mess of loops, learning, uncertainty, and co-design.",
+      "media": []
     },
     {
       "id": "1190689018792443905",

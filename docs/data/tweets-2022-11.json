@@ -2,6 +2,28 @@
   "month": "2022-11",
   "tweets": [
     {
+      "id": "1595089944011505665",
+      "date": "2022-11-22",
+      "datetime": "2022-11-22T16:20:52+00:00",
+      "likes": 309,
+      "rts": 33,
+      "text": "A skill for any product manager is knowing what type of product puzzle you are dealing with (or that you don't know, which is equally important)\n\nA: quick wins, then levels off\nB: time in / benefits out\nC: lots of work in, then benefits\nD: slow at first, then rapid increase",
+      "media": [
+        "media/1595089944011505665-FiLlUkyUAAc1LxE.png"
+      ]
+    },
+    {
+      "id": "1594223179803033600",
+      "date": "2022-11-20",
+      "datetime": "2022-11-20T06:56:39+00:00",
+      "likes": 297,
+      "rts": 22,
+      "text": "this is all I could think about when I saw that image",
+      "media": [
+        "media/1594223179803033600-Fh_Rd7zUoAAW21p.jpg"
+      ]
+    },
+    {
       "id": "1593821656719368192",
       "date": "2022-11-19",
       "datetime": "2022-11-19T04:21:09+00:00",
@@ -19,6 +41,15 @@
       "likes": 399,
       "rts": 53,
       "text": "\"I have to be working on a Jira ticket, otherwise it doesn't count\"\n\nInsanity. What a perverse system where people feel that every second of their day needs to be a-\"counted\" for to get \"credit\".",
+      "media": []
+    },
+    {
+      "id": "1593018237155172352",
+      "date": "2022-11-16",
+      "datetime": "2022-11-16T23:08:39+00:00",
+      "likes": 312,
+      "rts": 20,
+      "text": "analytics events. the wild west of naming.\n\nplay_song\nsong_play\nPLAY_SONG\nsong_played\nlay_song\nplay-song\nplay\nPLAY_song\nplay_song_clicked\nCLICKED_play_song\nclicked_or_tapped_play_song\nsong.played\nplay_song_mobile\nold_song_played\nredesign_2_song_played_legacy\nfoo\ntest_song_played",
       "media": []
     },
     {

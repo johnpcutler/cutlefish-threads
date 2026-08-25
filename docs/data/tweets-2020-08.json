@@ -2,6 +2,15 @@
   "month": "2020-08",
   "tweets": [
     {
+      "id": "1300216639284154368",
+      "date": "2020-08-30",
+      "datetime": "2020-08-30T23:39:38+00:00",
+      "likes": 311,
+      "rts": 56,
+      "text": "\"we need more accountability\" is often...\n\n...we need more trust\n...we need more psychological safety\n...we need more support\n...we need fewer dependencies\n...we need more focus\n\nwhat else?",
+      "media": []
+    },
+    {
       "id": "1299944674350649345",
       "date": "2020-08-30",
       "datetime": "2020-08-30T05:38:56+00:00",
@@ -49,6 +58,15 @@
       "media": []
     },
     {
+      "id": "1297219995500388352",
+      "date": "2020-08-22",
+      "datetime": "2020-08-22T17:12:02+00:00",
+      "likes": 305,
+      "rts": 57,
+      "text": "This is why any roadmap visualized with time on the x axis will fail at conveying certain things (while succeeding at others).\n\n“The roadmap” is one of a 6-12 artifacts necessary for shared understanding. Yet seems to occupy 80% of headspace for PdM https://twitter.com/PavelASamsonov/status/1296818042928861184",
+      "media": []
+    },
+    {
       "id": "1296900821985050624",
       "date": "2020-08-21",
       "datetime": "2020-08-21T20:03:45+00:00",
@@ -60,6 +78,15 @@
       ]
     },
     {
+      "id": "1296827087819436033",
+      "date": "2020-08-21",
+      "datetime": "2020-08-21T15:10:46+00:00",
+      "likes": 304,
+      "rts": 50,
+      "text": "A: [Problem]\n\nB: “Bring me solutions not problems”\n\nA: [Solution]\n\nB: But, but, no, wait, how about..., we should, I’m not sure sure...\n\nA: [More solutions]\n\nB: “What’s the problem again?”\n\nA: [Problem]",
+      "media": []
+    },
+    {
       "id": "1290917588956884994",
       "date": "2020-08-05",
       "datetime": "2020-08-05T07:48:31+00:00",
@@ -69,6 +96,24 @@
       "media": [
         "media/1290917588956884994-EepCtFBUEAAqkFv.jpg"
       ]
+    },
+    {
+      "id": "1290653697693941762",
+      "date": "2020-08-04",
+      "datetime": "2020-08-04T14:19:55+00:00",
+      "likes": 295,
+      "rts": 49,
+      "text": "If the stuff you’re working on now was “promised” a year + ago ... almost by definition the rest of the org will have moved on mentally and will not be excited about your work.\n\nThis is the perpetual disappointment created by large planning batches / low flow.",
+      "media": []
+    },
+    {
+      "id": "1290121851255971842",
+      "date": "2020-08-03",
+      "datetime": "2020-08-03T03:06:33+00:00",
+      "likes": 328,
+      "rts": 31,
+      "text": "If you’re going to have a “product triangle” for key decisions (PdM, tech lead, design lead) it really really really really helps if that same structure exists at the highest level, and those people could form a functional product team.",
+      "media": []
     }
   ]
 }

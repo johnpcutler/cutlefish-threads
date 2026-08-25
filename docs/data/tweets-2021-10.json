@@ -2,6 +2,15 @@
   "month": "2021-10",
   "tweets": [
     {
+      "id": "1454945068159098891",
+      "date": "2021-10-31",
+      "datetime": "2021-10-31T22:55:10+00:00",
+      "likes": 296,
+      "rts": 28,
+      "text": "\"Recently changed jobs. At new job, we finished something in 6w that had been in progress for over 18mo at my old company. Why? 1) not having to wait months to approve new tech, 2) not doing lots of  things at once, and 3) not spending 50% of our time fixing old bugs.\"",
+      "media": []
+    },
+    {
       "id": "1454846471891611650",
       "date": "2021-10-31",
       "datetime": "2021-10-31T16:23:23+00:00",
@@ -11,6 +20,15 @@
       "media": [
         "media/1454846471891611650-FDCnJDOUUAgy6sW.jpg"
       ]
+    },
+    {
+      "id": "1454091146167087114",
+      "date": "2021-10-29",
+      "datetime": "2021-10-29T14:21:59+00:00",
+      "likes": 315,
+      "rts": 36,
+      "text": "product\n\"we want to collaborate more with engineering!\"\n\nengineering shows their shadow roadmap\n\nproduct\n\"ok, lets go through item by item so I can micromanage each of these decisions...\"",
+      "media": []
     },
     {
       "id": "1453820123257597957",
@@ -25,6 +43,15 @@
       ]
     },
     {
+      "id": "1453770369404313616",
+      "date": "2021-10-28",
+      "datetime": "2021-10-28T17:07:20+00:00",
+      "likes": 311,
+      "rts": 50,
+      "text": "For 15 years I have been hearing about analytics magically/proactively giving you insights.\n\nAnd it hasn't happened for the most part.\n\nBut I don't think it is a technical problem.\n\nIt is that without a layer of human judgement and domain awareness, the data means nothing.",
+      "media": []
+    },
+    {
       "id": "1452048722917871620",
       "date": "2021-10-23",
       "datetime": "2021-10-23T23:06:07+00:00",
@@ -34,6 +61,24 @@
       "media": [
         "media/1452048722917871620-FCa2nfGVQAIij-1.jpg"
       ]
+    },
+    {
+      "id": "1451240735127195650",
+      "date": "2021-10-21",
+      "datetime": "2021-10-21T17:35:28+00:00",
+      "likes": 321,
+      "rts": 43,
+      "text": "old guard vs. new guard\n\nwe talk about \"company culture\" but it is so dynamic when you have these groups interacting https://twitter.com/johncutlefish/status/1451240735127195650/photo/1",
+      "media": []
+    },
+    {
+      "id": "1451021083621027848",
+      "date": "2021-10-21",
+      "datetime": "2021-10-21T03:02:39+00:00",
+      "likes": 322,
+      "rts": 25,
+      "text": "\"we want all teams to use Jira\"\n\ngood reason:\n\"to promote mobility between teams and collaboration\"\n\nbad reason:\n\"so we can run reports that compare teams\"",
+      "media": []
     },
     {
       "id": "1450958039213690880",
@@ -63,6 +108,15 @@
       "media": [
         "media/1450531731069571073-FCFRopJWQAg-yKk.jpg"
       ]
+    },
+    {
+      "id": "1449605256417972228",
+      "date": "2021-10-17",
+      "datetime": "2021-10-17T05:16:40+00:00",
+      "likes": 299,
+      "rts": 36,
+      "text": "When programming\n\nI'd work for 12hrs straight. Spending most of my time flailing. Stuck. Frustrated. Addicted to solving the puzzle.\n\nI finally paired with someone who \"clocked out\" after 3-4hrs a day. A ton of progress. Able to sleep easy. Very low stress.\n\nIt finally clicked",
+      "media": []
     },
     {
       "id": "1449516223595626499",
@@ -132,6 +186,15 @@
       "media": [
         "media/1445484793680916488-FA9kgfdUYAE4BrG.jpg"
       ]
+    },
+    {
+      "id": "1444096931391700993",
+      "date": "2021-10-02",
+      "datetime": "2021-10-02T00:28:33+00:00",
+      "likes": 309,
+      "rts": 19,
+      "text": "Product tip of the day\n\nNever, never, never, never use  “temporary” names for new features which connate a particular solution…especially outside the product team\n\nEither make it a spot on name, get it right, or 100% code word\n\nIt will bite you.",
+      "media": []
     }
   ]
 }

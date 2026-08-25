@@ -31,6 +31,26 @@
       ]
     },
     {
+      "id": "1472771880511623169",
+      "date": "2021-12-20",
+      "datetime": "2021-12-20T03:32:33+00:00",
+      "likes": 323,
+      "rts": 19,
+      "text": "imagine if product managers needed to get their strategy PRs reviewed",
+      "media": []
+    },
+    {
+      "id": "1471602770964746245",
+      "date": "2021-12-16",
+      "datetime": "2021-12-16T22:06:56+00:00",
+      "likes": 301,
+      "rts": 52,
+      "text": "Why does our documentation suck?\n\nWhy can't I find the document I need NOW?",
+      "media": [
+        "media/1471602770964746245-FGwu3E3VUAAZDDj.jpg"
+      ]
+    },
+    {
       "id": "1471199046861656065",
       "date": "2021-12-15",
       "datetime": "2021-12-15T19:22:40+00:00",
@@ -46,6 +66,15 @@
       "likes": 356,
       "rts": 35,
       "text": "I'm getting the distinct impression that the \"projects to products\" shift in many big companies is more like a \"project factory to feature factory\" shift.",
+      "media": []
+    },
+    {
+      "id": "1468223218691768321",
+      "date": "2021-12-07",
+      "datetime": "2021-12-07T14:17:48+00:00",
+      "likes": 298,
+      "rts": 34,
+      "text": "A big reason why I think people avoid talking to customers is fear.\n\nFear of being “even more confused”\n\nFear of “casting doubt on the project”\n\nFear “people will challenge the sample size”\n\nFear they “mess up the interview”\n\nFear of “slowing things down”",
       "media": []
     }
   ]

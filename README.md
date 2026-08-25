@@ -1,6 +1,6 @@
 # johncutlefish threads
 
-A small static reading site generated from a local Twitter archive: the top 50 original threads, and the top 400 standalone tweets in a month/year browser.
+A small static reading site generated from a local Twitter archive: the top 50 original threads, and the top 500 standalone tweets in a month/year browser.
 
 The official dump is **not** in this repo. Images here are only the ones those posts need.
 
@@ -20,4 +20,4 @@ Requires the archive’s `data/` folder next to this README (`tweets.js`, `tweet
 python3 scripts/generate_site.py
 ```
 
-Flags: `--threads 50 --tweets 400 --max-gap-minutes 60 --min-tweets 3`
+Flags: `--threads 50 --tweets 500 --max-gap-minutes 60 --min-tweets 3`

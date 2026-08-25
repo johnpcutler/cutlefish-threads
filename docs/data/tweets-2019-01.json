@@ -29,6 +29,24 @@
       "rts": 86,
       "text": "All this focus on \"hiring more engineers!\" (and designers)... I wish we'd see equal focus on caring for existing teams and removing the drag, politics, dependencies, perverse incentives etc.\n\nI've seen teams increase value throughput by 2-3x w/o new hires. Scale what works.",
       "media": []
+    },
+    {
+      "id": "1082179679593742336",
+      "date": "2019-01-07",
+      "datetime": "2019-01-07T07:38:36+00:00",
+      "likes": 295,
+      "rts": 40,
+      "text": "Met a company where engineering (the folks on the front line) refused to add headcount until there were more #designers .\n\nWow. That’s making a point.",
+      "media": []
+    },
+    {
+      "id": "1080645677082849280",
+      "date": "2019-01-03",
+      "datetime": "2019-01-03T02:03:01+00:00",
+      "likes": 297,
+      "rts": 86,
+      "text": "“OK, what work will you commit to this quarter?”\n\nI’m not sure ppl realize the “cost” of getting this commitment...the  premature solutioning, planning inventories, Tetris playing, batch size issues, etc. The costs far outweigh the value of the commitment IMHO\n\n#kanban #prodmgmt",
+      "media": []
     }
   ]
 }

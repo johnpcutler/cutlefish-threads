@@ -2,6 +2,15 @@
   "month": "2021-02",
   "tweets": [
     {
+      "id": "1366108876433620993",
+      "date": "2021-02-28",
+      "datetime": "2021-02-28T19:31:51+00:00",
+      "likes": 330,
+      "rts": 50,
+      "text": "I wonder what % of teams doing “sprints and demos” actually change course / go back to the drawing board / pivot based on what they learn ...\n\nDemos to actually learn\nVs\nDemos to “approve” and “sign off” ... where feedback is seen as a bad thing",
+      "media": []
+    },
+    {
       "id": "1365784686056759296",
       "date": "2021-02-27",
       "datetime": "2021-02-27T22:03:38+00:00",
@@ -100,6 +109,17 @@
       ]
     },
     {
+      "id": "1358621923312164867",
+      "date": "2021-02-08",
+      "datetime": "2021-02-08T03:41:23+00:00",
+      "likes": 328,
+      "rts": 56,
+      "text": "One thing I really like — that I was originally hesitant about — is how the Accelerate metrics stay very focus on their intent. You can’t confuse them for value (vs other approaches which are easy to twist). They feel more like vital signs. Thank you @nicolefv",
+      "media": [
+        "media/1358621923312164867-EtrLb80VEAEsIcD.jpg"
+      ]
+    },
+    {
       "id": "1358466439154335744",
       "date": "2021-02-07",
       "datetime": "2021-02-07T17:23:32+00:00",
@@ -122,6 +142,17 @@
       ]
     },
     {
+      "id": "1357933270978027522",
+      "date": "2021-02-06",
+      "datetime": "2021-02-06T06:04:55+00:00",
+      "likes": 326,
+      "rts": 75,
+      "text": "Refer to this often. Thank you @arlobelshee\n\n\"A model for understanding the specific proficiencies involved in creating a good Delivering to Optimizing agile team.\"\n\nhttp://arlobelshee.github.io/AgileEngineeringFluency/?",
+      "media": [
+        "media/1357933270978027522-EthYljuU0AQpzHu.jpg"
+      ]
+    },
+    {
       "id": "1357098513180446722",
       "date": "2021-02-03",
       "datetime": "2021-02-03T22:47:53+00:00",
@@ -131,6 +162,15 @@
       "media": [
         "media/1357098513180446722-EtVhji2U0AAR_sg.jpg"
       ]
+    },
+    {
+      "id": "1356419087019122688",
+      "date": "2021-02-02",
+      "datetime": "2021-02-02T01:48:06+00:00",
+      "likes": 296,
+      "rts": 35,
+      "text": "there's a reason why \"tech\" has trouble \"reinventing healthcare\" ....\n\nit is not a technology problem for the most part",
+      "media": []
     }
   ]
 }

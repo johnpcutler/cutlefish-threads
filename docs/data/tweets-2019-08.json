@@ -31,6 +31,26 @@
       ]
     },
     {
+      "id": "1162626241037361152",
+      "date": "2019-08-17",
+      "datetime": "2019-08-17T07:24:31+00:00",
+      "likes": 303,
+      "rts": 68,
+      "text": "\"Be heroes | Be Humans\"\n\nFun team activity.",
+      "media": [
+        "media/1162626241037361152-ECJ6ZuaUwAEH-VD.jpg"
+      ]
+    },
+    {
+      "id": "1158135612962004992",
+      "date": "2019-08-04",
+      "datetime": "2019-08-04T22:00:21+00:00",
+      "likes": 318,
+      "rts": 70,
+      "text": "Deployment frequency can be decoupled from release frequency. Everyone knows that, right? And knows about feature flags?\n\nI worry I take some things for granted, and then find myself talking to a designer crapping on sprints &amp; realize that in their org the two things are coupled",
+      "media": []
+    },
+    {
       "id": "1156727594210881538",
       "date": "2019-08-01",
       "datetime": "2019-08-01T00:45:24+00:00",

@@ -18,7 +18,7 @@
       "datetime": "2019-06-30T08:00:25+00:00",
       "likes": 35,
       "rts": 8,
-      "text": "2/13 Evolving product manager role...",
+      "text": "2/13 Evolving product manager role... https://twitter.com/johncutlefish/status/1145240660888313856/photo/1",
       "media": []
     },
     {
@@ -82,7 +82,7 @@
       "datetime": "2019-06-30T08:00:38+00:00",
       "likes": 11,
       "rts": 1,
-      "text": "8/13 What you say ... what they think/hear",
+      "text": "8/13 What you say ... what they think/hear https://twitter.com/johncutlefish/status/1145240714613125126/photo/1",
       "media": []
     },
     {
@@ -114,7 +114,9 @@
       "likes": 43,
       "rts": 11,
       "text": "11/13 Management: “Why aren’t we getting anything done?”",
-      "media": []
+      "media": [
+        "media/1145240742698164224-D-S2YjGUEAA2FxT.jpg"
+      ]
     },
     {
       "id": "1145240751468449792",
@@ -133,7 +135,7 @@
       "datetime": "2019-06-30T08:00:49+00:00",
       "likes": 105,
       "rts": 21,
-      "text": "13/13 Feels like fast ... is actually faster",
+      "text": "13/13 Feels like fast ... is actually faster https://twitter.com/johncutlefish/status/1145240762243698688/photo/1",
       "media": []
     }
   ]

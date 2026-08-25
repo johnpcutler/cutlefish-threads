@@ -65,6 +65,25 @@ function renderCard(tweet) {
   </article>`;
 }
 
+function formatNumber(value) {
+  return Number(value).toLocaleString("en-US");
+}
+
+function monthYear(iso) {
+  const date = new Date(`${iso}T00:00:00`);
+  return date.toLocaleString("en-US", { month: "long", year: "numeric" });
+}
+
+async function renderIntro() {
+  const box = el("intro");
+  if (!box) return;
+  const stats = await loadJson("data/stats.json");
+  box.innerHTML = `
+    <p>From ${monthYear(stats.first)} to ${monthYear(stats.last)} I wrote ${formatNumber(stats.tweets)} tweets. ${formatNumber(stats.non_thread_replies)} were non-thread replies. ${formatNumber(stats.dms)} DMs with ${formatNumber(stats.dm_people)} people. Total likes ${formatNumber(stats.likes)}. Total retweets ${formatNumber(stats.retweets_received)}. I posted ${formatNumber(stats.pictures)} pictures, replied to ${formatNumber(stats.people_replied_to)} people, and ${formatNumber(stats.followers)} people followed along. And I met countless friends.</p>
+    <p>Here are some of the more popular threads and standalone tweets.</p>
+  `;
+}
+
 function hashValue() {
   return decodeURIComponent((location.hash || "").replace(/^#\/?/, ""));
 }
@@ -282,6 +301,7 @@ async function initTweets() {
 }
 
 const page = document.body.dataset.page;
+renderIntro().catch(() => {});
 if (page === "threads") {
   initThreads().catch((err) => {
     const reader = document.getElementById("reader");

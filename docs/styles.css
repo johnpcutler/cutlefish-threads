@@ -57,6 +57,18 @@ a:hover {
   font-weight: 600;
 }
 
+.intro {
+  margin: 0 0 1.75rem;
+}
+
+.intro p {
+  margin: 0 0 0.85rem;
+}
+
+.intro p:last-child {
+  margin-bottom: 0;
+}
+
 .lede {
   color: var(--muted);
   font-size: 0.95rem;

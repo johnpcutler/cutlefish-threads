@@ -7,13 +7,15 @@ import argparse
 import json
 import re
 import shutil
-from collections import defaultdict
+from collections import Counter, defaultdict
 from datetime import datetime
 from pathlib import Path
 
 SELF_ID = "533409964"
 HANDLE = "johncutlefish"
 TWEET_RE = re.compile(r"https://t\.co/\w+")
+YTD_PREFIX = re.compile(r"^window\.YTD\.[A-Za-z0-9_]+\.part\d+\s*=\s*")
+PBS_CODE = re.compile(r"/(?:media|img)/([A-Za-z0-9_-]+)\.")
 
 
 def load_part(path: Path, part: str) -> list:
@@ -27,11 +29,30 @@ def load_part(path: Path, part: str) -> list:
     return json.loads(raw)
 
 
+def load_ytd(path: Path) -> list:
+    raw = path.read_text(encoding="utf-8")
+    raw = YTD_PREFIX.sub("", raw, count=1)
+    raw = raw.rstrip()
+    if raw.endswith(";"):
+        raw = raw[:-1]
+    return json.loads(raw)
+
+
 def parse_created(value: str) -> datetime:
     return datetime.strptime(value, "%a %b %d %H:%M:%S %z %Y")
 
 
-def expand_text(tweet: dict) -> str:
+def tweet_media_items(tweet: dict) -> list[dict]:
+    return (tweet.get("extended_entities") or {}).get("media") or (tweet.get("entities") or {}).get("media") or []
+
+
+def pbs_code(item: dict) -> str | None:
+    url = item.get("media_url_https") or item.get("media_url") or ""
+    match = PBS_CODE.search(url)
+    return match.group(1) if match else None
+
+
+def expand_text(tweet: dict, keep_media_urls: bool = False) -> str:
     text = tweet.get("full_text") or ""
     replacements: list[tuple[str, str]] = []
     entities = tweet.get("entities") or {}
@@ -40,10 +61,14 @@ def expand_text(tweet: dict) -> str:
         expanded = url.get("expanded_url") or url.get("display_url") or short
         if short and expanded:
             replacements.append((short, expanded))
-    media = (tweet.get("extended_entities") or {}).get("media") or entities.get("media") or []
-    for item in media:
+    for item in tweet_media_items(tweet):
         short = item.get("url")
-        if short:
+        if not short:
+            continue
+        if keep_media_urls:
+            expanded = item.get("expanded_url") or item.get("media_url_https") or item.get("display_url") or ""
+            replacements.append((short, expanded))
+        else:
             replacements.append((short, ""))
     for short, expanded in replacements:
         text = text.replace(short, expanded)
@@ -58,30 +83,65 @@ def excerpt(text: str, limit: int = 140) -> str:
     return collapsed[: limit - 1].rstrip() + "…"
 
 
-def media_names(tweet_id: str, media_dir: Path) -> list[str]:
-    return sorted(p.name for p in media_dir.glob(f"{tweet_id}-*"))
+def index_media(media_dir: Path) -> tuple[dict[str, list[Path]], dict[str, list[Path]]]:
+    by_tid: dict[str, list[Path]] = defaultdict(list)
+    by_pbs: dict[str, list[Path]] = defaultdict(list)
+    if not media_dir.exists():
+        return by_tid, by_pbs
+    for path in media_dir.iterdir():
+        if path.name.startswith("."):
+            continue
+        tid, sep, rest = path.name.partition("-")
+        if sep:
+            by_tid[tid].append(path)
+            by_pbs[Path(rest).stem].append(path)
+    return by_tid, by_pbs
 
 
-def serialize_tweet(tweet: dict, media_dir: Path) -> dict:
+def resolve_media(tweet: dict, by_tid: dict[str, list[Path]], by_pbs: dict[str, list[Path]]) -> list[Path]:
+    found = list(by_tid.get(tweet["id_str"], []))
+    if found:
+        return sorted(found, key=lambda p: p.name)
+    extras: list[Path] = []
+    seen: set[str] = set()
+    for item in tweet_media_items(tweet):
+        code = pbs_code(item)
+        for path in by_pbs.get(code or "", []):
+            if path.name not in seen:
+                seen.add(path.name)
+                extras.append(path)
+    return extras
+
+
+def dest_media_name(tweet_id: str, src: Path) -> str:
+    if src.name.startswith(f"{tweet_id}-"):
+        return src.name
+    _, _, rest = src.name.partition("-")
+    return f"{tweet_id}-{rest}" if rest else f"{tweet_id}-{src.name}"
+
+
+def serialize_tweet(tweet: dict, media_names: list[str]) -> dict:
     created = parse_created(tweet["created_at"])
-    names = media_names(tweet["id_str"], media_dir)
     return {
         "id": tweet["id_str"],
         "date": created.strftime("%Y-%m-%d"),
         "datetime": created.isoformat(),
         "likes": int(tweet.get("favorite_count") or 0),
         "rts": int(tweet.get("retweet_count") or 0),
-        "text": expand_text(tweet),
-        "media": [f"media/{name}" for name in names],
+        "text": expand_text(tweet, keep_media_urls=not media_names),
+        "media": [f"media/{name}" for name in media_names],
     }
 
 
-def load_tweets(archive: Path) -> list[dict]:
+def load_all_posts(archive: Path) -> list[dict]:
     wraps = load_part(archive / "tweets.js", "part0")
     wraps += load_part(archive / "tweets-part1.js", "part1")
+    return [wrap["tweet"] for wrap in wraps]
+
+
+def load_tweets(archive: Path) -> list[dict]:
     tweets = []
-    for wrap in wraps:
-        tweet = wrap["tweet"]
+    for tweet in load_all_posts(archive):
         text = tweet.get("full_text") or ""
         if text.startswith("RT @"):
             continue
@@ -135,19 +195,55 @@ def detect_threads(
     return found
 
 
-def copy_media(tweet_ids: set[str], src: Path, dest: Path) -> int:
-    dest.mkdir(parents=True, exist_ok=True)
-    copied = 0
-    for tweet_id in tweet_ids:
-        for path in src.glob(f"{tweet_id}-*"):
-            shutil.copy2(path, dest / path.name)
-            copied += 1
-    return copied
-
-
 def write_json(path: Path, payload: object) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
+def archive_stats(archive: Path, tweets: list[dict], all_threads: list[tuple[dict, list[str]]]) -> dict:
+    created = [parse_created(t["created_at"]) for t in tweets]
+    thread_ids = {tid for _, chain in all_threads for tid in chain}
+    replies = [t for t in tweets if t.get("in_reply_to_user_id")]
+    replies_others = [t for t in replies if t.get("in_reply_to_user_id") != SELF_ID]
+    pictures = sum(1 for t in tweets if tweet_media_items(t))
+    year_counts = Counter(d.year for d in created)
+    peak_year, peak_count = year_counts.most_common(1)[0]
+
+    all_posts = load_all_posts(archive)
+    retweets = sum(1 for t in all_posts if (t.get("full_text") or "").startswith("RT @"))
+
+    dm = load_ytd(archive / "direct-message-headers.js")
+    dm_msgs = 0
+    dm_people: set[str] = set()
+    for conv in dm:
+        cid = conv["dmConversation"]["conversationId"]
+        for part in cid.split("-"):
+            if part and part != SELF_ID:
+                dm_people.add(part)
+        dm_msgs += len(conv["dmConversation"].get("messages") or [])
+
+    followers = len(load_ytd(archive / "follower.js"))
+    following = len(load_ytd(archive / "following.js"))
+
+    return {
+        "first": min(created).strftime("%Y-%m-%d"),
+        "last": max(created).strftime("%Y-%m-%d"),
+        "tweets": len(tweets),
+        "retweets": retweets,
+        "non_thread_replies": sum(1 for t in replies if t["id_str"] not in thread_ids),
+        "replies_to_others": len(replies_others),
+        "people_replied_to": len({t.get("in_reply_to_user_id") for t in replies_others}),
+        "dms": dm_msgs,
+        "dm_people": len(dm_people),
+        "likes": sum(int(t.get("favorite_count") or 0) for t in tweets),
+        "retweets_received": sum(int(t.get("retweet_count") or 0) for t in tweets),
+        "pictures": pictures,
+        "followers": followers,
+        "following": following,
+        "burst_threads": len(all_threads),
+        "peak_year": peak_year,
+        "peak_year_tweets": peak_count,
+    }
 
 
 def main() -> None:
@@ -163,6 +259,7 @@ def main() -> None:
     tweets = load_tweets(args.archive)
     by_id = {t["id_str"]: t for t in tweets}
     media_src = args.archive / "tweets_media"
+    by_tid, by_pbs = index_media(media_src)
     all_threads = detect_threads(tweets, args.max_gap_minutes * 60, args.min_tweets)
     selected_threads = all_threads[: args.threads]
     thread_tweet_ids = {tid for _, chain in all_threads for tid in chain}
@@ -183,17 +280,38 @@ def main() -> None:
         shutil.rmtree(out_data)
     if out_media.exists():
         shutil.rmtree(out_media)
+    out_media.mkdir(parents=True, exist_ok=True)
 
     needed_ids = {t["id_str"] for t in selected_tweets}
     for _, chain in selected_threads:
         needed_ids.update(chain)
-    copied = copy_media(needed_ids, media_src, out_media)
+
+    media_for: dict[str, list[str]] = {}
+    copied = 0
+    rematched = 0
+    kept_links = 0
+    for tid in needed_ids:
+        tweet = by_id[tid]
+        sources = resolve_media(tweet, by_tid, by_pbs)
+        names = []
+        for src in sources:
+            name = dest_media_name(tid, src)
+            shutil.copy2(src, out_media / name)
+            names.append(name)
+            copied += 1
+            if not src.name.startswith(f"{tid}-"):
+                rematched += 1
+        media_for[tid] = names
+        if tweet_media_items(tweet) and not names:
+            kept_links += 1
+
+    stats = archive_stats(args.archive, tweets, all_threads)
+    write_json(out_data / "stats.json", stats)
 
     thread_index = []
     for root, chain in selected_threads:
         created = parse_created(root["created_at"])
-        body = [serialize_tweet(by_id[tid], media_src) for tid in chain]
-        # serialize via by_id
+        body = [serialize_tweet(by_id[tid], media_for[tid]) for tid in chain]
         write_json(out_data / "threads" / f"{root['id_str']}.json", {"id": root["id_str"], "tweets": body})
         thread_index.append(
             {
@@ -202,7 +320,7 @@ def main() -> None:
                 "year": created.year,
                 "likes": int(root.get("favorite_count") or 0),
                 "rts": int(root.get("retweet_count") or 0),
-                "excerpt": excerpt(expand_text(root)),
+                "excerpt": excerpt(expand_text(root, keep_media_urls=not media_for[root["id_str"]])),
                 "n": len(chain),
             }
         )
@@ -212,7 +330,7 @@ def main() -> None:
     for tweet in selected_tweets:
         created = parse_created(tweet["created_at"])
         key = created.strftime("%Y-%m")
-        by_month[key].append(serialize_tweet(tweet, media_src))
+        by_month[key].append(serialize_tweet(tweet, media_for[tweet["id_str"]]))
     for key, items in by_month.items():
         items.sort(key=lambda t: t["datetime"], reverse=True)
         write_json(out_data / f"tweets-{key}.json", {"month": key, "tweets": items})
@@ -251,7 +369,8 @@ def main() -> None:
     print(f"wrote threads: {len(selected_threads)}")
     print(f"wrote standalone tweets: {len(selected_tweets)}")
     print(f"month files: {len(by_month)}")
-    print(f"media copied: {copied}")
+    print(f"media copied: {copied} (rematched by image id: {rematched})")
+    print(f"media missing from dump, kept photo link: {kept_links}")
     print(f"default month: {default_key}")
 
 

@@ -1,0 +1,109 @@
+{
+  "id": "1495448359284637696",
+  "tweets": [
+    {
+      "id": "1495448359284637696",
+      "date": "2022-02-20",
+      "datetime": "2022-02-20T17:20:47+00:00",
+      "likes": 351,
+      "rts": 50,
+      "text": "This is one of the biggest traps in scaling a company\n\nEveryone should be aware of it.\n\n1/n\nAt some point, someone will decide that one things is working well. It is time to try 2 things. This almost always involves the assumption that there are some common things between the two",
+      "media": [
+        "media/1495448359284637696-FMDcbstUcAQbgAG.jpg"
+      ]
+    },
+    {
+      "id": "1495448364078362625",
+      "date": "2022-02-20",
+      "datetime": "2022-02-20T17:20:48+00:00",
+      "likes": 16,
+      "rts": 0,
+      "text": "2/n\nBut it isn't that easy.\n\n#1 is more stable and practiced\n\n#2 is less stable and practiced\n\nThe assumption that you can support both with common services is a little shaky. These are very different motions.",
+      "media": [
+        "media/1495448364078362625-FMDdYaeVQAQHrGM.jpg"
+      ]
+    },
+    {
+      "id": "1495448368860246017",
+      "date": "2022-02-20",
+      "datetime": "2022-02-20T17:20:49+00:00",
+      "likes": 12,
+      "rts": 0,
+      "text": "3/n\n....and even that is based on the premise that #1 was actually working, and that the decision to do #2 wasn't based on a flawed premise (that #1 was working).\n\nOR...that #1 had \"flattened out\" (we assume there wasn't room to grow there)",
+      "media": [
+        "media/1495448368860246017-FMDeFi4VUAEvwRG.jpg"
+      ]
+    },
+    {
+      "id": "1495448373519736834",
+      "date": "2022-02-20",
+      "datetime": "2022-02-20T17:20:50+00:00",
+      "likes": 9,
+      "rts": 0,
+      "text": "4/n\nThe overwhelmed common service needs help. The default response is typically some combination of process, standardization, and management.\n\nBut remember ... the motions are very different.",
+      "media": [
+        "media/1495448373519736834-FMDgEjeUYAEKw49.jpg"
+      ]
+    },
+    {
+      "id": "1495448378272272384",
+      "date": "2022-02-20",
+      "datetime": "2022-02-20T17:20:52+00:00",
+      "likes": 9,
+      "rts": 1,
+      "text": "5/n\nIn the short term, the response feels like it is working.\n\nBut that is just an illusion.\n\n#1 and #2 are getting frustrated, and just start working around the bottleneck.\n\nWhich is rational.\n\nBut pretty damaging overall.",
+      "media": [
+        "media/1495448378272272384-FMDgrrCVgAA4VfE.jpg"
+      ]
+    },
+    {
+      "id": "1495448384299311110",
+      "date": "2022-02-20",
+      "datetime": "2022-02-20T17:20:53+00:00",
+      "likes": 9,
+      "rts": 0,
+      "text": "6/n\nAs everything slows, we rationalize doing MORE.\n\n#1 and #2 are kind of stalled ... but we pretend they are working.\n\nEnter the hack-day project that everyone loved (or the \"great idea\")",
+      "media": [
+        "media/1495448384299311110-FMDhxoPVcAU-N25.jpg"
+      ]
+    },
+    {
+      "id": "1495448389764337664",
+      "date": "2022-02-20",
+      "datetime": "2022-02-20T17:20:54+00:00",
+      "likes": 6,
+      "rts": 0,
+      "text": "7/n\nAnd the cycle continues....",
+      "media": [
+        "media/1495448389764337664-FMDiN1uUUAEgAKP.jpg"
+      ]
+    },
+    {
+      "id": "1495448393019269125",
+      "date": "2022-02-20",
+      "datetime": "2022-02-20T17:20:55+00:00",
+      "likes": 16,
+      "rts": 0,
+      "text": "8/n\nSo what can you do to prevent this?\n\nBack to our example, one possibility is that #1 still had more room.\n\nSo the first thing we can do is make sure we explore existing opportunities instead of falling for the trap of moving on.",
+      "media": []
+    },
+    {
+      "id": "1495448395154337795",
+      "date": "2022-02-20",
+      "datetime": "2022-02-20T17:20:56+00:00",
+      "likes": 43,
+      "rts": 3,
+      "text": "9/n\n\nThe next thing we can do is resist standardization.\n\nThe critical error was believing that standardization was key, instead of accepting we needed to support parallel -- and different -- motions.",
+      "media": []
+    },
+    {
+      "id": "1495448396777529345",
+      "date": "2022-02-20",
+      "datetime": "2022-02-20T17:20:56+00:00",
+      "likes": 27,
+      "rts": 0,
+      "text": "10/n\n\nMany more lessons here, but the first step is being aware.\n\nThat what feels like it is working...could work even better\n\nThat we are biased to believe we can \"thread the needle\" with common services\n\nThat scaling is never as simple as better process/standardization.",
+      "media": []
+    }
+  ]
+}

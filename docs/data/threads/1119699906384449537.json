@@ -1,0 +1,77 @@
+{
+  "id": "1119699906384449537",
+  "tweets": [
+    {
+      "id": "1119699906384449537",
+      "date": "2019-04-20",
+      "datetime": "2019-04-20T20:30:35+00:00",
+      "likes": 450,
+      "rts": 169,
+      "text": "The value of “sprints” is largely misunderstood / glossed over.\n\nSprints are meant to be a *healthy* (and effective) forcing function / enabling constraint ... not a way to drive teams/individuals...not a hamster wheel ... not “breaking up a project” (1/n)",
+      "media": []
+    },
+    {
+      "id": "1119699911333646336",
+      "date": "2019-04-20",
+      "datetime": "2019-04-20T20:30:36+00:00",
+      "likes": 45,
+      "rts": 10,
+      "text": "I met a team recently that talked about “failed” sprints. Failed?\n\n“Yeah, we keep missing our story point goal, it is so frustrating. And there are always loose end stories. Our morale is super low.”\n\nThis shows a fundamental misunderstanding... (2/n)",
+      "media": []
+    },
+    {
+      "id": "1119699913573425152",
+      "date": "2019-04-20",
+      "datetime": "2019-04-20T20:30:37+00:00",
+      "likes": 45,
+      "rts": 5,
+      "text": "The sprint was doing its job ... sending them a signal ... but the org had forgotten (or never learned) why they were using sprints in the first place. They had just become a vessel for delivery NOT learning ... (3/n)",
+      "media": []
+    },
+    {
+      "id": "1119699915305672704",
+      "date": "2019-04-20",
+      "datetime": "2019-04-20T20:30:37+00:00",
+      "likes": 35,
+      "rts": 5,
+      "text": "I hear ppl decry the fact that their work “can’t fit into a sprint”.\n\nThe whole point is that some slice of their work be folded into an increment that could *potentially* (at the discretion of the team) be “released”\n\nGreat teams choose not to *all the time* (4/n)",
+      "media": []
+    },
+    {
+      "id": "1119699916924669952",
+      "date": "2019-04-20",
+      "datetime": "2019-04-20T20:30:37+00:00",
+      "likes": 32,
+      "rts": 7,
+      "text": "Frequent integration (of ideas, theories, directions, perspectives, potential solutions) is a hallmark of effective problem solving.\n\nDesigners have used usable prototypes of increasing fidelity since the dawn of time. Also: Writers. Scientists. Chefs. But... (5/n)",
+      "media": []
+    },
+    {
+      "id": "1119699918568837120",
+      "date": "2019-04-20",
+      "datetime": "2019-04-20T20:30:38+00:00",
+      "likes": 37,
+      "rts": 5,
+      "text": "It is also why a team “working small” without sprints can do just fine as well. The “fixed length”-ed-ness seems more designed for “the business” and people’s calendars than any real utility.\n\nI’ve seen teams do great with a MAX sprint length (e.g. 7d). (6/n)",
+      "media": []
+    },
+    {
+      "id": "1119699920129159168",
+      "date": "2019-04-20",
+      "datetime": "2019-04-20T20:30:38+00:00",
+      "likes": 42,
+      "rts": 10,
+      "text": "Once it all got subsumed under the delivery mandate — points, stories, horse-and-pony-show rituals, “owners”, “masters”, burn-downs, Tetris packing the sprint, etc. — it all got lost. And... (7/n)",
+      "media": []
+    },
+    {
+      "id": "1119699922276610048",
+      "date": "2019-04-20",
+      "datetime": "2019-04-20T20:30:39+00:00",
+      "likes": 59,
+      "rts": 10,
+      "text": "Sadly... this is the dominant perspective. But it is not the only one. Really ask yourself ... “what job are we hiring sprints to do?” (8/end)",
+      "media": []
+    }
+  ]
+}

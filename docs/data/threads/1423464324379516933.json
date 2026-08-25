@@ -1,0 +1,32 @@
+{
+  "id": "1423464324379516933",
+  "tweets": [
+    {
+      "id": "1423464324379516933",
+      "date": "2021-08-06",
+      "datetime": "2021-08-06T02:01:56+00:00",
+      "likes": 341,
+      "rts": 61,
+      "text": "\"we just have to execute\" is so problematic...\n\nit conveys:\n* plan is perfect\n* the thinking has been done\n* keep your head down, stay in your lane\n* now it is about adherence to plan\n* no time for new learning\n* don't ask questions\n* suspend disbelief/pushback",
+      "media": []
+    },
+    {
+      "id": "1423465688480419841",
+      "date": "2021-08-06",
+      "datetime": "2021-08-06T02:07:21+00:00",
+      "likes": 80,
+      "rts": 6,
+      "text": ".. what is fascinating to me is that I have seen very well meaning people say this.\n\nThey just don't consider the message.\n\nwhat they mean instead is:\n* we need to focus\n* make the right promises (and keep them)\n* avoid shiny objects\n* keep looking forward\n* avoid decision drift",
+      "media": []
+    },
+    {
+      "id": "1423467618040643593",
+      "date": "2021-08-06",
+      "datetime": "2021-08-06T02:15:01+00:00",
+      "likes": 42,
+      "rts": 4,
+      "text": "say it is really is a low complexity situation...\n\nthen:\n\"lets agree this is a low complexity situation\"\n\"here's why speed is extremely important here...\"\n\"we'll know very little until this thing is in the world, so we have to focus there...\"\n\nmuch better.",
+      "media": []
+    }
+  ]
+}

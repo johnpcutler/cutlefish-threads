@@ -1,0 +1,95 @@
+{
+  "id": "1426973535486943233",
+  "tweets": [
+    {
+      "id": "1426973535486943233",
+      "date": "2021-08-15",
+      "datetime": "2021-08-15T18:26:17+00:00",
+      "likes": 432,
+      "rts": 88,
+      "text": "Quotes from the real world:\n\n1/n:\n\nEngineer upon joining a popular \"product company\":\n\n\"Things are more project-based, more waterfall, and far less collaborative than I expected. But it is effective in its own way. It's weird...\"",
+      "media": []
+    },
+    {
+      "id": "1426973536690659332",
+      "date": "2021-08-15",
+      "datetime": "2021-08-15T18:26:17+00:00",
+      "likes": 45,
+      "rts": 2,
+      "text": "2/n:\n\nProduct manager upon joining [company-with-amazing-blog-posts-about-product]\n\n\"It is great. But there is a very specific process. And not that much room for changing things up. Plus, everyone is so confident this way is the only way.\"",
+      "media": []
+    },
+    {
+      "id": "1426973537835704325",
+      "date": "2021-08-15",
+      "datetime": "2021-08-15T18:26:17+00:00",
+      "likes": 66,
+      "rts": 7,
+      "text": "3/n\n\nDesigner after leaving \"crazy startup\" for \"a big boring company\"\n\n\"What I've been most taken by is how thoughtful people are here. And skilled. There's more focus on doing good work here. The problem is bureaucracy and not bad intentions or incompetence\"",
+      "media": []
+    },
+    {
+      "id": "1426973539005960193",
+      "date": "2021-08-15",
+      "datetime": "2021-08-15T18:26:18+00:00",
+      "likes": 41,
+      "rts": 2,
+      "text": "4/n\n\nPdM at BigFamousTechCo\n\n\"What I struggle with most is what we joke of as promotion based roadmaps. Which is basically having to negotiate a roadmap with engineering managers that will give people a shot at a promotion.\"",
+      "media": []
+    },
+    {
+      "id": "1426973540264267782",
+      "date": "2021-08-15",
+      "datetime": "2021-08-15T18:26:18+00:00",
+      "likes": 40,
+      "rts": 2,
+      "text": "5/n\n\nDesigner at Famous-Product-Co\n\n\"I literally need to FIGHT to do any research. It is all about shipping right now. People discount qualitative research and my PhD. The reality is that we've gotten crazy luck, and people know that. They're riding it out.\"",
+      "media": []
+    },
+    {
+      "id": "1426973541442867204",
+      "date": "2021-08-15",
+      "datetime": "2021-08-15T18:26:18+00:00",
+      "likes": 23,
+      "rts": 2,
+      "text": "6/n\n\nProduct leader about new company\n\n\"This work is always hard. Yes I miss some of what we were doing before. It moved faster. But I feel like we're really building something here that will last\"",
+      "media": []
+    },
+    {
+      "id": "1426973542604627968",
+      "date": "2021-08-15",
+      "datetime": "2021-08-15T18:26:19+00:00",
+      "likes": 44,
+      "rts": 4,
+      "text": "7/n\n\nEngineer shifting to big enterprise\n\n\"It is way harder working with non-greenfield stuff. The legacy systems here are just killing us. I never new how hard this would be, and never new how easy it was before.\"",
+      "media": []
+    },
+    {
+      "id": "1426973543762325504",
+      "date": "2021-08-15",
+      "datetime": "2021-08-15T18:26:19+00:00",
+      "likes": 37,
+      "rts": 5,
+      "text": "8/n\n\nPdM at famous \"data-driven company\"\n\n\"We are called one of the most data-driven companies in the world, but the reality is that it is killing us right now. Our landscape has changed, and we can't do anything unless the data tells us to do it.\"",
+      "media": []
+    },
+    {
+      "id": "1426973544911491073",
+      "date": "2021-08-15",
+      "datetime": "2021-08-15T18:26:19+00:00",
+      "likes": 37,
+      "rts": 2,
+      "text": "9/n\n\nStartup employee...\n\n\"It is chaos. That's the only word for it. Everyone is counting the days until they can get out and brag about having worked here so they can advise and get new gigs\"",
+      "media": []
+    },
+    {
+      "id": "1426973546106875904",
+      "date": "2021-08-15",
+      "datetime": "2021-08-15T18:26:19+00:00",
+      "likes": 295,
+      "rts": 29,
+      "text": "10/end\n\nSo we see...things are not always what they seem. It is a beautiful mess. We create mythologies about \"high performing\" teams, but product is hard everywhere.",
+      "media": []
+    }
+  ]
+}

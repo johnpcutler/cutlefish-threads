@@ -33,10 +33,6 @@ function linkify(text) {
   );
 }
 
-function liveUrl(id) {
-  return `https://twitter.com/johncutlefish/status/${id}`;
-}
-
 function formatCounts(likes, rts) {
   return `${likes.toLocaleString()} likes · ${rts.toLocaleString()} RTs`;
 }
@@ -58,7 +54,6 @@ function renderPost(tweet) {
     <div class="post-meta">${escapeHtml(tweet.date)} · ${formatCounts(tweet.likes, tweet.rts)}</div>
     <p class="post-text">${linkify(tweet.text)}</p>
     ${mediaHtml(tweet.media || [])}
-    <a class="live" href="${liveUrl(tweet.id)}">Open on X</a>
   </article>`;
 }
 
@@ -67,7 +62,6 @@ function renderCard(tweet) {
     <div class="card-meta">${escapeHtml(tweet.date)} · ${formatCounts(tweet.likes, tweet.rts)}</div>
     <p class="card-text">${linkify(tweet.text)}</p>
     ${mediaHtml(tweet.media || [])}
-    <a class="live" href="${liveUrl(tweet.id)}">Open on X</a>
   </article>`;
 }
 

@@ -1,0 +1,88 @@
+{
+  "id": "1175967762247647233",
+  "tweets": [
+    {
+      "id": "1175967762247647233",
+      "date": "2019-09-23",
+      "datetime": "2019-09-23T02:58:57+00:00",
+      "likes": 351,
+      "rts": 114,
+      "text": "visualizing \"the work\" at the program/portfolio level is one the single most powerful things a team can do to collectively improve how they work\n\nthe fascinating thing is the resistance (1/9)\n#kanban #agile #programmanagement #visualization\n\nBoard Credit: @keithadam @Optimizely",
+      "media": [
+        "media/1175967762247647233-EFHgbTLVAAA9FPc.jpg"
+      ]
+    },
+    {
+      "id": "1175967765795991552",
+      "date": "2019-09-23",
+      "datetime": "2019-09-23T02:58:58+00:00",
+      "likes": 50,
+      "rts": 7,
+      "text": "2/9 Power and ambiguity. For some...power is maintained through opacity and ambiguity. Making work visible and/or making ambiguity visible is a direct threat to that way of trying to control a situation.",
+      "media": []
+    },
+    {
+      "id": "1175967766773297157",
+      "date": "2019-09-23",
+      "datetime": "2019-09-23T02:58:58+00:00",
+      "likes": 29,
+      "rts": 2,
+      "text": "3/9 With visibility, there is the constant threat of micro-management. Flying under the radar is sometimes the only way to \"get stuff done without people meddling. If everyone saw our roadmap, they'd keep poking holes in it!\"",
+      "media": []
+    },
+    {
+      "id": "1175967767754788870",
+      "date": "2019-09-23",
+      "datetime": "2019-09-23T02:58:58+00:00",
+      "likes": 31,
+      "rts": 2,
+      "text": "4/9 It exposes the \"unofficial\" ways to get work done ... the CEO fast-track, the backchannels, the \"just push that to the front of the line\".  Again, everyone knows this happens...but putting it out in the open is hard.",
+      "media": []
+    },
+    {
+      "id": "1175967768656506880",
+      "date": "2019-09-23",
+      "datetime": "2019-09-23T02:58:59+00:00",
+      "likes": 19,
+      "rts": 4,
+      "text": "5/9 Visualizing dependencies is uncomfortable...especially if there are efforts to perpetuate the idea of team and individual autonomy.  Everyone knows the dependencies exist, but they are commonly resolved in back-alley deals...not out in the open.",
+      "media": []
+    },
+    {
+      "id": "1175967770371952640",
+      "date": "2019-09-23",
+      "datetime": "2019-09-23T02:58:59+00:00",
+      "likes": 16,
+      "rts": 1,
+      "text": "6/9 The Elephants. Consider a team that has been sinking most of their capacity into reactive issues. They've been shouting out for help. From the rooftops. No help. How does making this visible help? It is like picking a scab.",
+      "media": []
+    },
+    {
+      "id": "1175967771366002688",
+      "date": "2019-09-23",
+      "datetime": "2019-09-23T02:58:59+00:00",
+      "likes": 19,
+      "rts": 2,
+      "text": "7/9 Who \"owns\" this. So you have 16 teams and a bunch of dependencies, impediments, and locally optimal but globally damaging practices. Who is actually responsible for the global health of the system visualized \"on the board\".\n\nTough question...",
+      "media": []
+    },
+    {
+      "id": "1175967772238499840",
+      "date": "2019-09-23",
+      "datetime": "2019-09-23T02:58:59+00:00",
+      "likes": 23,
+      "rts": 1,
+      "text": "8/9 Fear of a mandated \"single process\". This is a justified fear. The best visualizations don't force a particular way of working. They are open. But teams rightfully worry that someone will impose a single way of working on everyone.",
+      "media": []
+    },
+    {
+      "id": "1175967773081526272",
+      "date": "2019-09-23",
+      "datetime": "2019-09-23T02:59:00+00:00",
+      "likes": 31,
+      "rts": 4,
+      "text": "9/9 Overall discomfort. Seeing things \"as they are\" highlights just how hard this is ... even under ideal circumstances. You can't do it all. Prioritization is hard. Saying no is hard.\n\nShining the mirror back is a tough pill.",
+      "media": []
+    }
+  ]
+}

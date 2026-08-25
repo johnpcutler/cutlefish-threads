@@ -1,0 +1,49 @@
+{
+  "id": "1050991041732435968",
+  "tweets": [
+    {
+      "id": "1050991041732435968",
+      "date": "2018-10-13",
+      "datetime": "2018-10-13T06:06:05+00:00",
+      "likes": 344,
+      "rts": 116,
+      "text": "This is a pull system...we start something when we finish something else.",
+      "media": [
+        "media/1050991041732435968-DpXexfOU0AAJD_h.mp4"
+      ]
+    },
+    {
+      "id": "1050991060787154944",
+      "date": "2018-10-13",
+      "datetime": "2018-10-13T06:06:10+00:00",
+      "likes": 46,
+      "rts": 12,
+      "text": "This is not a pull system. The team agrees upfront to a batch of work for the month.  This is often rationalized because 1) “people will be lazy with the time constraint” and 2) it gives the team “something to shoot for”",
+      "media": [
+        "media/1050991060787154944-DpXeyYCVAAAZUH8.mp4"
+      ]
+    },
+    {
+      "id": "1050991076725600257",
+      "date": "2018-10-13",
+      "datetime": "2018-10-13T06:06:13+00:00",
+      "likes": 57,
+      "rts": 23,
+      "text": "#scrum, in theory, focuses on a sprint goal. The team is empowered to adjust scope to achieve the goal (vs. finish a predetermined set of stories).",
+      "media": [
+        "media/1050991076725600257-DpXezcWUYAAq-8-.mp4"
+      ]
+    },
+    {
+      "id": "1050991095285407744",
+      "date": "2018-10-13",
+      "datetime": "2018-10-13T06:06:18+00:00",
+      "likes": 53,
+      "rts": 9,
+      "text": "In practice, many sprints end up like this. The “goal” is a series of stories. Often dependent on each other.",
+      "media": [
+        "media/1050991095285407744-DpXe0XuU4AUXLx3.mp4"
+      ]
+    }
+  ]
+}

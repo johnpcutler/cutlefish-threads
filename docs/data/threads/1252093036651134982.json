@@ -1,0 +1,85 @@
+{
+  "id": "1252093036651134982",
+  "tweets": [
+    {
+      "id": "1252093036651134982",
+      "date": "2020-04-20",
+      "datetime": "2020-04-20T04:33:37+00:00",
+      "likes": 375,
+      "rts": 82,
+      "text": "I've been using this 1-3s approach for years now and I really enjoy it.\n\nThe basic idea is that at any given time you are doing work in the 1-3h range, linked to work in the 1-3d range linked to 1-3w to 1-3m to 1-3q to 1-3y and 1-3 decades.\n\nSome details... (1/n)",
+      "media": [
+        "media/1252093036651134982-EWBOQdNU4AAXQmq.jpg"
+      ]
+    },
+    {
+      "id": "1252093039092174848",
+      "date": "2020-04-20",
+      "datetime": "2020-04-20T04:33:37+00:00",
+      "likes": 20,
+      "rts": 1,
+      "text": "Why 1-3? Let's take 1-3h...\n\nonce something takes more than 3h, you're basically at a day. Once something takes more than 3d, you are basically at a week.\n\n3w ... a month.\n\n3m ... a quarter.\n\n3q ... a year.\n\nSo that helps the ranges \"just work\" without a lot of hassle (2/n)",
+      "media": []
+    },
+    {
+      "id": "1252093040145002497",
+      "date": "2020-04-20",
+      "datetime": "2020-04-20T04:33:38+00:00",
+      "likes": 12,
+      "rts": 0,
+      "text": "Imagine if a teams says \"oh, that will take between 30 and 90 days\". In the moment you'd say \"um...that's a big range.\"\n\nBut say you look back on all things slated for 1-3 months, and you say \"100% of the time, they fell between 1-3 months.\n\n\"Wow. Not bad!\" (3/n)",
+      "media": []
+    },
+    {
+      "id": "1252093041227100160",
+      "date": "2020-04-20",
+      "datetime": "2020-04-20T04:33:38+00:00",
+      "likes": 24,
+      "rts": 5,
+      "text": "Anyway, the important part is that it is all connected.\n\nMy rule of thumb is that a product manager is doing their job when anyone working on 1-3h work can trace that work to a 1-3y bet, without skipping steps: d, m, q, etc.\n\nWhich brings us to the messy middle... (4/n)",
+      "media": [
+        "media/1252093041227100160-EWBQfHSVAAAL1LY.jpg"
+      ]
+    },
+    {
+      "id": "1252093043634667521",
+      "date": "2020-04-20",
+      "datetime": "2020-04-20T04:33:39+00:00",
+      "likes": 16,
+      "rts": 0,
+      "text": "The messy middle isn't \"actionable\" like 1-3h, w or m work. No one walks into work and works on the 1-3q work. It tends to be vague.\n\nMisalignment in this range can be really costly. But if you over-specify it and prematurely converge, that sucks as well (5/n)",
+      "media": []
+    },
+    {
+      "id": "1252093044700020737",
+      "date": "2020-04-20",
+      "datetime": "2020-04-20T04:33:39+00:00",
+      "likes": 41,
+      "rts": 2,
+      "text": "A good work visualization considers work happening at each of these levels. I have a video for this visualization available here: https://www.youtube.com/watch?v=8wF6VwRKrMc&feature=emb_logo\n\nAnd a description here:\nhttps://amplitude.com/north-star/putting-the-north-star-into-action\n\nThe important part is connectivity (6/n)",
+      "media": [
+        "media/1252093044700020737-EWBReVqUMAATPTa.jpg"
+      ]
+    },
+    {
+      "id": "1252093046298042369",
+      "date": "2020-04-20",
+      "datetime": "2020-04-20T04:33:39+00:00",
+      "likes": 17,
+      "rts": 3,
+      "text": "Things that take 1-3d &amp; 1-3w are inherently prescriptive. They have to be. This is why \"ship value every sprint\" can be damaging. Yes, you can ship something, but why?\n\nWhich is where making sure you have the 1-3m opportunities described well can make all the difference (7/n)",
+      "media": []
+    },
+    {
+      "id": "1252093048042840064",
+      "date": "2020-04-20",
+      "datetime": "2020-04-20T04:33:40+00:00",
+      "likes": 62,
+      "rts": 7,
+      "text": "How do you start? Make a mind map of bets ranging from 1-3h to 1-3y and practice going up and down the \"tree\". Does it make sense? Are the \"solutions\" where they should be? (1-3w and shorter). Is it coherent?\n\n1-3s. It is easy to remember and (hopefully) useful. (8/n)",
+      "media": [
+        "media/1252093048042840064-EWBTkcGU0AAujFj.png"
+      ]
+    }
+  ]
+}

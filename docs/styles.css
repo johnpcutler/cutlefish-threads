@@ -243,12 +243,6 @@ a:hover {
   margin: 0.5rem 0 0;
 }
 
-.live {
-  font-family: ui-sans-serif, system-ui, sans-serif;
-  font-size: 0.75rem;
-  color: var(--live);
-}
-
 .status {
   color: var(--muted);
   font-family: ui-sans-serif, system-ui, sans-serif;

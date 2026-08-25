@@ -1,0 +1,59 @@
+{
+  "id": "1150281570713927681",
+  "tweets": [
+    {
+      "id": "1150281570713927681",
+      "date": "2019-07-14",
+      "datetime": "2019-07-14T05:51:12+00:00",
+      "likes": 337,
+      "rts": 112,
+      "text": "Three factors are having a big impact on #prodmgmt\n\n1- engineers and #ux working together as teammates\n2- #ux doing much more than pixel pushing\n3- teams having direct access to customers and users (and data about how users use the product)\n\nHere’s why...(1/6)",
+      "media": []
+    },
+    {
+      "id": "1150281573708656640",
+      "date": "2019-07-14",
+      "datetime": "2019-07-14T05:51:13+00:00",
+      "likes": 28,
+      "rts": 3,
+      "text": "Many engineers never interact directly with customers/users. Never. Not for lack of interesting, but for lack of opportunities.\n\nAnd they never see firsthand how #ux does qualitative research. Doing so creates newfound professional respect between eng and #ux (2/6)",
+      "media": []
+    },
+    {
+      "id": "1150281575730253824",
+      "date": "2019-07-14",
+      "datetime": "2019-07-14T05:51:13+00:00",
+      "likes": 23,
+      "rts": 4,
+      "text": "Many eng have never worked with #ux who is embedded on their team. Why is this important?\n\nA lot of “tossing stuff to build over the fence” is just a byproduct of being spread too thin. Getting upstream is your only option.\n\nWhen embedded, you can work in different ways  (3/6)",
+      "media": []
+    },
+    {
+      "id": "1150281577420562432",
+      "date": "2019-07-14",
+      "datetime": "2019-07-14T05:51:13+00:00",
+      "likes": 16,
+      "rts": 2,
+      "text": "Access to data is huge as well. Curious eng often find a way to get at the data. But it is typically transactional, and doesn’t tell the whole story. Behavioral analytics linked to CRM data, sales data, etc tells much richer story. Context matters. Plus #ux sees it as well. (4/6)",
+      "media": []
+    },
+    {
+      "id": "1150281579517763584",
+      "date": "2019-07-14",
+      "datetime": "2019-07-14T05:51:14+00:00",
+      "likes": 13,
+      "rts": 2,
+      "text": "This really puts a focus on outcomes, and frankly makes teams a bit more skeptical when a PdM talks about “sure things” or their new strategy. It is a healthy skepticism, but make the team just a tad more careful. (5/6)",
+      "media": []
+    },
+    {
+      "id": "1150281581191282688",
+      "date": "2019-07-14",
+      "datetime": "2019-07-14T05:51:14+00:00",
+      "likes": 50,
+      "rts": 9,
+      "text": "So why does this all matter?\n\nWhen eng and design get more context, and get more comfortable working together, #prodmgmt becomes less herder/decider/delivery-overseer/customer proxy/ticket-writer/requirement gatherer.\n\nIt changes the role as commonly practices (6/6)",
+      "media": []
+    }
+  ]
+}

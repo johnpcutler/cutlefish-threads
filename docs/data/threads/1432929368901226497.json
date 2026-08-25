@@ -1,0 +1,50 @@
+{
+  "id": "1432929368901226497",
+  "tweets": [
+    {
+      "id": "1432929368901226497",
+      "date": "2021-09-01",
+      "datetime": "2021-09-01T04:52:38+00:00",
+      "likes": 326,
+      "rts": 60,
+      "text": "One of the highest leverage thing teams can do...\n\nIs stop trying to optimize for developers \"being busy\"\n\n...prepping work to give them\n\n...doing small group discovery upstream from their work\n\n...\"topping up\" every sprint (or quarter, or whatever)\n\nThe hardest part? ... 1/n",
+      "media": []
+    },
+    {
+      "id": "1432929375926718476",
+      "date": "2021-09-01",
+      "datetime": "2021-09-01T04:52:40+00:00",
+      "likes": 43,
+      "rts": 3,
+      "text": "...often the push to keep people \"loaded up\" comes from the engineering org itself. People want to feel useful. People want to have something to do\n\nOutput is rewarded.\n\nIf there is \"no work\", that is the product managers fault. People get grumpy\n\nSo how do you address this? 2/n",
+      "media": []
+    },
+    {
+      "id": "1432929377101094919",
+      "date": "2021-09-01",
+      "datetime": "2021-09-01T04:52:40+00:00",
+      "likes": 41,
+      "rts": 2,
+      "text": "For many teams, it may mean having a list of small things people are passionate about. Things that preserve optionality, and that are relatively quick and low risk\n\nWhen you need slack, you can draw from this list\n\nThis helps for the ppl who don't care for doing discovery\n\n3/n",
+      "media": []
+    },
+    {
+      "id": "1432929378975977473",
+      "date": "2021-09-01",
+      "datetime": "2021-09-01T04:52:41+00:00",
+      "likes": 76,
+      "rts": 4,
+      "text": "Another option is to normalize \"doing nothing\", which of course NEVER means doing nothing (because people aren't lazy).\n\nIt means normalizing doing self-directed work that feels valuable. This is uncomfortable at first, but can become commonplace\n\n4/n",
+      "media": []
+    },
+    {
+      "id": "1432929380305494018",
+      "date": "2021-09-01",
+      "datetime": "2021-09-01T04:52:41+00:00",
+      "likes": 78,
+      "rts": 5,
+      "text": "Finally, you have the big opportunity...making it OK to step away from keyboards for a while to focus on whatever needs to be focused on.\n\nResearch. Discovery. Pondering. Thinking.\n\nPairing with product managers and design to truly start together on new initiatives. 5/end",
+      "media": []
+    }
+  ]
+}

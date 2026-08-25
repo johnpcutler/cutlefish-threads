@@ -142,7 +142,7 @@ async function initThreads() {
     pickerEl.innerHTML = threadsInYear()
       .map(
         (t) => `<button type="button" data-id="${t.id}">
-          <span class="meta">${t.date} · ${t.n} tweets · ${t.likes.toLocaleString()} likes</span>
+          <span class="meta">${t.date} · ${t.n} tweets · ${t.likes.toLocaleString()} likes · ${t.rts.toLocaleString()} RTs</span>
           ${escapeHtml(t.excerpt)}
         </button>`
       )

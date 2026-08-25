@@ -316,7 +316,41 @@ a:hover {
 }
 
 .thread-reader {
+  position: relative;
   min-width: 0;
+  padding-left: 1.15rem;
+}
+
+.thread-reader:has(.post)::before {
+  content: "";
+  position: absolute;
+  left: 0.32rem;
+  top: 1.2rem;
+  bottom: 1.2rem;
+  width: 2px;
+  background: var(--line);
+}
+
+.thread-reader .post {
+  position: relative;
+  margin-bottom: 0.85rem;
+}
+
+.thread-reader .post:last-child {
+  margin-bottom: 0;
+}
+
+.thread-reader .post::before {
+  content: "";
+  position: absolute;
+  left: -1.07rem;
+  top: 1.15rem;
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 50%;
+  background: var(--paper);
+  border: 2px solid var(--ink);
+  z-index: 1;
 }
 
 @media (max-width: 840px) {

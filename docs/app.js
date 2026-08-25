@@ -180,8 +180,8 @@ async function initThreads() {
 
 async function initTweets() {
   const index = await loadJson("data/tweets-index.json");
-  const years = index.years;
-  let year = Number((index.default || "").split("-")[0] || years[years.length - 1]);
+  const years = index.years.slice().sort((a, b) => b - a);
+  let year = Number((index.default || "").split("-")[0] || years[0]);
   let month = Number((index.default || "").split("-")[1] || 1);
   const requested = hashValue();
   const match = requested.match(/^(\d{4})-(\d{2})$/);
@@ -190,34 +190,36 @@ async function initTweets() {
     month = Number(match[2]);
   }
 
-  const yearLabel = el("year-label");
-  const prevBtn = el("prev-year");
-  const nextBtn = el("next-year");
-  const grid = el("month-grid");
+  const yearEl = el("tweet-years");
+  const monthEl = el("month-list");
   const list = el("tweet-list");
   const sortRow = el("sort-row");
   let currentTweets = [];
   let sortBy = "date";
 
-  function yearIndex() {
-    return years.indexOf(year);
+  function monthsForYear() {
+    return index.calendar[String(year)] || [];
   }
 
-  function drawYear() {
-    yearLabel.textContent = String(year);
-    prevBtn.disabled = yearIndex() <= 0;
-    nextBtn.disabled = yearIndex() >= years.length - 1;
-    const months = index.calendar[String(year)] || [];
-    grid.innerHTML = months
+  function firstMonthWithPosts() {
+    const found = monthsForYear().findIndex((info) => info.count);
+    return found >= 0 ? found + 1 : 1;
+  }
+
+  function drawNav() {
+    yearEl.innerHTML = years
+      .map(
+        (y) =>
+          `<button type="button" data-year="${y}" class="${y === year ? "active" : ""}">${y}</button>`
+      )
+      .join("");
+    monthEl.innerHTML = monthsForYear()
       .map((info, i) => {
         const empty = !info.count;
         const active = !empty && i + 1 === month;
-        const classes = ["month-cell", empty ? "empty" : "", active ? "active" : ""]
-          .filter(Boolean)
-          .join(" ");
-        const count = empty ? "" : `<span class="count">${info.count}</span>`;
-        return `<button type="button" class="${classes}" data-month="${i + 1}" ${empty ? "disabled" : ""}>
-          <span class="name">${MONTHS[i]}</span>${count}
+        return `<button type="button" data-month="${i + 1}" class="${active ? "active" : ""}" ${empty ? "disabled" : ""}>
+          <span class="meta">${empty ? "No posts" : `${info.count} tweet${info.count === 1 ? "" : "s"}`}</span>
+          ${MONTHS[i]}
         </button>`;
       })
       .join("");
@@ -241,38 +243,25 @@ async function initTweets() {
     if (location.hash !== `#/${key}`) {
       history.replaceState(null, "", `#/${key}`);
     }
-    drawYear();
+    drawNav();
     list.innerHTML = `<p class="status">Loading…</p>`;
     const payload = await loadJson(`data/tweets-${key}.json`);
     currentTweets = payload.tweets;
     drawList();
+    const shell = list.closest(".thread-shell");
+    if (shell && (shell.getBoundingClientRect().top < 0 || window.innerWidth < 841)) {
+      shell.scrollIntoView({ block: "start" });
+    }
   }
 
-  prevBtn.addEventListener("click", () => {
-    const i = yearIndex();
-    if (i > 0) {
-      year = years[i - 1];
-      const months = index.calendar[String(year)] || [];
-      const first = months.findIndex((m) => m.count);
-      month = first >= 0 ? first + 1 : 1;
-      if (first >= 0) openMonth(year, month);
-      else drawYear();
-    }
+  yearEl.addEventListener("click", (event) => {
+    const btn = event.target.closest("button");
+    if (!btn) return;
+    year = Number(btn.dataset.year);
+    openMonth(year, firstMonthWithPosts());
   });
 
-  nextBtn.addEventListener("click", () => {
-    const i = yearIndex();
-    if (i < years.length - 1) {
-      year = years[i + 1];
-      const months = index.calendar[String(year)] || [];
-      const first = months.findIndex((m) => m.count);
-      month = first >= 0 ? first + 1 : 1;
-      if (first >= 0) openMonth(year, month);
-      else drawYear();
-    }
-  });
-
-  grid.addEventListener("click", (event) => {
+  monthEl.addEventListener("click", (event) => {
     const btn = event.target.closest("button");
     if (!btn || btn.disabled) return;
     openMonth(year, Number(btn.dataset.month));
@@ -290,11 +279,11 @@ async function initTweets() {
     if (next) openMonth(Number(next[1]), Number(next[2]));
   });
 
-  const cell = (index.calendar[String(year)] || [])[month - 1];
+  const cell = monthsForYear()[month - 1];
   if (cell && cell.count) {
     openMonth(year, month);
   } else {
-    drawYear();
+    drawNav();
     list.innerHTML = `<p class="status">Pick a month with posts.</p>`;
   }
 }

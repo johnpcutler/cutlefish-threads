@@ -7,7 +7,7 @@
   --accent: #1d4ed8;
   --live: #a8a29e;
   --serif: "Newsreader", "Iowan Old Style", Georgia, serif;
-  --sans: "Source Sans 3", var(--sans);
+  --sans: "Source Sans 3", ui-sans-serif, system-ui, sans-serif;
 }
 
 * {
@@ -87,75 +87,6 @@ a:hover {
   margin: 0 0 1.5rem;
 }
 
-.year-switch {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 1rem;
-  margin-bottom: 0.75rem;
-  font-family: var(--sans);
-}
-
-.year-switch button {
-  appearance: none;
-  border: 1px solid var(--line);
-  background: var(--paper);
-  color: var(--ink);
-  padding: 0.35rem 0.7rem;
-  font: inherit;
-  font-size: 0.8rem;
-  cursor: pointer;
-}
-
-.year-switch button:disabled {
-  color: var(--live);
-  cursor: default;
-}
-
-.year-label {
-  font-size: 1.4rem;
-  font-weight: 600;
-}
-
-.month-grid {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 0.4rem;
-  margin-bottom: 2rem;
-  font-family: var(--sans);
-}
-
-.month-cell {
-  appearance: none;
-  border: 1px solid var(--line);
-  background: var(--paper);
-  color: var(--ink);
-  padding: 0.7rem 0.55rem;
-  text-align: left;
-  cursor: pointer;
-  font: inherit;
-  font-size: 0.8rem;
-}
-
-.month-cell .name {
-  display: block;
-  font-weight: 600;
-}
-
-.month-cell .count {
-  color: var(--muted);
-}
-
-.month-cell.empty {
-  color: var(--live);
-  background: transparent;
-  cursor: default;
-}
-
-.month-cell.active {
-  border-color: var(--ink);
-}
-
 .thread-years {
   display: flex;
   flex-wrap: wrap;
@@ -203,6 +134,11 @@ a:hover {
 .picker button.active {
   border-left-color: var(--ink);
   background: var(--paper);
+}
+
+.picker button:disabled {
+  color: var(--live);
+  cursor: default;
 }
 
 .picker .meta {

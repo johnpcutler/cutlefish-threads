@@ -93,6 +93,7 @@ a:hover {
 
 .tweet-body {
   max-width: 42rem;
+  margin: 0 auto;
 }
 
 .thread-years {
@@ -159,6 +160,7 @@ a:hover {
 
 .sort-row {
   display: flex;
+  justify-content: center;
   gap: 0.75rem;
   margin-bottom: 1rem;
   font-family: var(--sans);
@@ -227,6 +229,7 @@ a:hover {
 .month-row {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   align-items: baseline;
   gap: 0.15rem 0.85rem;
 }

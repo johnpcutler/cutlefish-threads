@@ -84,9 +84,13 @@ async function renderIntro() {
   if (!box) return;
   const stats = await loadJson("data/stats.json");
   box.innerHTML = `
-    <p>My name is John Cutler. I started posting on Twitter in December of 2015. My last post was ${formatLongDate(stats.last)}. I wrote ${formatNumber(stats.tweets)} tweets (${formatNumber(stats.words)} words). ${formatNumber(stats.non_thread_replies)} were non-thread replies. ${formatNumber(stats.dms)} DMs with ${formatNumber(stats.dm_people)} people. Total likes ${formatNumber(stats.likes)}. Total retweets ${formatNumber(stats.retweets_received)}. I posted ${formatNumber(stats.pictures)} pictures, replied to ${formatNumber(stats.people_replied_to)} people, and ${formatNumber(stats.followers)} people followed along. And I met countless friends.</p>
-    <p>I'm currently writing a newsletter at <a href="https://cutlefish.substack.com/" rel="noreferrer">cutlefish.substack.com</a>.</p>
-    <p>Here are some of the more popular threads and standalone tweets.</p>
+    <div class="intro-banner"><img src="profile/banner.jpg" alt=""></div>
+    <img class="intro-avatar" src="profile/avatar.jpg" alt="John Cutler">
+    <div class="intro-copy">
+      <p>My name is John Cutler. I started posting on Twitter in December of 2015. My last post was ${formatLongDate(stats.last)}. I wrote ${formatNumber(stats.tweets)} tweets (${formatNumber(stats.words)} words). ${formatNumber(stats.non_thread_replies)} were non-thread replies. ${formatNumber(stats.dms)} DMs with ${formatNumber(stats.dm_people)} people. Total likes ${formatNumber(stats.likes)}. Total retweets ${formatNumber(stats.retweets_received)}. I posted ${formatNumber(stats.pictures)} pictures, replied to ${formatNumber(stats.people_replied_to)} people, and ${formatNumber(stats.followers)} people followed along. And I met countless friends.</p>
+      <p>I'm currently writing a newsletter at <a href="https://cutlefish.substack.com/" rel="noreferrer">cutlefish.substack.com</a>.</p>
+      <p>Here are some of the more popular threads and standalone tweets.</p>
+    </div>
   `;
 }
 

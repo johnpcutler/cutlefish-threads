@@ -79,13 +79,41 @@ a:hover {
 .intro {
   width: 100%;
   margin: 0 0 1.75rem;
-  padding: 1.15rem 1.25rem 1.2rem;
+  padding: 0 0 1.2rem;
   background: var(--paper);
   border: 1px solid var(--line);
   border-left: 3px solid var(--ink);
   font-family: var(--sans);
   font-size: 0.95rem;
   line-height: 1.5;
+}
+
+.intro-banner {
+  height: 7.5rem;
+  overflow: hidden;
+}
+
+.intro-banner img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.intro-avatar {
+  display: block;
+  width: 5.5rem;
+  height: 5.5rem;
+  margin: -2.5rem 0 0 1.15rem;
+  border: 3px solid var(--paper);
+  border-radius: 50%;
+  object-fit: cover;
+  background: var(--paper);
+}
+
+.intro-copy {
+  padding: 0.75rem 1.25rem 0;
 }
 
 .intro p {

@@ -91,7 +91,7 @@ async function loadJson(path) {
 
 async function initThreads() {
   const index = await loadJson("data/threads-index.json");
-  const years = [...new Set(index.threads.map((t) => t.year))].sort((a, b) => b - a);
+  const years = [...new Set(index.threads.map((t) => t.year))].sort((a, b) => a - b);
   const requested = hashValue();
   const requestedThread = index.threads.find((t) => t.id === requested);
   let year = (requestedThread || index.threads[0] || {}).year || years[0];
@@ -104,7 +104,7 @@ async function initThreads() {
     return index.threads
       .filter((t) => t.year === year)
       .slice()
-      .sort((a, b) => b.likes - a.likes);
+      .sort((a, b) => a.date.localeCompare(b.date) || a.id.localeCompare(b.id));
   }
 
   let loadToken = 0;
